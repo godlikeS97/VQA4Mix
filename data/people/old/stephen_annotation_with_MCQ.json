@@ -1,0 +1,1402 @@
+[
+    {
+        "id": 512533,
+        "file_name": "COCO_train2014_000000512533.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000512533.jpg",
+        "captions": [
+            "A group of people riding on the back of an elephant.",
+            "Four people ride on top of an elephant",
+            "there are many people that are riding a elephant ",
+            "A group of people riding on top of a large elephant.",
+            "Several people sit on top of an elephant as another person watches."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A single person sitting on top of a large camel.\n\nB) A group of people flying in a hot air balloon over a city.\n\nC) Several individuals standing next to a big bus in the countryside.\n\nD) A group of people riding on the back of an elephant."
+    },
+    {
+        "id": 315713,
+        "file_name": "COCO_train2014_000000315713.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000315713.jpg",
+        "captions": [
+            "A young girl about to bite into a hotdog dotted with mustard and ketchup",
+            "A girl makes a face as she eats a hot dog.",
+            "A little girl is attempting to eat a hot dog.",
+            "THERE IS A GIRL THAT IS EATING A HOT DOG ",
+            "A girl getting ready to bite into a hotdog "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A young boy holding a hamburger with mayonnaise and lettuce.\n\nB) An elderly woman preparing to eat a sandwich filled with cheese and ham.\n\nC) A young girl eating a slice of pizza with extra cheese and pepperoni.\n\nD) A young girl about to bite into a hotdog dotted with mustard and ketchup."
+    },
+    {
+        "id": 309791,
+        "file_name": "COCO_train2014_000000309791.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000309791.jpg",
+        "captions": [
+            "A street on the side of which shops are  decorated and flowering potted plants are kept.",
+            "An outdoor city market selling trees, shrubs, and flowers.",
+            "People at an outdoor market under a canopy.",
+            "a market area with plants and people standing by",
+            "Market stands in city center with Christmas decorations."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A busy marketplace with cars parked along the road where people are selling fruits.\n\nB) A quiet alley with a few bicycles and a statue in the middle.\n\nC) A street on the side of which shops are decorated and flowering potted plants are kept.\n\nD) An open field with a river running through and a bridge in the background."
+    },
+    {
+        "id": 496434,
+        "file_name": "COCO_train2014_000000496434.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000496434.jpg",
+        "captions": [
+            "A woman standing a tennis court holding a tennis racquet.",
+            "A tennis player playing tennis in a tennis court.",
+            "A woman on a tennis court serving the ball.",
+            "a woman looking up at a tennis ball",
+            "A woman reaches up  toward a tennis ball"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Question: Which of the following captions best describes the person in the image?\n\nA. A man is sitting in a basketball court with a tennis racket.\n\nB. A woman standing a tennis court holding a tennis racquet.\n\nC. A woman standing on a tennis court with a football.\n\nD. A person sitting in a tennis court holding a baseball bat."
+    },
+    {
+        "id": 567630,
+        "file_name": "COCO_train2014_000000567630.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000567630.jpg",
+        "captions": [
+            "A couple of girls with tennis rackets in a room.",
+            "A couple of girls holding tennis racquets and a ball.",
+            "Two young girls standing next to each other with racquets.",
+            "The two girls are getting ready to play tennis.",
+            "Two girlw holding tennis rackets in a room"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) Two boys holding badminton rackets outside on a field.\n\nB) A couple of girls with tennis rackets in a room.\n\nC) A group of girls playing with soccer balls in a gym.\n\nD) A single girl with a tennis racket in a crowded street."
+    },
+    {
+        "id": 535676,
+        "file_name": "COCO_train2014_000000535676.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000535676.jpg",
+        "captions": [
+            "Several motorcycles driving down the street under a traffic light.",
+            "Bikers are in a formation at a parade. ",
+            "A row of policemen on motorcycles in a St. Patrick's Day parade.",
+            "A group of motorcyclists ride down a street with Irish flags on the back of their bikes.",
+            "Several motorcycles are making their way down the road during a parade."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A single bicycle is parked on the sidewalk near a stop sign.\n\nB) Several motorcycles driving down the street under a traffic light.\n\nC) Cars are parked along the road while people walk on the sidewalk.\n\nD) A group of pedestrians crossing at a busy intersection with no vehicles in sight."
+    },
+    {
+        "id": 363028,
+        "file_name": "COCO_train2014_000000363028.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000363028.jpg",
+        "captions": [
+            "A man and woman standing next to each other.",
+            "a woman is using a phone and a man holds a blue cup",
+            "A woman is playing on her cellphone during a party.",
+            "A man in a black shirt is holding a blue solo cup. ",
+            "A young man is standing with a glass in his hands while a lady is looking at her cellphone."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA. A man and woman standing next to each other.\n\nB. Two children sitting in a park.\n\nC. A woman and a dog are walking on the beach.\n\nD. Man standing alone with no one around him."
+    },
+    {
+        "id": 398704,
+        "file_name": "COCO_train2014_000000398704.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000398704.jpg",
+        "captions": [
+            "Two young men in red shirts eating hotdogs.",
+            "Two men sitting on a bench eating hotdogs.",
+            "Two men sitting on a bench in a park eating.",
+            "The twin men are eating hot dogs outside together. ",
+            "2 men sit in a park eating hot dogs."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) Two young men in red shirts eating hotdogs.\n\nB) One old man in blue shirt is eating a sandwich.\n\nC) Three young women in red shirts are eating burgers.\n\nD) Two young men in red shirts eating a pizza."
+    },
+    {
+        "id": 421253,
+        "file_name": "COCO_train2014_000000421253.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000421253.jpg",
+        "captions": [
+            "The young girl is wrapping the gift for the recipient.",
+            "A young girl using scissors to cut paper.",
+            "A young girl cuts into a package with a pair of scissors.",
+            "A little girl cutting wrapping paper with scissors.",
+            "a kid with some pair of scissors cutting a piece of clothe"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) The old man is wrapping the gift for the recipient.\n\nB) The young girl is eating the gift for the recipient.\n\nC) The young girl is wrapping a fish for the dinner.\n\nD) The young girl is wrapping the gift for the recipient."
+    },
+    {
+        "id": 32906,
+        "file_name": "COCO_train2014_000000032906.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000032906.jpg",
+        "captions": [
+            "A group of people flying kites in a formation.",
+            "A group of people flying kites while standing in a field.",
+            "Nine people with kites in the sky forming a circle.",
+            "Several people on the grass near a waterfront flying kites in the sky.",
+            "Nine fliers participate as a group in a circular kite \"ballet\"."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A group of people flying kites in a formation.\n\nB) A single person holding a colorful kite while sitting.\n\nC) People are flying birds in a park together.\n\nD) A group of children playing with balloons near a lake."
+    },
+    {
+        "id": 483363,
+        "file_name": "COCO_train2014_000000483363.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000483363.jpg",
+        "captions": [
+            "One man is trying to throw the disc while the other tries to stop him.",
+            "a couple of people that is looking at a freez be",
+            "A man throws a Frisbee at a competition.",
+            "Two men on a court playing a game.",
+            "Two men that are on a court playing frisbee."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Question: Which of the following captions best describes the person in the image?\n\nA) One man is trying to throw the disc while the other tries to stop him.\n\nB) One person is sitting on a chair watching TV.\n\nC) Two men are playing soccer in a crowded field.\n\nD) A man is throwing a ball into the ocean."
+    },
+    {
+        "id": 577875,
+        "file_name": "COCO_train2014_000000577875.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000577875.jpg",
+        "captions": [
+            "A man sitting on a motorcycle on a cell phone with his helmet on the motorcycle.",
+            "A man on a motorcycle talking on his cell phone.",
+            "A man sitting on a moped and talking on a phone.",
+            "A man talking on a cellphone parked on a moped.",
+            "Man on motor scooter stopped while talking on a cell phone."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A man on a bicycle talking on a phone with his hat on the bicycle.\n\nB) A woman standing next to a car with a cellphone and a hat.\n\nC) A man sitting on a motorcycle on a cell phone with his helmet on the motorcycle.\n\nD) A man sitting in a car using his phone with his helmet on the ground."
+    },
+    {
+        "id": 331664,
+        "file_name": "COCO_train2014_000000331664.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000331664.jpg",
+        "captions": [
+            "A woman in a slightly messy bedroom smiling a the camera.",
+            "A woman taking a self photo in her living room.",
+            "A woman with necklace standing in a bedroom.",
+            "Woman with a necklace and a shelf of many collectibles",
+            "a close up of a person in a bed room with a shelf"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A man sitting in a tidy office looking away from the camera.\n\nB) A woman in a slightly messy bedroom smiling at the camera.\n\nC) A woman standing outside in a garden looking at a book.\n\nD) A girl smiling the messy room with camera in hand."
+    },
+    {
+        "id": 406004,
+        "file_name": "COCO_train2014_000000406004.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000406004.jpg",
+        "captions": [
+            "A man and woman are in the kitchen",
+            "there are two woman that are standing in the kitchen",
+            "A couple is making food in the kitchen together.",
+            "Two people stand next to each other in a kitchen.",
+            "two people in the kitchen standing on a wooden floor with couches "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Question: Which of the following captions best describes the person in the image?\n\nA) A man and a child is cooking in the garden.\n\nB) A woman and a dog are playing in the park.\n\nC) Two men are sitting in the living room.\n\nD) A man and woman are in the kitchen."
+    },
+    {
+        "id": 289866,
+        "file_name": "COCO_train2014_000000289866.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000289866.jpg",
+        "captions": [
+            "A man and woman talking to each other sitting down ",
+            "there is a man and a woman sitting in a living room talking",
+            "MAN AND WOMAN IN A LIVING ROOM CONVERSING WITH EACH OTHER",
+            "A man sitting on a chair next to a woman.",
+            "Two people relaxing in a living room setting with a large green parrot sitting on top of his cage."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A man and woman talking to each other sitting down\n\nB) Two men arguing loudly while standing\n\nC) A woman is sitting alone in a crowded room\n\nD) Man and woman standing far away, not speaking"
+    },
+    {
+        "id": 232001,
+        "file_name": "COCO_train2014_000000232001.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000232001.jpg",
+        "captions": [
+            "A man in gray and black holds up a small cell phone.",
+            "The young man sits cross legged displaying his cell phone.",
+            "a man in glasses showing a small phone",
+            "a man showing off his cell phone to someone sitting next to him ",
+            "A young man shows off an older cellphone. "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA. A woman in a green dress is using a large tablet.\n\nB. A man in red and blue is holding a baseball bat.\n\nC. A person quickly runs while holding a laptop.\n\nD. A man in gray and black holds up a small cell phone."
+    },
+    {
+        "id": 445192,
+        "file_name": "COCO_train2014_000000445192.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000445192.jpg",
+        "captions": [
+            "A man on a motorbike passing a truck.",
+            "A man on a motorcycle drives down a road, alongside a truck. ",
+            "a truck and motorcycle on a rural street",
+            "A motorcycle rider passes a truck on a narrow road.",
+            "A man on a motorcycle is passing another vehicle. "
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman walking beside a car.\n\nB) A man on a bicycle riding past a bus.\n\nC) A man on a motorbike passing a truck.\n\nD) A person is standing under the bridge."
+    },
+    {
+        "id": 439906,
+        "file_name": "COCO_train2014_000000439906.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000439906.jpg",
+        "captions": [
+            "a child at a table eating food ",
+            "A young boy eating out of a can.",
+            "A young child sits at the table and scoops food out of a can with a spoon.",
+            "A small boy sitting at a  table eating food",
+            "A boy in a yellow shirt sits in front of a plate of food."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) a child at a table eating food\n\nB) a dog under the table playing with a toy\n\nC) two children at a table eating pizza\n\nD) a child on the floor playing with food"
+    },
+    {
+        "id": 258649,
+        "file_name": "COCO_train2014_000000258649.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000258649.jpg",
+        "captions": [
+            "A woman standing at a counter using a blender.",
+            "A woman blending something green in a blender.",
+            "a happy woman playing with one of many blenders.",
+            "A woman mixes up a coffee like drink.",
+            "Lady in coffee shop mixing a beverage in a blender."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman standing at a counter using a blender.\n\nB) A man sitting on the floor reading a book.\n\nC) Woman at a table is making a food with the microwave.\n\nD) Several people are running through the park with a dog."
+    },
+    {
+        "id": 247397,
+        "file_name": "COCO_train2014_000000247397.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000247397.jpg",
+        "captions": [
+            "A girl on a skateboard goes up an incline in a skate park.",
+            "A girl rides a skateboard on a ramp while several people watch.",
+            "a skateboarder in a skate-park goes up a ramp",
+            "A girl skates up a ramp at a park amphitheater.",
+            "Girl on a skateboard in a skate park."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA. A boy on a bicycle rides down a ramp in the park.\n\nB. A girl with a skateboard is standing still on a flat surface.\n\nC. A girl on a skateboard goes up an incline in a skate park.\n\nD. A woman with rollerblades skates around a crowded street."
+    },
+    {
+        "id": 213731,
+        "file_name": "COCO_train2014_000000213731.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000213731.jpg",
+        "captions": [
+            "A FedEx truck sitting in the street with no driver",
+            "there is a small fed ex truck stopped at this street",
+            "A truck is sitting on the side of the road.",
+            "a small white truck is driving down the street",
+            "A FedEx truck parked on the street "
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA. A FedEx truck sitting in the street with no driver.\n\nB. A UPS van parked in the driveway with a delivery person visible.\n\nC. A FedEx bicycle is riding through a busy highway.\n\nD. A FedEx truck flying in the sky over the ocean."
+    },
+    {
+        "id": 211160,
+        "file_name": "COCO_train2014_000000211160.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000211160.jpg",
+        "captions": [
+            "A man opening up a big stainless steel oven.",
+            "A man operating a stainless steal pizza oven",
+            "there is a man in the kitchen taking pizzas out the oven",
+            "A person reaching into an industrial sized, stainless steel oven.",
+            "The man in the apron is taking a pizza from the oven. "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman closing a small wood oven.\n\nB) A man is cooking in a big kitchen with a red oven.\n\nC) A person is looking at a big silver oven near window.\n\nD) A man opening up a big stainless steel oven."
+    },
+    {
+        "id": 68159,
+        "file_name": "COCO_train2014_000000068159.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000068159.jpg",
+        "captions": [
+            "A group of young men fighting over a white frisbee.",
+            "A group of people are playing with a Frisbee.",
+            "A group of men playing frisbee with each other. ",
+            "A bunch of guys playing in a field with a disc.",
+            "A group of people playing with a Frisbee in the park."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A group of people playing with a red ball.\n\nB) Young men are fighting over a white football.\n\nC) A bunch of boys are running in a park with frisbees.\n\nD) A group of young men fighting over a white frisbee."
+    },
+    {
+        "id": 252069,
+        "file_name": "COCO_train2014_000000252069.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000252069.jpg",
+        "captions": [
+            "Men on a couch have their laptop computers.",
+            "The two men are sitting on the couch using their laptops together. ",
+            "Two young men are on their labtops sitting on a couch.",
+            "Two men sit on a couch and use their laptops while an older woman looks on.",
+            "Two guys on the couch looking at some laptops."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman on a chair holds a tablet device.\n\nB) Men on a couch has their computer laptops.\n\nC) Boys on a sofa are playing video games.\n\nD) Men on a couch have their laptop computers."
+    },
+    {
+        "id": 135989,
+        "file_name": "COCO_train2014_000000135989.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000135989.jpg",
+        "captions": [
+            "A man holding his nose while hunched over a toilet.",
+            "A man is holding his nose a he looks away from an outdoor toilet.",
+            "A man is standing over the toilet, apparently grossed out by its odor. ",
+            "A man in standing over a toilet plugging his nose.",
+            "A man holding his nose while bent over a portable toilet."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman standing in a kitchen while holding a spoon.\n\nB) A man sitting on a chair while reading a book.\n\nC) A man holding his nose while hunched over a toilet.\n\nD) A child playing with toys on the floor in a living room."
+    },
+    {
+        "id": 292522,
+        "file_name": "COCO_train2014_000000292522.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000292522.jpg",
+        "captions": [
+            "A man standing at players stance on tennis court.",
+            "A man in white jacket and black shorts on a grass tennis court.",
+            "a man holds a tennis racket on some turf",
+            "A tennis player preparing for an upcoming match.",
+            "A man stands with a tennis racket on turf."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman sits on the tennis court holding a racket.\n\nB) A player stands next to a basketball hoop on a field.\n\nC) A man standing at the stance of playing soccer on tennis court.\n\nD) A man standing at players stance on tennis court."
+    },
+    {
+        "id": 210079,
+        "file_name": "COCO_train2014_000000210079.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000210079.jpg",
+        "captions": [
+            "various vending trucks serve their patrons on a cloudy day",
+            "A parking lot has several food vans with people near them.",
+            "Woman in red dress standing in front of food bus.",
+            "A group of very large vehicles parked in a row under cloudy skies.",
+            "People visiting food trucks parked in a line on a wet day"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) \"A single ice cream cart is parked under the sunny sky.\"\n\nB) \"Several vending trucks parked on a rainy night with no people around.\"\n\nC) \"Vending machines cheerfully serving their customers in a busy market.\"\n\nD) \"Various vending trucks serve their patrons on a cloudy day.\""
+    },
+    {
+        "id": 385341,
+        "file_name": "COCO_train2014_000000385341.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000385341.jpg",
+        "captions": [
+            "Some people sitting on a couch holding some remotes.",
+            "Two people sitting on a coach playing with a WII game",
+            "a couple of people that are sitting down with wii remotes",
+            "A man and a woman that are sitting on a couch.",
+            "Two people sitting on a couch looking at something."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) Some people sitting on a couch holding some remotes.\n\nB) Several cats lounging on the sofa with some books.\n\nC) A group of people standing outside with no remotes.\n\nD) People on chairs with some remotes holding some."
+    },
+    {
+        "id": 554102,
+        "file_name": "COCO_train2014_000000554102.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000554102.jpg",
+        "captions": [
+            "A woman sitting in a chair making a funny face",
+            "a woman sticking out her tongue while holding a cell phone",
+            "A woman sticking her tongue out and doing the \"shocker\" hand sign.",
+            "The woman may be placing two fingers down her throat",
+            "A blonde woman throws up a hand gesture."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A man standing up and waving at the camera.\n\nB) A woman sitting in a chair making a funny face.\n\nC) Woman sit in chair making faces funny.\n\nD) A woman lying on the floor with a serious expression."
+    },
+    {
+        "id": 499545,
+        "file_name": "COCO_train2014_000000499545.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000499545.jpg",
+        "captions": [
+            "A couple of creepy statues sitting on a bench in a park at night.",
+            "It seems here something is really amazing with many things to see. \n",
+            "Two mannequins on a bench in the park",
+            "Statues sit on a bench at a park at night",
+            "Statues of two people sitting on park bench at night."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) Two statues in a park during the day, sitting on a chair inside a building.\n\nB) A single creepy statue standing on a bench in a garden at night.\n\nC) A couple of creepy statues flying over a bench in a park at night.\n\nD) A couple of creepy statues sitting on a bench in a park at night."
+    },
+    {
+        "id": 351298,
+        "file_name": "COCO_train2014_000000351298.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000351298.jpg",
+        "captions": [
+            "Two woman and a man sit atop a sculpture. ",
+            "a group of people sits on a motor bike ",
+            "Two women and a man are posing with a motorcycle.",
+            "Two woman and a man are on a sleek, black motorcycle.",
+            "The three people are posing for a picture together. "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "**Which of the following captions best describes the person in the image?**\n\nA) Three men and a woman climb a large tree.  \n\nB) A group of people stand beside a statue.  \n\nC) One person and two cats are on a big rock.  \n\nD) Two women and a man sit atop a sculpture."
+    },
+    {
+        "id": 225087,
+        "file_name": "COCO_train2014_000000225087.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000225087.jpg",
+        "captions": [
+            "A group of beautiful women holding a baby.",
+            "A group of women and a child posing for a picture.",
+            "A group of women and a child standing outside a hotel.",
+            "Five people on a balcony posing for a photo.",
+            "Four ladies are standing on a building walkway while one lady is holding a baby."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A group of beautiful women holding a baby.\n\nB) Several men holding a cat in a park.\n\nC) A group of beautiful women holds three babies.\n\nD) The women holding a baby are very happy group."
+    },
+    {
+        "id": 177775,
+        "file_name": "COCO_train2014_000000177775.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000177775.jpg",
+        "captions": [
+            "A man in a cap stands in a kitchen area near a white refrigerator.",
+            "A man stands in a large kitchen holding a coffee mug.",
+            "A man with a hat on in the kitchen. ",
+            "Man standing in a newly created kitchen with white refrigerator",
+            "Man in interesting clothing in an odd kitchen."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA. A woman wearing a hat sits next to a black refrigerator in a living room.\n\nB. A man in a cap stands in the bedroom near a white cupboard.\n\nC. A person with a cap is standing outside beside a refrigerator.\n\nD. A man in a cap stands in a kitchen area near a white refrigerator."
+    },
+    {
+        "id": 321132,
+        "file_name": "COCO_train2014_000000321132.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000321132.jpg",
+        "captions": [
+            "A man in a wet suit riding a surfboard in water.",
+            "A man laying on a surfboard  surfing in the surf.",
+            "A man riding a surfboard on top of a wave.",
+            "A man in a black wet-suit laying on a surfboard. ",
+            "A man in surfing in a swim suit."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman in a dry suit swimming with a dolphin in the ocean.\n\nB) A man riding a bicycle on a sunny beach.\n\nC) A man in a wet suit riding a surfboard in water.\n\nD) A child playing with a kite near the water."
+    },
+    {
+        "id": 38904,
+        "file_name": "COCO_train2014_000000038904.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000038904.jpg",
+        "captions": [
+            "A man sitting on a horse while traveling in a field. ",
+            "A man riding a brown horse on top of a beach.",
+            "The man is riding his horse outside on the dirt.",
+            "A cowboy wearing chaps and a hat rides his horse.",
+            "A man with a cowboy hat on riding a horse."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman standing beside a horse in a forest.\n\nB) A man sitting on a horse while traveling in a field.\n\nC) A child riding a bicycle through a crowded street.\n\nD) People sitting on a horse while watching a movie."
+    },
+    {
+        "id": 475635,
+        "file_name": "COCO_train2014_000000475635.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000475635.jpg",
+        "captions": [
+            "A man waits for a frisbee while standing on a beach with woman.",
+            "A young man and woman toss a frisbee on the beach.",
+            "A woman and a man playing on a beach with a flying disc. ",
+            "A beautiful young girl tosses a Frisbee to a young man on a beach.",
+            "A man catching a frisbee from a woman on a beach."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman throws a frisbee towards a dog on a forest trail.\n\nB) A man stands next to a frisbee while waiting for a bus with a group of people.\n\nC) A man waits for a frisbee while standing on a beach with woman.\n\nD) A person lies down on a sandy desert with a frisbee."
+    },
+    {
+        "id": 222439,
+        "file_name": "COCO_train2014_000000222439.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000222439.jpg",
+        "captions": [
+            "a baseball player standing next to a catcher and an umpire.",
+            "a baseball player with a hat holding a bat inside a stadium",
+            "Professional baseball player fixing his gloves before he bats.",
+            "Man in white baseball uniform standing at a baseball plate. ",
+            "a guy adjusting his gloves on a baseball game "
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A soccer player next to a referee and a coach.\n\nB) A baseball player standing next to a catcher and an umpire.\n\nC) A player standing beside a catcher with an umpire in the background of the field.\n\nD) Two baseball players running with an umpire chasing them."
+    },
+    {
+        "id": 6760,
+        "file_name": "COCO_train2014_000000006760.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000006760.jpg",
+        "captions": [
+            "A woman posing outside with a grilled hot dog.",
+            "A woman is posing with a hot dog and bun.",
+            "A woman standing with a hot dog in her hand.",
+            "The woman is holding a grilled hot dog.",
+            "A lady standing in a funny pose eating a hot dog."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A man standing inside with a cooked hamburger.\n\nB) A woman sitting inside with a grilled sandwich.\n\nC) A child holding a grilled hot dog outside.\n\nD) A woman posing outside with a grilled hot dog."
+    },
+    {
+        "id": 506075,
+        "file_name": "COCO_train2014_000000506075.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000506075.jpg",
+        "captions": [
+            "Two men happily playing Wii together in a living room",
+            "a couple of men holding Nintendo Wii game controllers.",
+            "Two men having a good time playing WII.",
+            "Two friends playing a game in a living room.",
+            "a couple of men playing a wii "
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) Two women playing happily PlayStation in a kitchen\n\nB) Two men happily playing Wii together in a living room\n\nC) A man enjoys playing Wii with a dog in the garden\n\nD) Two guys sadly playing Xbox alone in a bedroom"
+    },
+    {
+        "id": 278096,
+        "file_name": "COCO_train2014_000000278096.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000278096.jpg",
+        "captions": [
+            "A young woman talks on her cell phone",
+            "A woman using a cellphone at night near a building with a clock.",
+            "a close up of a person talking on a cell phone",
+            "A woman is talking on her phone next to a clock tower.",
+            "A girl that is sitting down with a cell phone."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "**Which of the following captions best describes the person in the image?**\n\nA) A young woman talks on her cell phone\n\nB) An elderly man is holding a laptop\n\nC) A young woman sits on a table with many phones\n\nD) A young girl is eating an ice cream while reading a book"
+    },
+    {
+        "id": 191159,
+        "file_name": "COCO_train2014_000000191159.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000191159.jpg",
+        "captions": [
+            "A woman standing in the ocean while a boy carries a surfboard in the background.",
+            "A woman standing in the shallow ocean water talking on a cell phone with a young boy in the water in the background.",
+            "A woman is standing in the ocean and talking on her phone.",
+            "A woman standing in shallow water with a boy behind her on a bodyboard.",
+            "A woman standing in the water on a beach on a cell phone."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A man sitting on the beach while a girl plays with a kite in the background.\n\nB) A woman lying on the sand while a dog runs beside the ocean.\n\nC) A woman standing in the ocean while a boy carries a surfboard in the background.\n\nD) Two boys standing in the water while a woman paddles a kayak nearby."
+    },
+    {
+        "id": 285851,
+        "file_name": "COCO_train2014_000000285851.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000285851.jpg",
+        "captions": [
+            "Black and white photograph of a person waking with an umbrella.",
+            "A person walking in the rain under an umbrella.",
+            "A person walks on a street under an umbrella.",
+            "A man walking with an umbrella toward the bus stop.",
+            "A man is holding an umbrella and walking down the street."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) Black and white photograph of a person walking with an umbrella.\n\nB) Color photograph of a person flying with an umbrella.\n\nC) Photograph of a group of people running with umbrellas in the park.\n\nD) Black and white photo of a person sitting with a guitar."
+    },
+    {
+        "id": 13670,
+        "file_name": "COCO_train2014_000000013670.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000013670.jpg",
+        "captions": [
+            "A group of young people playing a game of soft ball.",
+            "some girls playing a softball game with some people watching them",
+            "There is a soft ball game that is going on on the field",
+            "A girl dodging a softball on a field of play.",
+            "A girl in a green shirt and striped green socks playing softball."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A few elderly men are reading books in a quiet library.\n\nB) A group of young people playing a game of soft ball.\n\nC) A single child is sleeping under a tree in a park.\n\nD) Several adults are cooking dinner in a small kitchen."
+    },
+    {
+        "id": 150148,
+        "file_name": "COCO_train2014_000000150148.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000150148.jpg",
+        "captions": [
+            "A person sitting on a wall while talking on a cell phone.",
+            "A man sitting on a concrete fence in front of trees.",
+            "an image of a man on a bridge talking on a cellphone",
+            "A black and white photo of a man talking on his cell phone while sitting in a park.",
+            "A young person sits on a wall using a cell phone."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A person sitting on a wall while talking on a cell phone.\n\nB) Two people standing on a wall looking at the sunset.\n\nC) The person is laying on the ground and reading a book.\n\nD) Someone sit wall holding phone talking."
+    },
+    {
+        "id": 268094,
+        "file_name": "COCO_train2014_000000268094.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000268094.jpg",
+        "captions": [
+            "A child sitting on a skateboard on the road.",
+            "A child sitting on a skateboard on a road by some grass.",
+            "A young boy is riding his skateboard down a hill.",
+            "Small boy sitting on a moving skateboard as if it were a cart.",
+            "A photo of a little boy sitting on a skateboard."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A dog sleeping under a skateboard on the pavement.\n\nB) A child jumping over a skateboard on the grass.\n\nC) An adult standing with a skateboard in the park.\n\nD) A child sitting on a skateboard on the road."
+    },
+    {
+        "id": 503606,
+        "file_name": "COCO_train2014_000000503606.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000503606.jpg",
+        "captions": [
+            "A blue and white bus traveling in the middle of a road.",
+            "A street scene of a busing coming down the road and dark clouds in the sky.",
+            "A bus is traveling down the road through the city.",
+            "A bus is going down a street while the sky is cloudy.",
+            "a blue gray and silver bus its driver and some people"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A blue and white bus traveling in the middle of a road.\n\nB) A red and yellow truck parked beside a lake.\n\nC) An orange car flying above the trees.\n\nD) A blue and white bus floating in the ocean."
+    },
+    {
+        "id": 572801,
+        "file_name": "COCO_train2014_000000572801.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000572801.jpg",
+        "captions": [
+            "a truck is parked outside beside another truck",
+            "The front of a white truck with blue writings on it.",
+            "2 large trucks parked next to each other. ",
+            "A couple of deliver trucks parked next to each other.",
+            "Two Afghan Post buses parked side by side."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A car is flying in the sky next to a truck.\n\nB) The truck is parked inside a building with a bike.\n\nC) A truck is parked next to a bicycle on the road.\n\nD) A truck is parked outside beside another truck."
+    },
+    {
+        "id": 576931,
+        "file_name": "COCO_train2014_000000576931.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000576931.jpg",
+        "captions": [
+            "A group of young people standing next to each other in ski equipment.",
+            "Six down hill skiers posing together and smiling",
+            "A group of people are standing in the snow on skis.",
+            "A group of people on skis posing for a photo.",
+            "A group of skiers posing with their skis."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A group of young people standing next to each other in ski equipment.\n\nB) A single young person is skydiving in the desert with a parachute.\n\nC) Some old people sitting together in beach chairs under the sun.\n\nD) A group of children playing with toys inside a classroom."
+    },
+    {
+        "id": 66241,
+        "file_name": "COCO_train2014_000000066241.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000066241.jpg",
+        "captions": [
+            "A man looking for his luggage at the airport ",
+            "A man that is standing by luggage on the floor.",
+            "A young man in baggage claim is looking for his luggage. ",
+            "A young man that is standing by a big pile of luggage. ",
+            "A man talking on a cell phone standing next to some luggage."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman sitting on a bench with a suitcase.\n\nB) A man reading a book in the airport lounge.\n\nC) A man looking for his luggage at the airport.\n\nD) A person eating snacks at the airport gate."
+    },
+    {
+        "id": 308475,
+        "file_name": "COCO_train2014_000000308475.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000308475.jpg",
+        "captions": [
+            "A jetliner sitting on top of a tarmac with a staircase on it.",
+            "a large plane is sitting on a runway",
+            "This picture shows how big most passenger airplanes are.",
+            "An Air France passenger jet is parked on a tarmac.",
+            "An old air plane stopped at a tarmac for passengers to enter.\n"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Question: Which of the following captions best describes the person in the image?\n\nA) A helicopter landing in the middle of a forest with no stairs.\n\nB) A jetliner sitting on top of a tarmac with a staircase on it.\n\nC) A small boat floating on a lake with a ladder next to it.\n\nD) A train parked at a station with passengers boarding it."
+    },
+    {
+        "id": 262065,
+        "file_name": "COCO_train2014_000000262065.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000262065.jpg",
+        "captions": [
+            "A person sitting on a sandy beach on the water.",
+            "A man is sitting on the beach looking at the ocean. ",
+            "A person sits on top of his board on the beach facing the ocean. ",
+            "A man who is sitting on a beach looking at the ocean.",
+            "A person sitting at the edge of the surf in a wet suit. "
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A person sitting on a sandy beach on the water.\n\nB) A person flying a kite near a bustling city street.\n\nC) A group of people hiking in a dense forest at night.\n\nD) A person sits on a rocky mountain peak, surrounded by snow."
+    },
+    {
+        "id": 529260,
+        "file_name": "COCO_train2014_000000529260.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000529260.jpg",
+        "captions": [
+            "A hot dog with chili sitting on a table.",
+            "A chili dog sitting inside of a foam container.",
+            "There is a fruit slushie next to a very sloppy chili dog.",
+            "a nice made sandwich and ice cream besides it",
+            "A chili dog and a drink sitting on a table."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A hot dog with chili sitting on a table.  \nB) A slice of pizza with cheese on a plate.  \nC) A hot dog with chili sitting in a bowl.  \nD) A hot dog with ketchup and mustard on a table.  "
+    },
+    {
+        "id": 16273,
+        "file_name": "COCO_train2014_000000016273.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000016273.jpg",
+        "captions": [
+            "a group of people that are at a table",
+            "A group of people sitting at a table.",
+            "Several older women having a conversation at a wooden table.",
+            "A group of people are visiting around a dining room table. ",
+            "A group of women sit on the visible side of a long table with a fourth woman at the end."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) a single person sitting on a bench\n\nB) a group of animals around a tree\n\nC) a group of people that are at a table\n\nD) some people standing in a field"
+    },
+    {
+        "id": 50061,
+        "file_name": "COCO_train2014_000000050061.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000050061.jpg",
+        "captions": [
+            "Two guys in blue aprons cooking in the kitchen.",
+            "Two men prepare food in a commercial kitchen.",
+            "A couple of men that are standing in a kitchen.",
+            "A couple of guys are in the kitchen preparing. ",
+            "Two cooks in a kitchen preparing food for a meal."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) Two guys in blue aprons cooking in the kitchen.\n\nB) A man and a woman wearing red aprons in the living room.\n\nC) Two people in aprons blue making dinner in the garden.\n\nD) A group of chefs preparing a meal in a restaurant."
+    },
+    {
+        "id": 285526,
+        "file_name": "COCO_train2014_000000285526.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000285526.jpg",
+        "captions": [
+            "A surfer is surfing the waves in the ocean. ",
+            "A man that is standing on a surfboard in the water.",
+            "A man riding a wave on to of a surfboard.",
+            "A surfer in a black wet suit surfing in the ocean.",
+            "A surfboarding rides a new, medium sized wave."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A swimmer is swimming in the pool.\n\nB) A surfer is surfing the waves in the ocean.\n\nC) A person is skiing on the snow.\n\nD) A surfer is on the beach and eating the waves."
+    },
+    {
+        "id": 116316,
+        "file_name": "COCO_train2014_000000116316.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000116316.jpg",
+        "captions": [
+            "A partially cut pizza in a box on a bed with person sitting next to it.",
+            "A pizza in a box with several slices taken out of it.",
+            "Box full of pizza cut into different sized slices.",
+            "Most of a large pizza sits in a delivery box.",
+            "Pizza in bed is always fun but a bit dangerous for the linen."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "**Which of the following captions best describes the person in the image?**\n\nA) A whole pizza in a box on the floor with a dog sitting next to it.\n\nB) A pizza box on a table with person standing next to it.\n\nC) A partially cut pizza in a box on a bed with person sitting next to it.\n\nD) An empty pizza box on a chair with person lying next to it."
+    },
+    {
+        "id": 376490,
+        "file_name": "COCO_train2014_000000376490.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000376490.jpg",
+        "captions": [
+            "A man riding skis down a snow covered slope.",
+            "A skier skiing down a snowy ski slope.",
+            "A man is skiing in a snowy field.",
+            "A skier is taking a turn while in low formation on a slope.",
+            "A man is skiing quickly with his ski poles in hand on the top of a snowy crest. "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman flying a kite on a grassy hill.\n\nB) Man on a bicycle going up a rocky path.\n\nC) Skiing person down a hill with snow.\n\nD) A man riding skis down a snow covered slope."
+    },
+    {
+        "id": 144590,
+        "file_name": "COCO_train2014_000000144590.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000144590.jpg",
+        "captions": [
+            "A snowy mountain side with people skiing and snow boarding.",
+            "snow skiers at a lodge skiing along the country side",
+            "A group of people riding skis on top of a snow covered ski slope.",
+            "People skiing on a snow and icy covered mountain.",
+            "A group of skiers are on the snow near mountains."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Question: Which of the following captions best describes the scene in the image?\n\nA) A sunny beach with people surfing and building sand castles.\n\nB) A snowy mountain side with people having a picnic and flying kites.\n\nC) A rocky hillside with people hiking and bird watching.\n\nD) A snowy mountain side with people skiing and snow boarding."
+    },
+    {
+        "id": 137365,
+        "file_name": "COCO_train2014_000000137365.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000137365.jpg",
+        "captions": [
+            "A child holds a piece of pizza up to her face.",
+            "A cute little girl holding up a big piece of pizza.",
+            "A young girl is holding up a huge slice of pizza.",
+            "A child holding a large slice of cheese pizza.",
+            "a small girl eating a large piece of pizza."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A child holds a piece of pizza up to her face.\n\nB) A boy is eating a hamburger in a restaurant.\n\nC) An adult is dancing on the street with pizza in hand.\n\nD) The girl have a sandwich in front of her face."
+    },
+    {
+        "id": 178682,
+        "file_name": "COCO_train2014_000000178682.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000178682.jpg",
+        "captions": [
+            "a girl is giving a girl a cell phone ",
+            "two people checking something out on a smartphone",
+            "a woman is handing her phone to another woman\n",
+            "A woman showing another woman a cell phone.",
+            "A woman wearing a short blue skirt sitting on a bench."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman is taking a selfie with a boy.\n\nB) A girl is giving a girl a cell phone.\n\nC) Two girls are holding a book.\n\nD) A girl is receiving a box from a girl."
+    },
+    {
+        "id": 194738,
+        "file_name": "COCO_train2014_000000194738.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000194738.jpg",
+        "captions": [
+            "The man looks surprised as the girl lays the food on his plate.",
+            "A man with a surprised look on his face in a restaurant seated next to other people. ",
+            "An older man with a surprised look on his face at a table, while a young woman served his food.",
+            "A fat, bald man is happily surprised by a tiny fruit pancake.",
+            "Guy acting surprised as the waitress places a food item on his plate"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) The man looks surprised as the girl lays the food on his plate.\n\nB) The woman looks shocked as the boy places a book on her table.\n\nC) The man is happy because the girl is dancing in the room.\n\nD) The girl is surprised while the man is putting food in his mouth."
+    },
+    {
+        "id": 282566,
+        "file_name": "COCO_train2014_000000282566.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000282566.jpg",
+        "captions": [
+            "A little boy holding a colorful light while digging into a toilet.",
+            "a child in playing with the water in a toilet",
+            "A boy is holding a light up toy while looking in a toilet.",
+            "A small toddler placing his hand inside a toilet bowl.",
+            "A toddler reaches into a toilet while holding a toy with lights."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A little boy holding a colorful light while digging into a toilet.\n\nB) A young girl playing with a bright toy in the kitchen.\n\nC) A toddler holding a dull object next to a bathtub.\n\nD) An adult fixing a sink with a flashlight in hand."
+    },
+    {
+        "id": 539941,
+        "file_name": "COCO_train2014_000000539941.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000539941.jpg",
+        "captions": [
+            "A pepperoni pizza sitting on a cutting board on a kitchen table.",
+            "Two wooden boards serving pizza pies to a table.",
+            "Two large pizzas on wooden pizza platters on a table.",
+            "Two home made pizzas set on wooden serving platters.",
+            "A slightly pair of cooked  pizzas sit on a wooden platter on a wooden table."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A pizza with mushrooms and olives sits on a dining table in a restaurant.\n\nB) Pizza pepperoni on the floor near the kitchen.\n\nC) A pepperoni pizza sitting on a cutting board on a kitchen table.\n\nD) A cheese pizza laying on a wooden plank in the living room."
+    },
+    {
+        "id": 67792,
+        "file_name": "COCO_train2014_000000067792.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000067792.jpg",
+        "captions": [
+            "This man is standing near a traffic light.",
+            "a man with a hat standing beneath a street light",
+            "Black and white photograph of man standing by a lamp post.",
+            "A man standing next to a walk/don't walk sign",
+            "A black and whit photo of a man at a cross walk."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) The woman is sitting next to a stop sign.\n\nB) This man standing near a lamp post.\n\nC) A child is running under the streetlight.\n\nD) This man is standing near a traffic light."
+    },
+    {
+        "id": 84784,
+        "file_name": "COCO_train2014_000000084784.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000084784.jpg",
+        "captions": [
+            "People are standing by a train moving along tracks.",
+            "The train is traveling down the railroad tracks. ",
+            "A passenger train on a railway platform with wires above it and people standing below.",
+            "a blue train moves along an elevated track",
+            "A light rail train leaving the station at dusk."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) People are sitting near a bus flying over the road.\n\nB) A train is standing still on the tracks with no people around.\n\nC) People are standing by a train moving along tracks.\n\nD) The people is walking in the park beside a bicycle."
+    },
+    {
+        "id": 22427,
+        "file_name": "COCO_train2014_000000022427.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000022427.jpg",
+        "captions": [
+            "A man walking a dog on the side walk.",
+            "A person on a skateboard walking a dog.",
+            "A dog walking next to a man riding a skateboard.",
+            "A man carrying a satchel rides a skateboard alongside his dog.",
+            "A black and white candid of a man on his skateboard walking his dog."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A dog walking a man on the street side.\n\nB) A man walking a dog on the side walk.\n\nC) A person running with a cat in the park.\n\nD) Two men standing with a dog in the backyard."
+    },
+    {
+        "id": 34283,
+        "file_name": "COCO_train2014_000000034283.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000034283.jpg",
+        "captions": [
+            "A group of people flying a kite over a green field.",
+            "Several people standing in the grass watching a kite being flown near the water. ",
+            "there is a group of people standing in a field flying a kite",
+            "a group of people flying a kite in the air. ",
+            "A group of people watching a person ride a para sail."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "**Which of the following captions best describes the person in the image?**\n\nA) A group of people flying a kite over a green field.\n\nB) A single person flying a kite over a sandy beach.\n\nC) A group of people are flying kites with red color in the city park.\n\nD) Some people are flying a kite under a blue ocean."
+    },
+    {
+        "id": 581396,
+        "file_name": "COCO_train2014_000000581396.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000581396.jpg",
+        "captions": [
+            "A man holding a camera standing in front of a bathroom mirror.",
+            "A man is pointing a digital camera at himself in a bathroom mirror",
+            "a person taking a photo in a mirror",
+            "a man standing up holding a black camera",
+            "a gentleman in pajamas taking a selfie with his camera "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A boy taking a picture with his smartphone in a kitchen.\n\nB) Someone standing in a bedroom with a book, holding it awkwardly.\n\nC) A woman holding a camera sitting on a chair in a garden.\n\nD) A man holding a camera standing in front of a bathroom mirror."
+    },
+    {
+        "id": 146654,
+        "file_name": "COCO_train2014_000000146654.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000146654.jpg",
+        "captions": [
+            "a man holding a skating board and posing",
+            "a man standing at sunset with his surfboard",
+            "The man is holding his surfboard upright beside him. ",
+            "A man posing with his surf board in the sunset.",
+            "a male surfer in a black shirt is holding a surf board"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A boy sitting on a skateboard and smiling.\n\nB) A woman carrying a shopping bag and walking.\n\nC) A man holding a skating board and posing.\n\nD) A person is standing with a bicycle in the park."
+    },
+    {
+        "id": 12418,
+        "file_name": "COCO_train2014_000000012418.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000012418.jpg",
+        "captions": [
+            "A busy street with shops and a person carting an umbrella.",
+            "A woman with a black umbrella stands on a rainy street.",
+            "A woman walks in the street in the rain.",
+            "A lady walking with an umbrella during the day on a rainy day.",
+            "A Greek-language signpost on a city street in the rain."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A quiet street with no shops and a person holding a balloon.\n\nB) A busy street with shops and a person carting an umbrella.\n\nC) A busy street with bicycles and a person flying a kite.\n\nD) A crowded street with stores and a person selling a newspaper."
+    },
+    {
+        "id": 239205,
+        "file_name": "COCO_train2014_000000239205.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000239205.jpg",
+        "captions": [
+            "A man riding a snowboard down a snow covered slope.",
+            "A person skating on a slope with 'Nokia' banner behind",
+            "A person on a snowboard doing stunts by a sign.",
+            "A snow boarder going down a slope at night time",
+            "A person riding a snowboard down a ramp."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A man riding a snowboard down a snow covered slope.\n\nB) A woman riding a bicycle on a sunny beach.\n\nC) A snowboarder flying through the sky with no snow around.\n\nD) A person skateboarding down a snowy hill."
+    },
+    {
+        "id": 236673,
+        "file_name": "COCO_train2014_000000236673.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000236673.jpg",
+        "captions": [
+            "a lady that is next to a brown horse",
+            "A woman in a bright vest leads a horse from a stable.",
+            "The woman is guiding the brown horse out of the stables.",
+            "A smiling woman in a safety vest and equestrian gear holding the bridle of a saddled horse by a stable ",
+            "Woman with her horse next to a stable "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A man standing near a black cow.\n\nB) The woman is riding a brown horse next to her.\n\nC) Beside a horse brown, there is a girl.\n\nD) A lady that is next to a brown horse."
+    },
+    {
+        "id": 514435,
+        "file_name": "COCO_train2014_000000514435.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000514435.jpg",
+        "captions": [
+            "A woman holding a tray of donuts next to another woman holding a tray of donuts.",
+            "A couple of woman with some trays of food.",
+            "Two women holding up trays filled with doughnuts.",
+            "two people holding trays of doughnuts near one another ",
+            "Two women holding trays of donuts in an office"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A man is carrying a basket of fruits while another person stands beside him with a cake.\n\nB) A woman holding a tray of donuts next to another woman holding a tray of donuts.\n\nC) A girl is holding a plate of cupcakes and another girl is holding a plate of cookies.\n\nD) Two women stand with trays, one has cookies and other has sandwiches."
+    },
+    {
+        "id": 292042,
+        "file_name": "COCO_train2014_000000292042.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000292042.jpg",
+        "captions": [
+            "A laughing woman in a field holds a frisbee.",
+            "A smiling woman in a grey jacket playing Frisbee.",
+            "A woman in the park holding a frisbee. ",
+            "A girl playing Frisbee in a park on the grass.  ",
+            "A smiling girl playing frisbee in a park."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A smiling man in a park throws a frisbee.\n\nB) A woman with a serious expression stands in the garden with a ball.\n\nC) A laughing woman in a room holds a frisbee.\n\nD) A laughing woman in a field holds a frisbee."
+    },
+    {
+        "id": 130624,
+        "file_name": "COCO_train2014_000000130624.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000130624.jpg",
+        "captions": [
+            "A group of people sitting at a table.",
+            "a number of people at a table with food ",
+            "Several people sitting to eat at a restaurant with a lady holding a cellphone in the foreground.",
+            "A large group of young people sit around a table with food on it. ",
+            "Group of people sitting around a table with bowls of food in middle"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Question: Which of the following captions best describes the person in the image?\n\nA) A person sitting alone on a mountain.\n\nB) A group of dogs playing in a park.\n\nC) People standing under a tree with a dog.\n\nD) A group of people sitting at a table."
+    },
+    {
+        "id": 315083,
+        "file_name": "COCO_train2014_000000315083.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000315083.jpg",
+        "captions": [
+            "A woman is holding a bunch of bananas.",
+            "A woman holding a bunch of small bananas ",
+            "A woman holding a bunch of small bananas.",
+            "a woman holding a couple of bananas in her hand",
+            "a woman holds a bundle of bananas "
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A man is holding a single banana.\n\nB) A woman is holding a basket of apples.\n\nC) A woman is holding a bunch of bananas.\n\nD) A woman holding bananas a few."
+    },
+    {
+        "id": 322971,
+        "file_name": "COCO_train2014_000000322971.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000322971.jpg",
+        "captions": [
+            "A man is skateboarding down a street. ",
+            "A skate boarder cruising down the street on a long board",
+            "A young man on a skateboard in a street.",
+            "A person rides a skateboard down a street. ",
+            "A person is doing skateboard tricks on the road."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A man is skateboarding down a hill with a dog.\n\nB) A person is running swiftly across a crowded street.\n\nC) A man is skateboarding down a street.\n\nD) A woman is skating in the park with friends."
+    },
+    {
+        "id": 525790,
+        "file_name": "COCO_train2014_000000525790.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000525790.jpg",
+        "captions": [
+            "A young child riding a wave on top of a board.",
+            "A child riding a skateboard in the water.",
+            "A small child on top of a surfboard riding a wave.",
+            "A young girl on a surfboard riding a wave.",
+            "A little girl that is standing on a surfboard in the water."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA. A toddler playing in a pool with a floatie.\n\nB. A young child riding a wave on top of a board.\n\nC. A teenager lounging on the beach with a sandcastle.\n\nD. An adult surfing the waves with a kite."
+    },
+    {
+        "id": 168083,
+        "file_name": "COCO_train2014_000000168083.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000168083.jpg",
+        "captions": [
+            "A male taking a picture with an old Polaroid while a female brushes her teeth.",
+            "Two people are taking a picture with toothbrushes in their mouth.",
+            "A man holding a camera standing next to a woman brushing her teeth.",
+            "two individuals standing in front of a mirror, one brushing her teeth",
+            "A woman eating and a man take a picture"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A male taking a picture with an old Polaroid while a female brushes her teeth.\n\nB) A woman is painting a picture while a man reads a book.\n\nC) A male is holding a new digital camera and a female is sleeping.\n\nD) A male taking a photo and a female cooking in the kitchen."
+    },
+    {
+        "id": 388297,
+        "file_name": "COCO_train2014_000000388297.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000388297.jpg",
+        "captions": [
+            "A man standing on a beach holding a black and red kite.",
+            "man holding his battle kite at the beach",
+            "A man on a beach with a black and red kite",
+            "A person holding a kite on a beach",
+            "A man holding a kite on the beach."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA. A man standing on a beach holding a black and red kite.\n\nB. A woman sitting in a park with a colorful kite.\n\nC. A child on a mountain holding a blue balloon.\n\nD. A man flying a purple kite in a crowded city street."
+    },
+    {
+        "id": 522947,
+        "file_name": "COCO_train2014_000000522947.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000522947.jpg",
+        "captions": [
+            "Two older men standing over a birthday cake with lit candles.",
+            "two men in suits and ties enjoy a birthday cake",
+            "Two men in suits holding up chocolate cake with lit candles. ",
+            "Two men in suits are carrying a cake with candles on it.",
+            "Two men in suits are holding a lit birthday cake."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA. Two young boys sitting next to a pie with unlit candles.\n\nB. A man and a woman standing beside a cake without candles.\n\nC. Three elderly gentlemen watching a cake with sparklers.\n\nD. Two older men standing over a birthday cake with lit candles."
+    },
+    {
+        "id": 172233,
+        "file_name": "COCO_train2014_000000172233.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000172233.jpg",
+        "captions": [
+            "A man that is holding a kite in the air.",
+            "A man holding a kite ready to fly it ",
+            "A man adjusting a kite near a bench in the field",
+            "A man holding an orange kite on top of a grass covered field.",
+            "a man holds a kite above his head "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman is flying a kite in the water.\n\nB) A man holding an umbrella in the sky.\n\nC) A person that holding a balloon in the air.\n\nD) A man that is holding a kite in the air."
+    },
+    {
+        "id": 431566,
+        "file_name": "COCO_train2014_000000431566.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000431566.jpg",
+        "captions": [
+            "A tennis player hitting the ball with her tennis racket.",
+            "A MALE WITH A YELLOW SHIRT AND WHITE SHORTS PLAYING A GAME OF TENNIS ",
+            "a person throwing up the tennis ball to serve it",
+            "A boy is on a tennis court and is reaching up to hit a ball.",
+            "A person serving a ball during a tennis game."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A soccer player kicking the ball into the goal with his hockey stick.\n\nB) A tennis player throws the ball with her tennis racketing.\n\nC) A woman dancing with a tennis ball on the floor.\n\nD) A tennis player hitting the ball with her tennis racket."
+    },
+    {
+        "id": 196672,
+        "file_name": "COCO_train2014_000000196672.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000196672.jpg",
+        "captions": [
+            "A woman and two babies are in a swimming pool.",
+            "a baby sitting in a little inflatable boat in the pool ",
+            "A woman and children that are in a pool.",
+            "a woman and two babies swim in a pool",
+            "A mother and two children swimming in the pool with a raft."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A man and three children are on a beach.\n\nB) A woman and a baby are in a swimming pool.\n\nC) A woman and two babies are in a swimming pool.\n\nD) Two women and a baby are at the park."
+    },
+    {
+        "id": 220250,
+        "file_name": "COCO_train2014_000000220250.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000220250.jpg",
+        "captions": [
+            "A person is eating off a tray table that has a fake keyboard and cell phone attached.",
+            "A tray with a coffee cup, utensils and the use of a phone on docking station with a portable keyboard.",
+            "This is a tray table with a phone and keyboard on it.",
+            "photo of a tray with a phone and keyboard",
+            "A computer desk with a cell phone charging and a computer keyboard."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A person is using a laptop and talking on a real phone while sitting at a desk.\n\nB) A person is sitting on a chair, looking at a computer screen with a keyboard and a phone.\n\nC) Someone is eating a meal with a tray that has a computer and a real phone on it.\n\nD) A person is eating off a tray table that has a fake keyboard and cell phone attached."
+    },
+    {
+        "id": 556067,
+        "file_name": "COCO_train2014_000000556067.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000556067.jpg",
+        "captions": [
+            "A bunch of stuffed animals in a room.",
+            "Teddy bears and hats for sale in a flea market booth.",
+            "there are many stuffed animals that are hanging at the top",
+            "Several teddy bears of different colors are being displayed.",
+            "We are looking at a display of prizes at a carnival game."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A group of people holding stuffed animals in a park.\n\nB) A room with a single large teddy bear sitting on the chair.\n\nC) A bunch of stuffed animals in a room.\n\nD) A pile of books and toys scattered in the living room."
+    },
+    {
+        "id": 316060,
+        "file_name": "COCO_train2014_000000316060.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000316060.jpg",
+        "captions": [
+            "A man is smiling because he just won an award.",
+            "a man that has a suite and a tie on",
+            "A man with a suit and tie smiling and looking to his left.",
+            "A man smiling while wearing a black jacket and a neck tie.",
+            "A smiling man in a suit stares away."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman is laughing because she lost a contest.\n\nB) A man is frowning because he dropped his phone.\n\nC) A child is crying because he didn't get a toy.\n\nD) A man is smiling because he just won an award."
+    },
+    {
+        "id": 455776,
+        "file_name": "COCO_train2014_000000455776.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000455776.jpg",
+        "captions": [
+            "A man standing on top of a base wearing a catchers mitt.",
+            "Young baseball player prepares to make a catch while tagging the base",
+            "A young boy is preparing to catch a baseball.",
+            "The baseball player is awaiting the incoming ball.",
+            "A young boy catching a baseball during a baseball game."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman sitting on top of a rock wearing a baseball cap.\n\nB) A man standing next to a tree wearing a catchers glove.\n\nC) A person laying at the ground with a catchers mitt.\n\nD) A man standing on top of a base wearing a catchers mitt."
+    },
+    {
+        "id": 277050,
+        "file_name": "COCO_train2014_000000277050.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000277050.jpg",
+        "captions": [
+            "A young lady is looking on while petting an Owl. ",
+            "Animal keeper with owl perched on one arm.",
+            "A woman holding and petting an owl on a lush green field.",
+            "A woman holding an owl on her arm",
+            "a woman outside holding a small owl on her arm"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A young lady is looking on while petting an Owl.\n\nB) An old man is gazing at a cat with admiration.\n\nC) A young lady is petting a dog while flying.\n\nD) A boy is staring at a parrot on the ground."
+    },
+    {
+        "id": 410152,
+        "file_name": "COCO_train2014_000000410152.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000410152.jpg",
+        "captions": [
+            "A train that is by some houses in the day.",
+            "A European city sidewalk with blue commuter trains passing each other",
+            "a blue subway train in the middle of a city",
+            "A crowd of people standing next to a blue commuter train.",
+            "A blue color tram running through a city street"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A car that is driving by some trees at night.\n\nB) A train that is by some houses in the day.\n\nC) A train that floating above a city and moon.\n\nD) A train that is under the ocean with fishes."
+    },
+    {
+        "id": 386408,
+        "file_name": "COCO_train2014_000000386408.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000386408.jpg",
+        "captions": [
+            "Several men who are riding on skateboards in the street.",
+            "A young boy riding a skateboard on a street corner.",
+            "a young boy stands on the corner of the street",
+            "A boy is on a skateboard at a street corner",
+            "Two boys on skateboards skating down the street."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) Several men who are riding on skateboards in the street.\n\nB) A group of women standing with bicycles in the park.\n\nC) Many people sitting on benches near a lake with dogs.\n\nD) A few men are riding horses in the countryside."
+    },
+    {
+        "id": 348279,
+        "file_name": "COCO_train2014_000000348279.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000348279.jpg",
+        "captions": [
+            "Infant child in a business suit looking to it's left.",
+            "A dark skinned baby wearing a striped blue suit with a striped blue tie.",
+            "A young child wearing a stripe vest and blue tie.",
+            "The baby is dressed in a suit and tie. ",
+            "A baby boy with tie and black and blue striped blazer"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) Infant child in a business suit looking to its left.\n\nB) Adult man wearing a business suit and looking to the right.\n\nC) Infant child wearing a casual outfit looking forward.\n\nD) Baby girl in a dress looking to its right."
+    },
+    {
+        "id": 242453,
+        "file_name": "COCO_train2014_000000242453.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000242453.jpg",
+        "captions": [
+            "a softball player catching a soft ball at a base with a glove",
+            "A female baseball game is in full swing as a player catches the ball at plate.",
+            "A softball game in progress with one player about to catch the ball.",
+            "A catcher on a softball team is preparing to catch a ball.",
+            "a baseball player catching a ball with a mitt on a baseball diamond"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A softball player catching a softball at a base with a glove.\n\nB) A soccer player running with a ball and kicking it towards the goal.\n\nC) A baseball player hitting a home run while standing on the pitcher's mound.\n\nD) A softball player holding a bat and swinging at a football near the base."
+    },
+    {
+        "id": 62455,
+        "file_name": "COCO_train2014_000000062455.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000062455.jpg",
+        "captions": [
+            "Two pretty women and a man holding Nintendo Wii controllers.",
+            "A group of people on a couch looking at remotes",
+            "a group of friends, two girls and a man, looking at a wiimote.",
+            "Three people sitting down and holding Wii controllers.",
+            "two women and a man looking at two video game controllers"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the persons in the image?\n\nA) Two pretty women and a man holding Nintendo Wii controllers.\n\nB) Three men in suits playing with Xbox controllers.\n\nC) A woman and two men holding PlayStation remotes.\n\nD) Two women and a man sitting on a couch with no controllers in sight."
+    },
+    {
+        "id": 157237,
+        "file_name": "COCO_train2014_000000157237.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000157237.jpg",
+        "captions": [
+            "A professional photograph of a baby wearing a tie.",
+            "A baby is wearing a candy tie and is sitting in Coca-Cola crate.",
+            "Baby with tie in Coca Cola container and wooden background",
+            "A baby with a tie sitting in a Coca Cola box.",
+            "A baby wearing a tie sitting in an old fashioned wooden box."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "**Which of the following captions best describes the person in the image?**\n\nA) A professional photograph of a baby wearing a tie.\n\nB) A blurry photo of a dog with a hat on.\n\nC) An amateur snapshot of an adult with a scarf.\n\nD) Picture of a child with a tie in the forest."
+    },
+    {
+        "id": 411007,
+        "file_name": "COCO_train2014_000000411007.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000411007.jpg",
+        "captions": [
+            "An older man is standing with a cell phone.",
+            "An Asian man with a smart phone in a courtyard.",
+            "An older man is holding a cell phone.",
+            "A man in a blue shirt holding a cell phone.",
+            "A man in blue shirt holding a cellphone while standing by a yellow wall."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A young boy is sitting with a laptop.\n\nB) An older man is standing with a cell phone.\n\nC) A woman is walking under the rain with an umbrella.\n\nD) An older man holding a big book."
+    },
+    {
+        "id": 293386,
+        "file_name": "COCO_train2014_000000293386.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000293386.jpg",
+        "captions": [
+            "A man in yellow vest looking at cellphone on a street.",
+            "a man standing on the road holding his cell phone",
+            "a person on a city street operating a cell phone",
+            "A person in a vest standing in a parking lot looking at his cellphone.",
+            "A man wearing a cap, and neon green vest holds up a mobile phone."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A woman in a red jacket reading a book on a bench.\n\nB) A man in yellow vest looking at cellphone on a street.\n\nC) A man wearing a green jacket is walking with a dog.\n\nD) A person standing in the middle of the road holding a newspaper."
+    },
+    {
+        "id": 580620,
+        "file_name": "COCO_train2014_000000580620.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000580620.jpg",
+        "captions": [
+            "A mirror mounted to a wall reflecting a bed under a map of Australia.",
+            "a bedroom with a bed inside of it ",
+            "A bedroom mirror reflecting an image of a bed with a cat sleeping on top.",
+            "A cat stretched out asleep on a child's bed.",
+            "A cat is taking a nap on someone's bed."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A map of Africa hanging above a chair seen in a mirror.\n\nB) A wall with a painting of a landscape and a sofa reflected in a window.\n\nC) A mirror on the floor showing a table with a globe next to it.\n\nD) A mirror mounted to a wall reflecting a bed under a map of Australia."
+    },
+    {
+        "id": 126489,
+        "file_name": "COCO_train2014_000000126489.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000126489.jpg",
+        "captions": [
+            "People walking near a church surrounded by other buildings.",
+            "People on a wide bricked path with a clock on a building in the distance.",
+            "There is an old tower building at the end of a street",
+            "A city street with a church steeple in the background",
+            "A street scene with a steeple and clock tower in the background."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) People walking near a church surrounded by other buildings.\n\nB) A single person stands alone in a field with no buildings around.\n\nC) People sitting inside a church surrounded by cars and traffic lights.\n\nD) Two cats playing near a large river with boats in the background."
+    },
+    {
+        "id": 189943,
+        "file_name": "COCO_train2014_000000189943.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000189943.jpg",
+        "captions": [
+            "A person jumping up high in the air from a ramp.",
+            "A person engaging in a sport including a snowy ramp. ",
+            "A snow boarder high in the air at night.",
+            "a person jumping a snow board in the air ",
+            "A ski board has just jumped the ramp and is high in the air. "
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the person in the image?\n\nA) A person walking slowly on a flat surface.\n\nB) Someone standing still beside a tree.\n\nC) A person jumping up high in the air from a ramp.\n\nD) A person fly over a sea in the sky."
+    }
+]

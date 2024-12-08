@@ -1,0 +1,1602 @@
+[
+    {
+        "id": 140360,
+        "file_name": "COCO_train2014_000000140360.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000140360.jpg",
+        "reference_caption": [
+            "a black cat getting some water out of a bowl ",
+            "A black cat drinking water from a bowl and his food bowl is next to it. ",
+            "A cat that is standing near a bowl of water.",
+            "A cat drinking water out of a water bowl.",
+            "A cat standing by a bowl of water and food "
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the image?**\n\nA) A black cat playing with a ball on the floor.\n\nB) A black cat sleeping next to a bowl of water.\n\nC) A black cat getting some water out of a bowl.\n\nD) A black cat sitting near a bowl of food.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. a black dog drinking water from a cup\n\nB. a cat playing with a toy on the floor\n\nC. a black cat getting some water out of a bowl\n\nD. a black cat sleeping in a basket",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A black dog playing with a ball in the yard.\n\nB. A white cat sitting on a sunny windowsill.\n\nC. A black cat getting some water out of a bowl.\n\nD. A kitten chasing a butterfly in a garden."
+    },
+    {
+        "id": 154652,
+        "file_name": "COCO_train2014_000000154652.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000154652.jpg",
+        "reference_caption": [
+            "A man smiling with his face near a cat",
+            "A man smiles strangely with his head on top of a cat.",
+            "A cat on a bed gets photobombed by its human.",
+            "a cat laying on  the bed with a man laying his head next to him ",
+            "A man with glasses leaning next to a cat."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?  \n\nA. A man holding a dog and smiling at the camera.  \n\nB. A man smiling while looking at a painting of a cat.  \n\nC. A man smiling with his face near a cat.  \n\nD. A man sitting with a cat on his lap.  ",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A man frowning next to a big dog.\n\nB. A smiling cat sitting on a man's head.\n\nC. A man smiling with his face near a cat.\n\nD. A man laughing while holding a rabbit.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A woman holding a dog in her arms\n\nB. A man frowning at a bird in a cage\n\nC. A man smiling with his face near a cat\n\nD. A child playing with a toy car on the floor"
+    },
+    {
+        "id": 107982,
+        "file_name": "COCO_train2014_000000107982.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000107982.jpg",
+        "reference_caption": [
+            "Black cat sits and stares atop of a television set. ",
+            "A black cat that is sitting on a television.",
+            "A close up of a black cat sitting on top of a television. ",
+            "A black cat sitting on top of a TV.",
+            "A black cat sitting next to a wall."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. Black cat sits and stares atop of a television set.\n\nB. Black cat lies down and naps on a couch.\n\nC. Black cat sits and looks out the window.\n\nD. Black cat climbs up a bookshelf.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. Black cat sits and stares atop of a television set.\n\nB. Orange cat lounges under a television stand.\n\nC. Grey cat jumps over a computer monitor.\n\nD. Black dog stands and looks at a radio.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. Black cat sits and stares atop of a television set.\n\nB. White rabbit hops across a field of flowers.\n\nC. Brown dog chases its tail in a sunny park.\n\nD. Gray elephant splashes water in a river."
+    },
+    {
+        "id": 301549,
+        "file_name": "COCO_train2014_000000301549.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000301549.jpg",
+        "reference_caption": [
+            "A cat standing on a tiled floor next to an orange container.",
+            "A cat looking down on a floor with white tiles.",
+            "A cat looking at something on the floor",
+            "A black and white cat is staring at the floor.",
+            "A cat scanning the floor in front of an orange bucket"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat sitting on a wooden floor next to a red basket.\n\nB. A dog standing on a tiled floor next to an orange container.\n\nC. A cat standing on a tiled floor next to an orange container.\n\nD. A cat lying on a carpet next to a blue bowl.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog sitting on a wooden floor next to a green basket.\n\nB. A cat lying on a carpet near a blue vase.\n\nC. A cat standing on a tiled floor next to an orange container.\n\nD. A cat playing with a toy on a grass field beside a red box.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A dog lying on a carpet next to a green bowl.\n\nB. A cat sitting on a couch beside a blue vase.\n\nC. A cat standing on a tiled floor next to an orange container.\n\nD. A rabbit hopping on a grassy lawn near a yellow basket."
+    },
+    {
+        "id": 124926,
+        "file_name": "COCO_train2014_000000124926.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000124926.jpg",
+        "reference_caption": [
+            "A cat sitting on a DVD player and looking at a screen with an owl on it.",
+            "A cat is laying on a dvd player while watching a big owl on tv.",
+            "a cat lying and watching an owl on the tv",
+            "A cat sitting on a desk in front of a large image of an owl.",
+            "A cat is laying on top of a  DVD player."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A cat sitting on a DVD player and watching a movie with a dog in it.\n\nB. A cat lounging on a DVD player while a bird flies across the screen.\n\nC. A cat perched on a DVD player with a fish tank visible on the screen.\n\nD. A cat sitting on a DVD player and looking at a screen with an owl on it.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog resting on a DVD player and gazing at a television with a bird on it.\n\nB. A cat sleeping on top of a DVD player with a picture of an owl on a wall.\n\nC. A cat perched on a DVD player watching a monitor that shows a dog.\n\nD. A cat sitting on a DVD player and looking at a screen with an owl on it.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A cat perched on a bookshelf next to a collection of DVDs.\n\nB. A cat standing on a television remote and watching a bird outside.\n\nC. A cat lying on a sofa while a movie about owls plays on the TV.\n\nD. A cat sitting on a DVD player and looking at a screen with an owl on it."
+    },
+    {
+        "id": 23917,
+        "file_name": "COCO_train2014_000000023917.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000023917.jpg",
+        "reference_caption": [
+            "A couple of animals that are sleeping together.",
+            "a dog laying near smaller dogs and a cat",
+            "A large brown dog laying next to two small white dogs and a cat.",
+            "Some dogs and a cat are sleeping on a porch.",
+            "Some animals sleeping on the front porch without any food to eat. "
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A pair of animals playing in the grass.\n\nB. A couple of animals that are sleeping together.\n\nC. A group of animals resting in a barn.\n\nD. Two animals searching for food.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A pair of creatures that are awake and playing around.\n\nB. A couple of animals that are sleeping together.\n\nC. A single animal lying alone in the field.\n\nD. Two birds sitting on a branch singing a song.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A group of animals playing in a field.\n\nB. A couple of animals that are sleeping together.\n\nC. A single animal standing by itself.\n\nD. Animals running around in a forest."
+    },
+    {
+        "id": 528018,
+        "file_name": "COCO_train2014_000000528018.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000528018.jpg",
+        "reference_caption": [
+            "A man and his cat sit at a messy desk, surrounded by manuscript pages.",
+            "A man at his desk surrounded by papers, holds his cat",
+            "a woman and her cat sit at her computer desk",
+            "A man that is sitting down with a cat.",
+            "A man holding his cat in a room with papers spread out across the floor."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A man and his cat sit at a messy desk, surrounded by manuscript pages.\n\nB. A man sits alone at a tidy desk, writing in a notebook.\n\nC. A woman and her dog relax on a couch, reading a book.\n\nD. A man and his cat look out a window, enjoying the sunset.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A man and his cat sit at a messy desk, surrounded by manuscript pages.\n\nB. A woman with a dog is typing on a clean desk, with no papers around.\n\nC. A man and his cat are outside, playing in a garden filled with flowers.\n\nD. Two men are standing next to a whiteboard, discussing a business plan.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A man and his cat sit at a messy desk, surrounded by manuscript pages.\n\nB. A woman and her dog are cooking together in a tidy kitchen.\n\nC. A group of children are playing soccer in a park on a sunny day.\n\nD. A couple is enjoying a quiet dinner at a fancy restaurant."
+    },
+    {
+        "id": 459643,
+        "file_name": "COCO_train2014_000000459643.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000459643.jpg",
+        "reference_caption": [
+            "A pair of cats relaxing on a sofa.",
+            "Two cats snuggle with each other and snooze",
+            "Two cats are snuggling on a fabric covered couch. ",
+            "Two cats that are laying down next to each other.",
+            "Two cats lie down with one sniffing the other's ear."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. Two cats playing with a ball of yarn on the floor.\n\nB. A pair of cats relaxing on a sofa.\n\nC. A single cat sitting on a windowsill.\n\nD. A pair of dogs lounging on a sofa.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. Two dogs lounging on a couch.\n\nB. A pair of cats relaxing on a sofa.\n\nC. A single cat resting under a bed.\n\nD. A group of cats playing on the floor.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA) A couple of dogs playing in a park.\n\nB) A pair of cats relaxing on a sofa.\n\nC) A single cat chasing a mouse in a garden.\n\nD) A pair of birds perched on a tree branch."
+    },
+    {
+        "id": 479403,
+        "file_name": "COCO_train2014_000000479403.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000479403.jpg",
+        "reference_caption": [
+            "A cat crawling into a black screen door.",
+            "A grey and white cat climbing through a metal door.",
+            "A grey cat climbing through the bars of a door.",
+            "A cat with a long striped gray and black tail tries to enter a building through a gap in the door.",
+            "a grey striped cat squeezing into a slab on a metal door."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat sitting on a windowsill.\n\nB. A cat jumping over a black fence.\n\nC. A cat playing with a ball of yarn.\n\nD. A cat crawling into a black screen door.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A cat sleeping on a black screen door.\n\nB. A dog crawling through a black screen door.\n\nC. A cat jumping over a black screen door.\n\nD. A cat crawling into a black screen door.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog playing fetch on a sunny day.\n\nB. A cat sleeping on a windowsill.\n\nC. A squirrel climbing a tree.\n\nD. A cat crawling into a black screen door."
+    },
+    {
+        "id": 177763,
+        "file_name": "COCO_train2014_000000177763.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000177763.jpg",
+        "reference_caption": [
+            " Cat on top of a suitcase looking at sow ting. ",
+            "Two cats are crowded around a duffle bag.",
+            "a cat on top of a luggage bag on the ground ",
+            "Two cats hanging out with one sitting on luggage. ",
+            "A black and white cat sits on top of a suitcase while another stands beside it."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. Cat on top of a suitcase looking at something.\n\nB. Cat beside a suitcase playing with a toy.\n\nC. Cat inside a suitcase taking a nap.\n\nD. Cat in front of a suitcase watching TV.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. Cat on top of a suitcase looking at something.\n\nB. Dog on top of a suitcase staring at something.\n\nC. Cat under the suitcase playing with a toy.\n\nD. Cat on top of a suitcase sleeping peacefully.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. Cat on top of a suitcase looking at something.\n\nB. Dog inside a suitcase barking loudly.\n\nC. Cat under a table playing with a toy.\n\nD. Bird sitting on a suitcase singing a song."
+    },
+    {
+        "id": 525716,
+        "file_name": "COCO_train2014_000000525716.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000525716.jpg",
+        "reference_caption": [
+            "An orange cat sleeping on a couch with a mouse on top of it.",
+            "Orange and white cat laying in a ball with a mouse on top.",
+            "a close up of a cat laying on a couch with a computer mouse",
+            "A computer mouse on top of the cat.",
+            "A cat that is laying down with a mouse on top of it."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. An orange cat playing with a mouse on the floor.\n\nB. An orange cat sitting on a couch with a toy mouse beside it.\n\nC. An orange cat sleeping on a couch with a mouse on top of it.\n\nD. An orange cat resting on a couch next to a small mouse.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA) A ginger cat awake on a bed with a toy mouse beside it.\n\nB) A white cat sitting on a chair with a mouse under it.\n\nC) An orange cat sleeping on a couch with a mouse on top of it.\n\nD) An orange cat playing with a mouse on the floor.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A brown dog playing with a ball in a park.\n\nB. A gray cat sitting on a windowsill watching birds.\n\nC. An orange cat sleeping on a couch with a mouse on top of it.\n\nD. A white cat drinking water from a bowl on the floor."
+    },
+    {
+        "id": 470862,
+        "file_name": "COCO_train2014_000000470862.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000470862.jpg",
+        "reference_caption": [
+            "A cat with a bewildered look lying inside a backpack.",
+            "A cat sitting inside of a backpack with blankets around.",
+            "A grey and white cat wrapped around a jacket.",
+            "A cat is sitting inside a piece of luggage.  ",
+            "A gray and white cat nestles inside a black suitcase."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A cat with a playful demeanor sitting on top of a backpack.\n\nB. A cat with a curious expression peeking out from under a blanket.\n\nC. A cat with a surprised look standing beside a suitcase.\n\nD. A cat with a bewildered look lying inside a backpack.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA) A dog with a curious expression sitting next to a suitcase.\n\nB) A cat with a confused look standing on top of a backpack.\n\nC) A kitten with an excited face playing inside a bag.\n\nD) A cat with a bewildered look lying inside a backpack.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog with a curious expression sitting next to a suitcase.\n\nB. A cat with a playful demeanor jumping out of a basket.\n\nC. A kitten peacefully sleeping on a windowsill.\n\nD. A cat with a bewildered look lying inside a backpack."
+    },
+    {
+        "id": 225557,
+        "file_name": "COCO_train2014_000000225557.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000225557.jpg",
+        "reference_caption": [
+            " A circular disc on whichn front of a door. a cat and arrow are made is attached to a wall in front of a door.",
+            "A cat graffiti painted over an arrow sign.",
+            "A sign has an arrow and a cat on it.",
+            "A funny sign on a wall indicating a nearby animal.",
+            "a directional arrow sign with a picture of a cat"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA) A square sign with a dog and star is mounted on a post next to a window.\n\nB) A circular disc on which in front of a door. a cat and arrow are made is attached to a wall in front of a door.\n\nC) A round plaque with a bird and heart is placed on a gate beside a door.\n\nD) An oval emblem with a fish and compass is hanging near a doorway.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A circular disc with a dog and a star is attached to a door in front of a window.\n\nB. A circular disc on which a cat and arrow are made is attached to a wall in front of a door.\n\nC. A square plaque with a cat and arrow is placed on the floor near a door.\n\nD. A circular plate featuring a cat and a clock is hanging beside a door.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A square plaque with a dog and a star is hanging in a hallway.\n\nB. A circular disc on which a cat and arrow are made is attached to a wall in front of a door.\n\nC. A triangular sign with a bird and a circle is placed on the floor.\n\nD. A hexagonal board featuring a fish and a line is leaning against a window."
+    },
+    {
+        "id": 33938,
+        "file_name": "COCO_train2014_000000033938.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000033938.jpg",
+        "reference_caption": [
+            "A grey and black cat laying on black suitcase.",
+            "a cat is laying down on an empty traveling box\n",
+            "A cat laying down on a suitcase on the floor in front of a bureau.",
+            "A cat laying on a bag and staring upwards at the viewer.",
+            "The cat is looking intently into the camera."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A grey and black cat sitting next to a suitcase.\n\nB. A grey and black cat laying on black suitcase.\n\nC. A grey and white cat laying on a black couch.\n\nD. A black and white cat laying on a grey suitcase.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A black and white cat sitting on a red suitcase.\n\nB. A grey and black cat laying on black suitcase.\n\nC. A grey and black dog laying on a black suitcase.\n\nD. A grey and black cat laying beside a black suitcase.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A grey and black dog sitting on a white couch.\n\nB. A grey and black cat laying on black suitcase.\n\nC. A brown and white cat hiding in a cardboard box.\n\nD. A striped cat playing with a ball of yarn on the floor."
+    },
+    {
+        "id": 579016,
+        "file_name": "COCO_train2014_000000579016.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000579016.jpg",
+        "reference_caption": [
+            "A car lying on the top of a car on a town street.",
+            "A cat laying on its side near some street signs",
+            "A cat is laying on top of something on the side of the road.",
+            "A light orange cat lays on a shiny surface. ",
+            "A cat sitting on top of a car."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A car parked beside another car on a town street.\n\nB. A car driving down a busy town street.\n\nC. A car lying on the top of a car on a town street.\n\nD. A car being towed away on a town street.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A car parked next to a building in the countryside.\n\nB. A vehicle is flying above another car on a highway.\n\nC. A car lying on the top of a car on a town street.\n\nD. A car is resting underneath a bus in a city square.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA) A bicycle leaning against a tree in a busy park.\n\nB) A truck parked in front of a bustling market.\n\nC) A car lying on the top of a car on a town street.\n\nD) A motorbike speeding down a highway under a clear sky."
+    },
+    {
+        "id": 509115,
+        "file_name": "COCO_train2014_000000509115.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000509115.jpg",
+        "reference_caption": [
+            "A cat lounging on the couch with a game remote control.",
+            "A black and white cat is shown lounging on a couch.",
+            "A cat rests on a couch near video game remotes controllers",
+            "A cat laying on a couch near a remote control. ",
+            "A cat laying on a couch with a remote."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat lounging on the couch with a game remote control.\n\nB. A cat sleeping on a bed next to a television remote.\n\nC. A dog playing with a toy on the living room carpet.\n\nD. A cat lying on the floor beside a video game console.\n\nE. A cat sitting on a chair with a book in its paws.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A cat lounging on the couch with a game remote control.\n\nB. A dog sitting on the floor with a TV remote control.\n\nC. A cat sleeping on the bed with a video game console.\n\nD. A cat playing outside with a broken game controller.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A cat lounging on the couch with a game remote control.  \nB. A dog sitting on a chair with a television remote.  \nC. A cat sleeping on a bed with a book.  \nD. A bird perched on a sofa with a toy mouse."
+    },
+    {
+        "id": 324483,
+        "file_name": "COCO_train2014_000000324483.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000324483.jpg",
+        "reference_caption": [
+            "A fluffy cat is poking its head out from a suitcase.",
+            "A cat with long hair standing inside of a bag.",
+            "An alert cat sitting inside a bag looking to his right.",
+            "A cat peaking out of an open suitcase.",
+            "a cat sitting and facing to the left of the camera."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A fluffy cat is sitting on top of a suitcase.\n\nB. A fluffy cat is playing with a ball of yarn next to a suitcase.\n\nC. A fluffy cat is sleeping inside an open suitcase.\n\nD. A fluffy cat is poking its head out from a suitcase.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A small kitten is sleeping inside a backpack.\n\nB. A large dog is sitting on top of a suitcase.\n\nC. A fluffy cat is hiding behind a large curtain.\n\nD. A fluffy cat is poking its head out from a suitcase.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A small dog is hiding inside a backpack.\n\nB. A parrot is perched on top of a briefcase.\n\nC. A rabbit is peeking out from under a bed.\n\nD. A fluffy cat is poking its head out from a suitcase."
+    },
+    {
+        "id": 258499,
+        "file_name": "COCO_train2014_000000258499.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000258499.jpg",
+        "reference_caption": [
+            "A cat is seated while he wears a collar and tie.",
+            "A cat that is sitting down wearing a tie.",
+            "a cat dressed with a collar and tie decorated with irish symbols",
+            "Gray cat wearing white collar and green tie sitting in room.",
+            "This is a cat wearing an Irish themed tie."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat is standing while he wears a hat and scarf.\n\nB. A cat is lying down while he wears a bow tie.\n\nC. A cat is seated while he wears a collar and tie.\n\nD. A cat is playing with a ball while wearing a collar.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog is lying down with a colorful scarf on its neck.\n\nB. A cat is sitting with a bow tie and hat.\n\nC. A cat is seated while he wears a collar and tie.\n\nD. A kitten is playing with a collar and a small toy.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A dog is sitting with a colorful bandana around its neck.\n\nB. A cat is playing with a ball of yarn in a sunlit room.\n\nC. A cat is seated while he wears a collar and tie.\n\nD. A cat is perched on a windowsill, gazing outside."
+    },
+    {
+        "id": 237505,
+        "file_name": "COCO_train2014_000000237505.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000237505.jpg",
+        "reference_caption": [
+            "A fat orange and white cat laying on a bed.",
+            "A cat sleeping on a quilt on a bed.",
+            "a lazy cat is laying across a bed ",
+            "A cat is laying on a quilt on a bed.",
+            "A cat laying down on a bed in a room."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A large ginger cat sleeping on a couch.\n\nB. A fat orange and white cat laying on a bed.\n\nC. A fluffy tabby cat resting on a pillow.\n\nD. A small orange kitten playing on a blanket.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A skinny black and gray cat jumping off a chair.\n\nB. A fat orange and white cat laying on a bed.\n\nC. A big brown dog sleeping on the floor.\n\nD. A tiny striped kitten sitting in a basket.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A small gray dog playing in a garden.\n\nB. A fat orange and white cat laying on a bed.\n\nC. A black and white cat chasing a mouse in the kitchen.\n\nD. A fluffy rabbit sitting in a basket."
+    },
+    {
+        "id": 145891,
+        "file_name": "COCO_train2014_000000145891.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000145891.jpg",
+        "reference_caption": [
+            "A black cat laying on top of a white bed.",
+            "a black cat seated on a well made bed gazing",
+            "A dark colored cat laying down on a big bed.",
+            "A cat laying on a bed with the window in front of it.",
+            "A cat lying on a bed in a dark room "
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A black cat laying on top of a white bed.\n\nB. A black dog laying on top of a white bed.\n\nC. A black cat sitting on a white couch.\n\nD. A black cat laying on a wooden floor.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A black cat laying on top of a white bed.\n\nB. A cat is standing on a white carpet.\n\nC. A black dog sitting on a white couch.\n\nD. A white cat laying on a black blanket.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A black cat laying on top of a white bed.\n\nB. A black dog sitting under a white table.\n\nC. A white cat playing with a black toy on the floor.\n\nD. A black cat drinking water from a white bowl."
+    },
+    {
+        "id": 86925,
+        "file_name": "COCO_train2014_000000086925.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000086925.jpg",
+        "reference_caption": [
+            "The cat is sitting on the toilet in the bathroom. ",
+            "a brown cat sitting on a toilet lid in the bathroom ",
+            "A cat is sitting on top of a toilet seat.",
+            "A cat sitting on a covered toilet lid.",
+            "a black and  brown cat is sitting on a toilet "
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. The cat is playing with a toy near the sink in the bathroom.\n\nB. The cat is sitting on the toilet in the bathroom.\n\nC. The cat is drinking water from the toilet in the bathroom.\n\nD. The cat is lying on the bathroom floor next to the toilet.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. The dog is lying on the sink in the kitchen.\n\nB. The cat is sitting on the toilet in the bathroom.\n\nC. The cat is jumping on the shower in the restroom.\n\nD. The cat is resting under the table in the living room.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. The cat is playing with a ball in the living room.\n\nB. The cat is sitting on the toilet in the bathroom.\n\nC. The cat is sleeping on the bed in the bedroom.\n\nD. The cat is eating food in the kitchen."
+    },
+    {
+        "id": 445680,
+        "file_name": "COCO_train2014_000000445680.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000445680.jpg",
+        "reference_caption": [
+            "The cat is laying directly on top of the laptop.",
+            "A cat on a bed laying on top of a laptop.",
+            "A cat laying on top of a laptop computer on a bed.",
+            "A cat laying on a laptop keyboard on a bed.",
+            "Cat sprawled across a laptop on a bed."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. The cat is laying directly on top of the laptop.  \nB. The cat is sitting beside the laptop.  \nC. The cat is sleeping under the laptop.  \nD. The cat is playing with a laptop keyboard.  ",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. The cat is laying directly on top of the laptop.\n\nB. The cat is sleeping beside the computer screen.\n\nC. The laptop is underneath a pile of cats.\n\nD. The cat is laying directly under the laptop.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. The cat is laying directly on top of the laptop.\n\nB. The cat is sitting beside a stack of books.\n\nC. The cat is playing with a ball of yarn on the floor.\n\nD. The cat is sleeping inside a cozy basket."
+    },
+    {
+        "id": 138161,
+        "file_name": "COCO_train2014_000000138161.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000138161.jpg",
+        "reference_caption": [
+            "A large cat laying on top of a computer keyboard.",
+            "an image of a cat resting on a keyboard",
+            "A tired cat with it's head resting on a keyboard.",
+            "A cat is in a dimly lit room on a keyboard.",
+            "A cat leaning its head on the keyboard of a computer"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A cat sitting beside a computer monitor.\n\nB. A large cat laying on top of a computer keyboard.\n\nC. A cat playing with a mouse on the desk.\n\nD. A small kitten perched on a laptop screen.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA) A small dog sleeping next to a computer mouse.\n\nB) A large cat laying on top of a computer keyboard.\n\nC) A big cat sitting under a laptop screen.\n\nD) A kitten playing with some computer wires.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA) A large dog sitting next to a pile of books.\n\nB) A large cat laying on top of a computer keyboard.\n\nC) A small bird perched on a windowsill.\n\nD) A large cat playing with a ball of yarn on the floor."
+    },
+    {
+        "id": 47563,
+        "file_name": "COCO_train2014_000000047563.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000047563.jpg",
+        "reference_caption": [
+            "One cat sits by the umbrella and the other sits.under it.",
+            "Two cats are outside with one under the umbrella",
+            "Two cats in a drive one sitting while the other is sitting under a umbrella.",
+            "A cat sits on the driveway next to a cat under an umbrella.",
+            "a cat sitting under an umbrella in a driveway "
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. One cat plays with the umbrella while the other sleeps next to it.\n\nB. One cat sits by the umbrella and the other sits under it.\n\nC. Both cats are sitting side by side under the umbrella.\n\nD. One cat is under the umbrella while the other is chasing a toy nearby.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A cat is climbing the umbrella while another lies next to it.\n\nB. One cat sits by the umbrella and the other sits under it.\n\nC. The cats are playing with the umbrella and jumping around it.\n\nD. Two cats are sitting on top of the umbrella.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. One cat is chasing a dog around the umbrella while the other cat watches from a distance.\n\nB. One cat sits by the umbrella and the other sits under it.\n\nC. Both cats are playing with a ball near the umbrella in the rain.\n\nD. One cat is climbing a tree while the other rests on a chair beside the umbrella."
+    },
+    {
+        "id": 114776,
+        "file_name": "COCO_train2014_000000114776.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000114776.jpg",
+        "reference_caption": [
+            "A beige car sits outside of a house.",
+            "Old muscle car sitting out in the front yard",
+            "An old, light colored Mustang parked outside of a house.",
+            "A car parked in front of a house.",
+            "A tan muscle car sits outside a home on a gravel drive."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A beige car sits outside of a house.\n\nB. A beige car is parked in a garage.\n\nC. A red car sits outside of a house.\n\nD. A beige car is parked next to a tree.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A beige car sits outside of a house.  \nB. A red car parked inside a garage.  \nC. A blue car is next to a tree in the forest.  \nD. Several cars are lined up on a busy street.  ",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A beige car sits outside of a house.\n\nB. A red bicycle leans against a tree in a park.\n\nC. A group of people are having a picnic on the beach.\n\nD. A blue boat is sailing on a calm lake."
+    },
+    {
+        "id": 467333,
+        "file_name": "COCO_train2014_000000467333.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000467333.jpg",
+        "reference_caption": [
+            "A fluffy cat laying on the arm of a couch.",
+            "A black and white photo of a cat with a remote control.",
+            "A cat is laying on the couch arm by a remote control.",
+            "A cat is sitting on the arm of a chair with a remote.",
+            "A cat sitting on a couch arm next to a remote control."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A small dog sitting on a chair.\n\nB. A cat playing with a toy on the floor.\n\nC. A fluffy cat laying on the arm of a couch.\n\nD. A kitten perched on a window sill.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A small dog sitting on the armrest of a chair.\n\nB. A fluffy cat sitting on the floor next to a couch.\n\nC. A fluffy cat laying on the arm of a couch.\n\nD. A furry kitten playing on the sofa's arm.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A dog chewing on a bone in the backyard.\n\nB. A bird perched on a tree branch.\n\nC. A fluffy cat laying on the arm of a couch.\n\nD. A fish swimming in a clear blue pond."
+    },
+    {
+        "id": 318089,
+        "file_name": "COCO_train2014_000000318089.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000318089.jpg",
+        "reference_caption": [
+            "A cat lays down around some stuffed animals.",
+            "A cat laying on a towel next to two stuffed toys.",
+            "A cat is on a bed with some stuffed animals.",
+            "A small cat sleeping on a bed with teddy bears.",
+            "Two stuffed animals give a white cat some company."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat lays down around some stuffed animals.\n\nB. A cat plays with a ball of yarn near some toys.\n\nC. A dog sits among a pile of stuffed animals.\n\nD. A cat sleeps on a bed surrounded by pillows.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A cat lays down around some stuffed animals.\n\nB. A dog is standing next to a collection of toy animals.\n\nC. A cat sits on a chair with a bunch of plush toys.\n\nD. A rabbit sleeps in a pile of blankets and dolls.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A cat lays down around some stuffed animals.\n\nB. A dog plays fetch with its owner in the park.\n\nC. A group of children is having a picnic by the lake.\n\nD. A bird is perched on a tree branch singing a song."
+    },
+    {
+        "id": 536923,
+        "file_name": "COCO_train2014_000000536923.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000536923.jpg",
+        "reference_caption": [
+            "People are in a room with two beds and a microwave.",
+            "A woman looking over her should while standing next to a woman in bed.",
+            "A woman standing in a room near another woman lying on a bed.",
+            "a person laying in a bed with anther person standing",
+            "Two young women chilling in a hotel room."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. People are in a room with two beds and a microwave.\n\nB. People are in a room with a dining table and a television.\n\nC. People are in a room with a sofa and a coffee table.\n\nD. People are in a room with a kitchenette and a fridge.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. People are in a room with two beds and a microwave.\n\nB. People are in a room with three beds and a refrigerator.\n\nC. People sit outside in a garden with a table and chairs.\n\nD. A couple is in a room with a single bed and a television.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. People are in a room with two beds and a microwave.\n\nB. People are in a room with two bicycles and a refrigerator.\n\nC. People are in a park with two benches and a barbecue grill.\n\nD. People are in a kitchen with two ovens and a dining table."
+    },
+    {
+        "id": 374561,
+        "file_name": "COCO_train2014_000000374561.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000374561.jpg",
+        "reference_caption": [
+            "A cat with a surprised expression and a mouse in its mouth.",
+            "A cat is in a bathroom holding a mouse in its mouth.",
+            "A cat that is on the ground in a bathroom.",
+            "A kitten is peeking out with a mouse in it's mouth.",
+            "A cat has a mouse in his mouth."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A cat with a surprised expression and a mouse in its mouth.\n\nB. A cat playing with a toy mouse on the floor.\n\nC. A cat looking curiously at a bird outside the window.\n\nD. A cat sleeping peacefully on a couch with a stuffed animal.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A cat with a surprised expression and a mouse in its mouth.\n\nB. A cat with a confused look and a bird in its mouth.\n\nC. A cat smiling happily with a toy mouse nearby.\n\nD. A cat with a surprised face holding a fish in its paws.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A cat with a surprised expression and a mouse in its mouth.\n\nB. A cat sleeping peacefully in a sunny spot.\n\nC. A dog playing fetch with a ball in the park.\n\nD. A mouse running away from a playful kitten."
+    },
+    {
+        "id": 342203,
+        "file_name": "COCO_train2014_000000342203.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000342203.jpg",
+        "reference_caption": [
+            "A cat with a serious look on its face by a laptop and coffee cup.",
+            "A kitten standing next to a laptop and a coffee cup.",
+            "Young kitten near coffee mug looking at counter top.",
+            "A small cat standing in front of a coffee mug.",
+            "The black and white cat is going to inspect the cup."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A cat with a playful expression sitting on a desk with a book and a coffee cup.\n\nB. A serious-looking dog next to a laptop and a coffee mug.\n\nC. A cat lounging by a window with a serious look on its face.\n\nD. A cat with a serious look on its face by a laptop and coffee cup.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog sitting happily beside a tablet and a glass of juice.\n\nB. A cat looking playful next to a book and a teacup.\n\nC. A cat with a curious expression near a laptop and a water bottle.\n\nD. A cat with a serious look on its face by a laptop and coffee cup.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA) A dog happily playing with a laptop and a toy.\n\nB) A cat sleeping peacefully on a pile of books.\n\nC) A bird perched on a windowsill overlooking a garden.\n\nD) A cat with a serious look on its face by a laptop and coffee cup."
+    },
+    {
+        "id": 469197,
+        "file_name": "COCO_train2014_000000469197.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000469197.jpg",
+        "reference_caption": [
+            "A rail bridge next to tall building with a train on it.",
+            "A cat in a grassy field with a train passing by on bridge.",
+            "Public transportation train on a large sized bridge.",
+            "A train going over a bridge with some buildings in the background",
+            "There is an elevated railway above an empty field."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A train passing under a bridge near a tall building.\n\nB. A rail bridge next to tall building with a train on it.\n\nC. A tall building beside a pedestrian bridge with people walking.\n\nD. A train station next to a series of tall buildings.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A train passing under a short bridge near some trees.\n\nB. A rail bridge next to tall building with a train on it.\n\nC. A bridge without any train near a skyscraper.\n\nD. A tall building with a train station nearby, but no bridge.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A busy highway filled with cars and pedestrians.\n\nB. A rail bridge next to tall building with a train on it.\n\nC. A large sailboat passing under a suspension bridge.\n\nD. A quiet park surrounded by skyscrapers and trees."
+    },
+    {
+        "id": 532617,
+        "file_name": "COCO_train2014_000000532617.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000532617.jpg",
+        "reference_caption": [
+            "A man standing in a garden with a small white dog and gray cat.",
+            "A person with cats checking on vegetables that are growing",
+            "A person and some animals that are by some plants.",
+            "two cats in a garden sniffing plants with a person",
+            "A man and two cats standing on a porch with a lot of potted plants."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A man sitting on a bench in a park with a big white dog and a gray cat.\n\nB. A man standing in a garden with a large black dog and a gray cat.\n\nC. A woman standing in a garden with a small white dog and a gray cat.\n\nD. A man standing in a garden with a small white dog and gray cat.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A man sitting on a bench in a park with a large brown dog and a black cat.\n\nB. A woman standing in a field with a small white rabbit and orange cat.\n\nC. A man walking in a garden with a small white dog and a bird on his shoulder.\n\nD. A man standing in a garden with a small white dog and gray cat.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A woman sitting on a bench in a park with a large brown dog and a black cat.\n\nB. A boy playing in a backyard with a big white rabbit and a gray kitten.\n\nC. A couple walking through a forest with a golden retriever and a tabby cat.\n\nD. A man standing in a garden with a small white dog and gray cat."
+    },
+    {
+        "id": 172096,
+        "file_name": "COCO_train2014_000000172096.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000172096.jpg",
+        "reference_caption": [
+            "A long haired black cat is looking out a window.",
+            "A CAT WATCHES A BIRD AT THE WINDOW IN THE SNOW",
+            "A black cat staring at a bird through a window.",
+            "The large cat is looking out of a window.",
+            "A cat looking out a window at a bird."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A fluffy black dog is sitting by a window.\n\nB. A long haired black cat is looking out a window.\n\nC. A black rabbit is sitting on the windowsill.\n\nD. A long haired cat is lying on a couch.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A short haired white dog is sleeping on a sofa.\n\nB. A long haired black cat is looking out a window.\n\nC. A fluffy black cat sits on a table near the window.\n\nD. A long haired brown cat is staring at a tree outside.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A small dog is playing with a toy by the window.\n\nB. A long haired black cat is looking out a window.\n\nC. A bird is perched on a branch outside the window.\n\nD. A black cat is sleeping on a sunny windowsill."
+    },
+    {
+        "id": 578108,
+        "file_name": "COCO_train2014_000000578108.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000578108.jpg",
+        "reference_caption": [
+            "Two cats sitting on a green towel inside of a bathroom.",
+            "Two cats sit on top of a towel on a counter.",
+            "Two cats sitting next to each other on a sink in the bathroom. ",
+            "Two cats lying down next to a sink in the bathroom. ",
+            "A pair of cats resting on a small rug on a counter in a bathroom next to a sink."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. Two dogs lying on a blue blanket inside of a kitchen.\n\nB. Two cats sitting on a green rug inside of a living room.\n\nC. Two cats sitting on a green towel inside of a bathroom.\n\nD. Two cats playing with a toy in a garden.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. Two dogs playing with a towel in the living room.\n\nB. A cat sitting on a blue towel outside of a bathroom.\n\nC. Two cats sitting on a green towel inside of a bathroom.\n\nD. Cats are sleeping on a green blanket in the bedroom.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. Two dogs playing with a ball in the living room.\n\nB. A single cat perched on a red blanket in the bedroom.\n\nC. Two cats sitting on a green towel inside of a bathroom.\n\nD. A pair of kittens exploring the backyard garden."
+    },
+    {
+        "id": 445491,
+        "file_name": "COCO_train2014_000000445491.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000445491.jpg",
+        "reference_caption": [
+            "A pet shop having a reptile sale on may16.",
+            "A sign advertising a reptile sale in May",
+            "A sign saying \"REPTILE SALE - Cow Palace\" is displayed.",
+            "a sign in front of two trees and wood in the background",
+            "A sale sign placed in front of an exhibit with trees."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A pet shop hosting a bird adoption event on May 16.\n\nB. A pet shop offering discounts on fish supplies on May 16.\n\nC. A pet shop having a sale on dog toys on May 16.\n\nD. A pet shop having a reptile sale on May 16.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA) A pet store with many reptiles discounted on April 16th.\n\nB) A reptile shop offering sales on pet food on May 16.\n\nC) A pet shop selling reptiles on May 15.\n\nD) A pet shop having a reptile sale on May 16.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A bakery offering discounts on pastries during the winter season.\n\nB. A bookstore hosting a book signing event on Saturday.\n\nC. A car dealership promoting a new line of hybrid vehicles.\n\nD. A pet shop having a reptile sale on May 16."
+    },
+    {
+        "id": 309580,
+        "file_name": "COCO_train2014_000000309580.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000309580.jpg",
+        "reference_caption": [
+            "A cat sitting in front of a silver TV in a living room.",
+            "a cat watches interested in what's on the television",
+            "A cat is sitting on the floor watching television.",
+            "A cat sitting on the ground looking up at a television.",
+            "a cat that is watching a t.v. screen"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the image?**\n\nA. A cat lying on a couch in a living room near a TV.\n\nB. A cat playing with a toy on the floor in front of a TV.\n\nC. A cat sitting in front of a silver TV in a living room.\n\nD. A cat sleeping on a rug next to a silver TV in a living room.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A dog lying next to a golden TV in a bedroom.\n\nB. A cat standing on top of a black TV in a kitchen.\n\nC. A cat sitting in front of a silver TV in a living room.\n\nD. A kitten sleeping behind a silver TV in a garden.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog lying on a carpet in a bedroom.\n\nB. A vase of flowers on a table beside a window.\n\nC. A cat sitting in front of a silver TV in a living room.\n\nD. A bird perched on a balcony railing outside."
+    },
+    {
+        "id": 336075,
+        "file_name": "COCO_train2014_000000336075.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000336075.jpg",
+        "reference_caption": [
+            "A living room with blue furniture and a flat screen TV.",
+            "A lone man sits on a living room couch with a laptop while watching TV.",
+            "A man sitting on a couch with a laptop in a living room.",
+            "A person sitting the couch with a laptop in a living room.",
+            "A living scene is depicted with a man sitting on a couch."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A living room with green furniture and a fireplace.\n\nB. A living room with a red sofa and a large bookshelf.\n\nC. A living room with yellow walls and a coffee table.\n\nD. A living room with blue furniture and a flat screen TV.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A bedroom with red furniture and a large mirror on the wall.\n\nB. A kitchen with green cabinets and a small TV on the counter.\n\nC. A dining room with yellow chairs and a painting of a beach.\n\nD. A living room with blue furniture and a flat screen TV.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA) A kitchen with red appliances and a dining table.\n\nB) A bedroom with a king-size bed and a large window.\n\nC) A bathroom with a clawfoot tub and vintage tiles.\n\nD) A living room with blue furniture and a flat screen TV."
+    },
+    {
+        "id": 233435,
+        "file_name": "COCO_train2014_000000233435.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000233435.jpg",
+        "reference_caption": [
+            "A woman is watching her cats play outside",
+            "A cat standing on top of a red brick wall near a bush.",
+            "A woman's head sticking out of a window.",
+            "A cat standing on a brick ledge, with a woman behind her.",
+            "A cat that is on top of a brick wall."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A woman is feeding her cats in the garden.\n\nB. A woman is walking her cats along the street.\n\nC. A woman is sitting with her cats inside the house.\n\nD. A woman is watching her cats play outside.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A lady observes her dog playing in the yard.\n\nB. A woman is viewing birds fly outside her window.\n\nC. A man is watching his cats sleep indoors.\n\nD. A woman is watching her cats play outside.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A man is feeding birds in the park.\n\nB. A girl is reading a book under a tree.\n\nC. A couple is walking their dogs in the neighborhood.\n\nD. A woman is watching her cats play outside."
+    },
+    {
+        "id": 199251,
+        "file_name": "COCO_train2014_000000199251.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000199251.jpg",
+        "reference_caption": [
+            "A tiger cat walking across a field. near plants.",
+            "A gray tiger kitten playing outside in the dirt.",
+            "A photo of a cat from the back side.",
+            "a cat that is sitting on the ground",
+            "The black and grey cat is facing the other way"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A leopard prowling through the tall grass near a tree.\n\nB. A lion walking across a meadow near flowers.\n\nC. A tiger cat walking across a field. near plants.\n\nD. A cheetah sprinting across the plain under the sun.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A large dog running through a forest. next to flowers.\n\nB. A leopard cat jumping over a river. near bushes.\n\nC. A tiger cat walking across a field. near plants.\n\nD. A lion cub sitting in the grass. surrounded by trees.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A tiger cat sleeping in a tree branch above the field.\n\nB. A tiger cat climbing a mountain.\n\nC. A tiger cat walking across a field near plants.\n\nD. A tiger cat swimming in a pond near the forest."
+    },
+    {
+        "id": 119115,
+        "file_name": "COCO_train2014_000000119115.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000119115.jpg",
+        "reference_caption": [
+            "A cat attempts to grab the image on a television screen.",
+            "a llittle black and white cat playing with a tv screen ",
+            "A black and white cat holds his paw up to a television set.",
+            "A cat trying to catch a cartoon character on television.",
+            "A cat that is looking at a tv."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A dog is watching a nature documentary on the television.\n\nB. A child is playing with a remote control in front of the TV.\n\nC. A cat attempts to grab the image on a television screen.\n\nD. A cat is sleeping peacefully on the couch beside the TV.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog tries to catch a bird flying across the TV.\n\nB. A kitten plays with a mouse in front of a computer monitor.\n\nC. A cat attempts to grab the image on a television screen.\n\nD. An animal jumps on the TV screen to catch a video.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog is chasing a ball in a park.\n\nB. A cat is sleeping peacefully on a couch.\n\nC. A cat attempts to grab the image on a television screen.\n\nD. A bird is perched on a windowsill looking outside."
+    },
+    {
+        "id": 378087,
+        "file_name": "COCO_train2014_000000378087.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000378087.jpg",
+        "reference_caption": [
+            "A large gray dog sitting on top of a bed next to a cat.",
+            "A cat sniffs a dog lying on a blanket in front of an entertainment table.",
+            "a cat standing next to a dog both in front of a desk with a monitor on it.",
+            "Two animals sit on top of blanket by a TV.",
+            "a cat biting a dog in front of the television."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A large gray dog lying on the floor next to a cat.\n\nB. A large gray dog sitting on a couch next to a cat.\n\nC. A large gray dog sitting on top of a bed next to a cat.\n\nD. A large gray dog standing next to a cat on a bed.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A small brown dog lying on the floor beside a cat.\n\nB. A large gray dog sleeping under a bed with a cat.\n\nC. A large gray dog sitting on top of a bed next to a cat.\n\nD. A large white dog sitting on a chair next to a sleeping cat.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A small brown dog playing in a garden with a cat nearby.\n\nB. A gray cat perched on a tree branch watching a dog below.\n\nC. A large gray dog sitting on top of a bed next to a cat.\n\nD. A big black dog running through a field while a cat lounges on a porch."
+    },
+    {
+        "id": 437857,
+        "file_name": "COCO_train2014_000000437857.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000437857.jpg",
+        "reference_caption": [
+            "A pizza sitting inside of a card board box.",
+            "A blurry picture of a pizza inside a box.",
+            "The cat is keeping his eyes on the pizza in a box.",
+            "A cat looks at a pizza in a pizza box. ",
+            "A cat seems to be eye-balling a full pizza. "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A pizza being served on a wooden table.\n\nB. A pizza being sliced with a knife.\n\nC. A pizza topped with vegetables and cheese.\n\nD. A pizza sitting inside of a card board box.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A pizza resting on a wooden table.\n\nB. A pizza box holding a bunch of apples.\n\nC. A slice of pizza on a plastic plate.\n\nD. A pizza sitting inside of a card board box.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A cake resting on a wooden table.\n\nB. A sandwich wrapped in plastic.\n\nC. A burger on a plate with fries.\n\nD. A pizza sitting inside of a card board box."
+    },
+    {
+        "id": 12307,
+        "file_name": "COCO_train2014_000000012307.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000012307.jpg",
+        "reference_caption": [
+            "Two cats sitting on top of a window sill near curtains.",
+            "Two cats sitting in a window seal beside a picture frame and vase. ",
+            "two cats sitting in a open window with peaches on the curtains.",
+            "Two cats sit in an open window with open shutters.",
+            "Two black cats are looking out the window."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA) Two cats lying on a carpet in the living room.\n\nB) Two cats perched on a tree branch outside.\n\nC) Two cats sitting on top of a window sill near curtains.\n\nD) Two dogs playing near a window with curtains.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. Two dogs lying on a carpet next to a sofa.\n\nB. A single cat lounging on a bed with a blanket.\n\nC. Two cats sitting on top of a window sill near curtains.\n\nD. Three cats playing with a toy on the floor.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. Two dogs playing in a garden with flowers.\n\nB. A single cat sleeping on a couch next to a pillow.\n\nC. Two cats sitting on top of a window sill near curtains.\n\nD. Three birds perched on a tree branch outside a window."
+    },
+    {
+        "id": 378272,
+        "file_name": "COCO_train2014_000000378272.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000378272.jpg",
+        "reference_caption": [
+            "A sheep chasing a cat through a flower and grass covered field.",
+            "a sheep and a cat running towards a bush in a field",
+            "A sheep chases a cat towards a small hedge.",
+            "A sheep chasing a cat through a field.",
+            "A small dog herds sheep in a pasture."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A sheep chasing a cat through a flower and grass covered field.\n\nB. A cat resting on a rock in a grassy field surrounded by flowers.\n\nC. A sheep grazing peacefully in a field of flowers and grass.\n\nD. A dog running alongside a cat in a field full of wildflowers.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA) A sheep chasing a cat through a flower and grass covered field.\n\nB) A cat chasing a sheep across a rocky terrain with no vegetation.\n\nC) A dog running after a cat in a forest full of trees and bushes.\n\nD) A sheep and a cat sitting quietly in a barren desert landscape.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A sheep chasing a cat through a flower and grass covered field.\n\nB. A cat chasing a sheep through a snowy landscape.\n\nC. A dog sleeping peacefully in a field of sunflowers.\n\nD. A rabbit hiding under a tree in a desert."
+    },
+    {
+        "id": 423717,
+        "file_name": "COCO_train2014_000000423717.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000423717.jpg",
+        "reference_caption": [
+            "A cat climbing down beside a t.v. screen. ",
+            "A cat is coming from behind a small white television.",
+            "The cat walks on a table beside a small television.",
+            "There is a big room with furniture and items inside. \n",
+            "A cat standing on a table next to a television with a cat on the screen."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat sleeping next to a t.v. screen.\n\nB. A cat playing with toys in front of a t.v. screen.\n\nC. A cat sitting on top of a t.v. screen.\n\nD. A cat climbing down beside a t.v. screen.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog sitting on top of a computer monitor.\n\nB. A cat flying over a big television screen.\n\nC. A cat sleeping under a t.v. screen.\n\nD. A cat climbing down beside a t.v. screen.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog jumping over a fence in a backyard.\n\nB. A bird perched on top of a television.\n\nC. A fish swimming inside an aquarium.\n\nD. A cat climbing down beside a t.v. screen."
+    },
+    {
+        "id": 359656,
+        "file_name": "COCO_train2014_000000359656.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000359656.jpg",
+        "reference_caption": [
+            "A cat ays on the floor in an office.",
+            "A computer desk with a computer and laptop on top of it.",
+            "a cat laying in a room on some carpet ",
+            "this is a cat laying on the carpet at home",
+            "A cat is sitting on the floor in a room with a couch, desk, and computer in it."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A dog rests on the floor in an office.\n\nB. A cat lays on the floor in an office.\n\nC. A cat sits on a chair in an office.\n\nD. A cat naps on a desk in an office.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA) A cat lays on the table in an office.\n\nB) A cat lays on the floor in an office.\n\nC) A cat sits on the floor in an office.\n\nD) A cat lays on the floor in a garden.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA) A dog sleeps on a couch in a living room.\n\nB) A cat lays on the floor in an office.\n\nC) A bird perches on a window sill in a kitchen.\n\nD) A rabbit hops across a garden."
+    },
+    {
+        "id": 283818,
+        "file_name": "COCO_train2014_000000283818.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000283818.jpg",
+        "reference_caption": [
+            "A calico cat sits on top of a refrigerator in a kitchen.",
+            "A cat sitting on top of a refrigerator.",
+            "A cat is sitting on top of a refrigerator",
+            "A cat perched on top of a refrigerator.",
+            "A cat is sitting on top of the refrigerator."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A calico cat sits on top of a refrigerator in a kitchen.  \nB. A calico cat naps on a windowsill overlooking a garden.  \nC. A calico cat lounges on a sofa in the living room.  \nD. A calico cat perches on a bookshelf in the study.  ",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A calico cat sits on top of a refrigerator in a kitchen.\n\nB. A striped cat is sleeping under a table in the living room.\n\nC. A small dog lies on the floor next to a kitchen sink.\n\nD. A calico cat is playing with a ball in the backyard.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A calico cat sits on top of a refrigerator in a kitchen.\n\nB. A dog sleeps on the floor in a living room.\n\nC. A black cat is perched on a windowsill overlooking a garden.\n\nD. A calico cat is playing with a ball of yarn under a table."
+    },
+    {
+        "id": 294108,
+        "file_name": "COCO_train2014_000000294108.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000294108.jpg",
+        "reference_caption": [
+            "A cat is shown underneath a pile of clothes.",
+            "A cat lying on a pair of pants on a bed with a shirt thrown over it",
+            "A cat sleeping on a bed covered in clothes.",
+            "a cat laying in a bed with clothes",
+            "A cat lying on the bed amongst a bunch of clothes "
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat is sitting on top of a pile of clothes.\n\nB. A cat is shown underneath a pile of clothes.\n\nC. A dog is hiding underneath a pile of clothes.\n\nD. A cat is playing beside a pile of clothes.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog is playing on top of a heap of laundry.\n\nB. A cat is shown underneath a pile of clothes.\n\nC. A cat is sitting next to a basket of folded shirts.\n\nD. A kitten is hiding behind a curtain of hangers.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A dog is playing with a ball in the park.\n\nB. A cat is shown underneath a pile of clothes.\n\nC. A cat is sitting on top of a washing machine.\n\nD. A cat is playing with a string of yarn on the floor."
+    },
+    {
+        "id": 149143,
+        "file_name": "COCO_train2014_000000149143.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000149143.jpg",
+        "reference_caption": [
+            "a black cat is lying on a black shoe and a rug",
+            "A black cat laying next to a black shoe.",
+            "A black cat curled up to a shoe on a rug.",
+            "There is a black cat curled up next to a shoe.",
+            "a cat is laying down by someones shoe"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A black dog is sitting on a black shoe and a rug.\n\nB. A black cat is lying on a black shoe and a rug.\n\nC. A black cat is playing with a black shoe on the rug.\n\nD. A black cat is sitting next to a pair of black shoes on the rug.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A black cat is sitting next to a pair of sneakers on a table.\n\nB. A black cat is lying on a black shoe and a rug.\n\nC. A black cat is lying on a white shoe and a mat.\n\nD. A black dog is lying on a black shoe and a rug.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A black dog is sitting next to a pair of brown shoes on a wooden floor.\n\nB. A black cat is lying on a black shoe and a rug.\n\nC. A black cat is perched on a windowsill overlooking a garden.\n\nD. A black hat is resting on a chair beside a colorful rug."
+    },
+    {
+        "id": 179725,
+        "file_name": "COCO_train2014_000000179725.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000179725.jpg",
+        "reference_caption": [
+            "Two photographs of a white and grey cat with dog.",
+            "A cat lying down near the remote controller.",
+            "A cat is laying on a table with a remote.",
+            "Two pictures shows a cat and dog lying around on a couch.",
+            "a white cat laying down on a table by a remote "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. Two photographs of a grey cat sitting alone on a couch.\n\nB. Two images depicting a white and grey dog playing outside.\n\nC. Two pictures showing a black and white cat with a rabbit.\n\nD. Two photographs of a white and grey cat with dog.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA) Two images showing a black dog with a striped cat.\n\nB) Three photos of a grey and white dog sitting alone.\n\nC) A picture of a cat running with a pack of dogs.\n\nD) Two photographs of a white and grey cat with dog.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. Two paintings of a white and grey landscape with trees.\n\nB. Two photographs of a black and brown cat with a bird.\n\nC. Two sketches of a white and grey dog with a rabbit.\n\nD. Two photographs of a white and grey cat with dog."
+    },
+    {
+        "id": 63572,
+        "file_name": "COCO_train2014_000000063572.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000063572.jpg",
+        "reference_caption": [
+            "two cats are eating food out of a plate",
+            "Cats in a carpeted room sharing a bowl of cat food.",
+            "A calico cat and an orange tabby cat are next to a blue bowl filled with cat food.",
+            "Two cats are eating out of one bowl of food.",
+            "Two cats are eating next to each other out of the same bowl."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. Two cats are eating food out of a plate.\n\nB. Two kittens are playing with a ball.\n\nC. Two cats are sleeping on a couch.\n\nD. Two dogs are eating food out of a bowl.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. Two cats are eating food out of a plate.\n\nB. Two dogs are eating food off a table.\n\nC. Two cats are playing with a toy in a garden.\n\nD. A single cat is drinking water from a bowl.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. Two cats are eating food out of a plate.\n\nB. Two dogs are playing with a ball in the park.\n\nC. A single cat is sleeping on a couch.\n\nD. Three kittens are drinking milk from a bowl."
+    },
+    {
+        "id": 335633,
+        "file_name": "COCO_train2014_000000335633.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000335633.jpg",
+        "reference_caption": [
+            "A woman is playing with a cat while sitting at the dinner table.",
+            "Woman with cat at dinner outside eating fruit, bread and wine.",
+            "A woman has a cat at a dining room table.",
+            "A woman sitting at a table with a glass of wine.",
+            "A woman holds a cat at a table outside of a restaurant."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A woman is feeding a dog while sitting at the dinner table.\n\nB. A woman is reading a book while sitting at the dinner table.\n\nC. A woman is painting a picture while sitting at the dinner table.\n\nD. A woman is playing with a cat while sitting at the dinner table.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A woman is cooking dinner while her cat sits on the table.\n\nB. A woman is eating alone at the dinner table with her dog.\n\nC. A woman is reading a book next to a sleeping cat at the dinner table.\n\nD. A woman is playing with a cat while sitting at the dinner table.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A man is reading a newspaper at the dinner table.\n\nB. A woman is cooking with vegetables in the kitchen.\n\nC. A child is drawing a picture while sitting on the floor.\n\nD. A woman is playing with a cat while sitting at the dinner table."
+    },
+    {
+        "id": 78342,
+        "file_name": "COCO_train2014_000000078342.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000078342.jpg",
+        "reference_caption": [
+            "A cat laying on a keyboard on a table",
+            "A orange cat laying on top of a computer keyboard.",
+            "A cat laying on a desk with its heat resting on a keyboard.",
+            "A cat that is laying on a keyboard.",
+            "A cat laying on a keyboard on an office desk."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat sitting beside a keyboard on a table\n\nB. A cat laying on a keyboard on a table\n\nC. A cat sleeping under a table\n\nD. A cat playing with a mouse near a keyboard on a table",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A cat sleeping on a laptop on the floor\n\nB. A cat laying on a keyboard on a table\n\nC. A dog sitting on a keyboard at the desk\n\nD. A cat resting beside a computer on the chair",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA) A dog sitting next to a computer monitor on a desk\n\nB) A cat laying on a keyboard on a table\n\nC) A bird perched on a windowsill overlooking a garden\n\nD) A rabbit nibbling on some wires under a desk"
+    },
+    {
+        "id": 126321,
+        "file_name": "COCO_train2014_000000126321.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000126321.jpg",
+        "reference_caption": [
+            "Black and white photograph of a cat in a window.",
+            "A tabby cat sitting on a window sill.",
+            "A black cat is sitting in a window sill.",
+            "A black cat with white chin sitting on a windowsill looking out.",
+            "A cat sits in an old window sill snoozing"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. Black and white photograph of a cat in a window.\n\nB. Black and white photograph of a dog lying on a bed.\n\nC. Color photograph of a kitten playing with yarn.\n\nD. Black and white photograph of a cat sitting on a fence.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. Black and white photograph of a cat in a window.\n\nB. A colorful photo of a dog sitting on a couch.\n\nC. Black and white picture of a bird flying over a lake.\n\nD. A blurry image of a cat climbing a tree.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. Black and white photograph of a cat in a window.\n\nB. Colorful painting of a dog playing in a park.\n\nC. A group of birds flying over a beach at sunset.\n\nD. A horse galloping through a field of flowers."
+    },
+    {
+        "id": 468951,
+        "file_name": "COCO_train2014_000000468951.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000468951.jpg",
+        "reference_caption": [
+            "A black and white cat sticking its head over black luggage.",
+            "Unzipped suitcase on floor with cat peeking out of compartment.",
+            "A black suitcase with a cat peeking outside of it. ",
+            "A cat hiding in a black luggage case.",
+            "a close up of a cat on a luggage bag"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A black and white cat sleeping on top of a pile of clothes.\n\nB. A black and white cat sitting next to a pair of shoes.\n\nC. A black and white cat playing with a ball of yarn.\n\nD. A black and white cat sticking its head over black luggage.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A black and white dog sticking its head over black luggage.\n\nB. A black and white cat sitting next to a green suitcase.\n\nC. A cat with brown fur standing on top of a black backpack.\n\nD. A black and white cat sticking its head over black luggage.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog sleeping next to a brown suitcase.\n\nB. A grey cat sitting inside an open suitcase.\n\nC. A white rabbit hopping across a luggage carousel.\n\nD. A black and white cat sticking its head over black luggage."
+    },
+    {
+        "id": 46024,
+        "file_name": "COCO_train2014_000000046024.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000046024.jpg",
+        "reference_caption": [
+            "A computer desk with a cat standing on top of it next to a monitor.",
+            "A cat taking a walk across the computer desk.",
+            "A cat is walking on a desk with a computer monitor on it.",
+            "A cat stands on a desk by a computer monitor.",
+            "a gray and white cat on a desk a chair and monitor"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A computer desk with a dog lying underneath it next to a monitor.\n\nB. A kitchen table with a cat sitting beside a laptop.\n\nC. A computer desk with a cat standing on top of it next to a monitor.\n\nD. A living room shelf with a cat next to a television.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A desk with a dog sitting beside a laptop and a pile of books.\n\nB. A cat sleeping under a computer desk near a printer.\n\nC. A computer desk with a cat standing on top of it next to a monitor.\n\nD. A monitor with a cat playing on the floor and a chair nearby.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A computer desk with a dog sitting under it next to a printer.\n\nB. A dining table with a fruit basket and a vase of flowers.\n\nC. A computer desk with a cat standing on top of it next to a monitor.\n\nD. A bookshelf filled with books and a lamp on top."
+    },
+    {
+        "id": 411485,
+        "file_name": "COCO_train2014_000000411485.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000411485.jpg",
+        "reference_caption": [
+            "A cat sits on top of a couch.",
+            "A grey cat laying on a sofa covered in throw pillows.",
+            "A cat sits on top of a couch with pillows.",
+            "a cat on a couch with a lot of pillows",
+            "The grey cat is lying on the couch."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A dog lies under a chair.\n\nB. A cat sits on top of a couch.\n\nC. A cat sleeps inside a basket.\n\nD. A bird stands on a windowsill.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A dog lounges beneath a chair.\n\nB. A cat sits on top of a couch.\n\nC. The feline is under the sofa.\n\nD. A cat is standing beside a bed.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog lies under the table.\n\nB. A cat sits on top of a couch.\n\nC. A bird perches on a window sill.\n\nD. A rabbit hops across the yard."
+    },
+    {
+        "id": 555427,
+        "file_name": "COCO_train2014_000000555427.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000555427.jpg",
+        "reference_caption": [
+            "Cat asleep on bed next to empty soda bottle.",
+            "A fluffy cat is sleeping next to an empty diet Snapple bottle.",
+            "A black cat has it's paw in a Snapple bottle.",
+            "A black cat with its paw in a snapple bottle.",
+            "A furry animal next to an empty iced tea bottle."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. Cat playing with a soda bottle on the bed.\n\nB. Cat asleep on bed next to empty soda bottle.\n\nC. Cat sitting on bed with a full soda bottle nearby.\n\nD. Cat curled up on a couch with an empty soda can.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. Cat sleeping on the floor with a full soda can.\n\nB. Cat asleep on bed next to empty soda bottle.\n\nC. Cat napping on desk beside an empty water bottle.\n\nD. Cat lying on bed next to a half-filled soda cup.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA) Dog playing with a ball in the garden.\n\nB) Cat asleep on bed next to empty soda bottle.\n\nC) Cat chasing a mouse in the kitchen.\n\nD) Cat sitting on a windowsill watching the rain."
+    },
+    {
+        "id": 558467,
+        "file_name": "COCO_train2014_000000558467.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000558467.jpg",
+        "reference_caption": [
+            "A cat is laying on the floor beside a suitcase and staring upward with its mouth open.",
+            "a fat cat laying on a towel next to a chair",
+            "A cat laying in the floor on a blue towel.",
+            "A cat lying on a blue towel looks up at the camera.",
+            "a cat layind down by a chair looking into a camera"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A dog is sitting on the floor next to a suitcase with its tongue out.\n\nB. A cat is laying on the floor beside a suitcase and staring upward with its mouth open.\n\nC. A cat is sitting inside a suitcase with its eyes closed.\n\nD. A cat is laying on the bed beside a suitcase and looking down.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog is sitting in a suitcase, looking at the ceiling with its mouth closed.\n\nB. A cat is laying on the floor beside a suitcase and staring upward with its mouth open.\n\nC. The feline is resting under a table next to a backpack, yawning widely.\n\nD. A kitten is playing with a suitcase handle, meowing loudly.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog is sitting on a couch next to a suitcase with its eyes closed.\n\nB. A cat is laying on the floor beside a suitcase and staring upward with its mouth open.\n\nC. A bird is perched on a suitcase with a curious expression.\n\nD. A cat is lounging on a windowsill watching the rain outside."
+    },
+    {
+        "id": 524340,
+        "file_name": "COCO_train2014_000000524340.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000524340.jpg",
+        "reference_caption": [
+            "A cat straddling the arm of a couch with another one lying on the back of the couch ",
+            "Two cats laying on top of a stuffed chair",
+            "a large orange and white cat sleeping on the arm of a couch",
+            "Two cats, one sitting on the arm of a couch, the other on the back .",
+            "Two cats are lounging around on the back of the furniture."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat sitting on the floor next to a couch with another cat hiding under the couch.\n\nB. A cat straddling the arm of a couch with another one lying on the back of the couch.\n\nC. A cat perched on a windowsill with another cat sleeping on a nearby chair.\n\nD. A cat playing with a toy on the couch while another cat watches from the floor.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A cat sitting on the table with another cat lying under the couch.\n\nB. A cat straddling the arm of a couch with another one lying on the back of the couch.\n\nC. A dog playing on the floor while a cat sleeps on top of the couch.\n\nD. Two cats sitting side by side on a windowsill.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A cat sitting inside a cardboard box with a second cat peeking out from behind it.\n\nB. A cat straddling the arm of a couch with another one lying on the back of the couch.\n\nC. A cat playing with a ball of yarn while another cat watches from a windowsill.\n\nD. A cat perched on top of a bookshelf with another one sleeping on a nearby chair."
+    },
+    {
+        "id": 19987,
+        "file_name": "COCO_train2014_000000019987.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000019987.jpg",
+        "reference_caption": [
+            "A cat stares away as a movie plays on a large screen TV.",
+            "A cat looking at the camera with a funny expression.",
+            "This is a picture of a cat looking forward.",
+            "A cat starring at you, and a HD TV in the background.",
+            "A concerned cat sits in front of a television displaying a blurry image."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA) A dog watches intently as a nature documentary plays on a small TV.\n\nB) A cat lounges on a couch while a video game is displayed on a computer monitor.\n\nC) A cat naps peacefully as a cooking show airs on a medium-sized television.\n\nD) A cat stares away as a movie plays on a large screen TV.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog watches a documentary on a small computer monitor.\n\nB. A cat is sleeping on a couch while music plays from a radio.\n\nC. A kitten sits near a window as a film is projected onto a wall.\n\nD. A cat stares away as a movie plays on a large screen TV.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A dog barks loudly while watching a sports game on TV.\n\nB. A cat sleeps soundly on a couch with a radio playing.\n\nC. A bird chirps excitedly as it watches a documentary on a small screen.\n\nD. A cat stares away as a movie plays on a large screen TV."
+    },
+    {
+        "id": 524594,
+        "file_name": "COCO_train2014_000000524594.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000524594.jpg",
+        "reference_caption": [
+            "A dog wearing a sweater  next to a cat.",
+            "A dog and a cat sitting together calmly.",
+            "An adorable little dog and cat get petted by their owner.",
+            "A dog and cat sitting side by side.",
+            "A dog wearing a sweater and a cat being touched by a hand."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A dog wearing a sweater next to a cat.\n\nB. A dog wearing a hat next to a cat.\n\nC. A cat wearing a sweater next to a dog.\n\nD. A dog and a cat both wearing sweaters.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog wearing a sweater next to a cat.\n\nB. A dog wearing a hat beside a rabbit.\n\nC. A cat wearing a sweater next to a dog.\n\nD. A dog sitting alone with no sweater.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog wearing a sweater next to a cat.\n\nB. A cat wearing a hat sitting on a chair.\n\nC. A rabbit wearing a coat next to a bird.\n\nD. A dog playing fetch with a ball in the park."
+    },
+    {
+        "id": 206255,
+        "file_name": "COCO_train2014_000000206255.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000206255.jpg",
+        "reference_caption": [
+            "a white cat next to a toy car",
+            "A cat sitting down on a blanket near a toy VW.",
+            "White cat sitting on a white blanket near a yellow toy car.",
+            "A cat playing with a yellow car on a blanket.",
+            "A very cute cat on a bed with a toy car."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the image?**\n\nA) A white cat sitting on a toy car.\n\nB) A white dog next to a toy car.\n\nC) A white cat under a real car.\n\nD) A white cat next to a toy car.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. a white dog beside a toy train\n\nB. a fluffy cat near a broken car\n\nC. a cat playing with a red ball\n\nD. a white cat next to a toy car",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A black dog playing with a ball\n\nB. A white rabbit sitting on a chair\n\nC. A brown horse standing in a field\n\nD. A white cat next to a toy car"
+    },
+    {
+        "id": 122726,
+        "file_name": "COCO_train2014_000000122726.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000122726.jpg",
+        "reference_caption": [
+            "A black and white photo of a cat sitting on a bench.",
+            "A cat gazes into the camera while sitting on a bench.",
+            "A fat cat sitting on a wooden bench.  ",
+            "A black and white photo of a cat sitting on a bench.",
+            "A gray tiger stripe cat sitting on top of a wooden bench."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A black and white photo of a cat sitting on a bench.\n\nB. A black and white photo of a dog sitting on a bench.\n\nC. A colored photo of a cat sitting on a chair.\n\nD. A black and white photo of a cat lying on a bench.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A black and white photo of a cat sitting on a bench.\n\nB. A colorful image showing a dog lying under a tree.\n\nC. A black and white photo of a bird flying over the ocean.\n\nD. A sepia-toned picture of a cat climbing a tree.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A black and white photo of a cat sitting on a bench.\n\nB. A colorful painting of a dog running in a field.\n\nC. A black and white photo of a dog lying on the ground.\n\nD. A sepia-toned image of a bird perched on a rooftop."
+    },
+    {
+        "id": 88082,
+        "file_name": "COCO_train2014_000000088082.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000088082.jpg",
+        "reference_caption": [
+            "A black cat laying in a wooden dining chair.",
+            "A black cat is sitting on a chair",
+            "A black cat sits in a chair in the house. ",
+            "A black cat laying in a wooden rocking chair.",
+            "A black cat lying on a painted wooden captain's chair."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A black dog sitting on a wooden dining chair.\n\nB. A black cat laying in a wooden dining chair.\n\nC. A black cat sleeping on a wooden floor.\n\nD. A black cat laying on a leather sofa.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A black dog sitting on a metal dining chair.\n\nB. A black cat laying in a wooden dining chair.\n\nC. A white cat jumping on a wooden table.\n\nD. A small kitten playing under a wooden chair.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A black dog sleeping on a wooden bench.\n\nB. A black cat laying in a wooden dining chair.\n\nC. A brown cat sitting on a glass table.\n\nD. A black cat playing with a ball of yarn on the floor."
+    },
+    {
+        "id": 408116,
+        "file_name": "COCO_train2014_000000408116.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000408116.jpg",
+        "reference_caption": [
+            "there is a gray cat that is laying on a blue bag",
+            "A cat relaxes on top of a bag.",
+            "a grey cat on a blue bag gazing",
+            "THERE IS A HEALTHY ADULT CAT SITTING IN A SUIT CASE ",
+            "A gray cat is sitting in a blue suitcase."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. There is a gray cat sitting on a red bag.\n\nB. There is a striped cat that is laying on a blue blanket.\n\nC. There is a gray cat that is laying on a blue bag.\n\nD. There is a gray dog that is laying on a blue bag.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. There is a blue cat sitting on a gray bag.\n\nB. There is a gray dog that is laying on a blue bag.\n\nC. There is a gray cat that is laying on a blue bag.\n\nD. There is a gray cat laying beside a blue mat.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. There is a brown dog sitting on a red chair.\n\nB. There is a black bird perched on a green tree.\n\nC. There is a gray cat that is laying on a blue bag.\n\nD. There is a white rabbit hiding under a yellow blanket."
+    },
+    {
+        "id": 4622,
+        "file_name": "COCO_train2014_000000004622.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000004622.jpg",
+        "reference_caption": [
+            "A cat laying on a table next to bottle with a fish in it. ",
+            "A cat lying on a sofa table in a living room ",
+            "A very cute cat laying on a long table.",
+            "A cat is laying on a wooden table.",
+            "A cat laying on a table in a room."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat sitting on a chair next to a bottle of milk.\n\nB. A cat laying on a table next to a bowl with a fish in it.\n\nC. A dog laying on a table next to a bottle with a fish in it.\n\nD. A cat laying on a table next to a bottle with a fish in it.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A cat sleeping under a table near a bottle with a fish outside it.\n\nB. The cat sits on the floor next to a jar with a fish in it.\n\nC. A dog lying on a table beside a bottle with a fish in it.\n\nD. A cat laying on a table next to bottle with a fish in it.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA) A dog sitting under a chair beside a vase of flowers.\n\nB) A bird perched on a windowsill near a stack of books.\n\nC) A rabbit hopping across a field with a butterfly nearby.\n\nD) A cat laying on a table next to a bottle with a fish in it."
+    },
+    {
+        "id": 36523,
+        "file_name": "COCO_train2014_000000036523.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000036523.jpg",
+        "reference_caption": [
+            "A kitten licking itself while surfing the computer.",
+            "Kitten sitting on a bed in in front of a laptop, with one paw touching the laptop.",
+            "A little kitty on the bed using a laptop.",
+            "A cat is sitting on the bed with it's paw on a laptop keyboard.",
+            "A kitty cat, sitting on a blanket, surfs the web."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the image?**\n\nA) A kitten playing with a toy mouse on the floor.\n\nB) A kitten sleeping peacefully next to a laptop.\n\nC) A kitten exploring the garden outside.\n\nD) A kitten licking itself while surfing the computer.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA) A puppy cleaning its fur while browsing on a laptop.\n\nB) A cat playing with the keyboard of a computer.\n\nC) A kitten eating food in front of the computer screen.\n\nD) A kitten licking itself while surfing the computer.",
+        "multiple_choice_question_easy": "Question Title: Which of the following captions best describes the image?\n\nA. A puppy playing fetch with its owner in the park.\n\nB. A kitten sleeping soundly on a pile of books.\n\nC. A kitten chasing a toy mouse across the living room.\n\nD. A kitten licking itself while surfing the computer."
+    },
+    {
+        "id": 487851,
+        "file_name": "COCO_train2014_000000487851.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000487851.jpg",
+        "reference_caption": [
+            "An orange ball and a black cats head under a yellow umbrella.",
+            "A cat that is under a yellow umbrella.",
+            "A cat looking up while underneath a yellow umbrella. ",
+            "a small cat is under a yellow umbrella on th floor",
+            "A black cat is attacking a yellow umbrella. "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A black cat playing with a green ball under a blue umbrella.\n\nB. An orange ball and a black cat's head on a yellow blanket.\n\nC. A black cat resting next to an orange ball under a red umbrella.\n\nD. An orange ball and a black cat's head under a yellow umbrella.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA) A black cat sitting next to a yellow umbrella and a green ball.\n\nB) An orange ball beside a black dog's head under a blue umbrella.\n\nC) A black cat playing with a red ball under a yellow sunshade.\n\nD) An orange ball and a black cat's head under a yellow umbrella.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A yellow ball and a black cat's head under an orange umbrella.\n\nB. A black cat and a yellow ball sitting beside a red umbrella.\n\nC. An orange cat playing with a black ball under a green umbrella.\n\nD. An orange ball and a black cat's head under a yellow umbrella."
+    },
+    {
+        "id": 354258,
+        "file_name": "COCO_train2014_000000354258.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000354258.jpg",
+        "reference_caption": [
+            "A picture of a cat playing with piece of string.",
+            "A photo of a cat licking a pencil.",
+            "A black and white cat licking some type of item.",
+            "A black and white cat is licking a stick.",
+            "a cat is licking something that is yellow"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the image?**\n\nA. A picture of a cat playing with a piece of string.\n\nB. A picture of a dog chewing on a toy.\n\nC. A picture of a cat sleeping on a couch.\n\nD. A picture of a kitten eating from a bowl.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A picture of a cat playing with piece of string.\n\nB. A photo of a dog chasing a ball in the park.\n\nC. An image of a cat sitting quietly in a basket.\n\nD. A picture of a kitten napping on a soft pillow.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A picture of a cat playing with a piece of string.\n\nB. A picture of a dog chasing a ball in the park.\n\nC. A picture of a bird perched on a tree branch.\n\nD. A picture of a rabbit nibbling on a carrot."
+    },
+    {
+        "id": 453538,
+        "file_name": "COCO_train2014_000000453538.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000453538.jpg",
+        "reference_caption": [
+            "A black and white image of a cat next to a laptop",
+            "A cat that is sitting next to a laptop.",
+            "the kitten is sitting in the nook on the mouse.",
+            "Cat next to a laptop on counter top looking intrigued.",
+            "A cat sitting on top of a desk."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A black and white image of a cat next to a laptop  \nB. A black and white image of a dog next to a tablet  \nC. A colorful image of a cat sleeping on a laptop  \nD. A black and white image of a cat sitting on a chair",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A black and white image of a cat next to a laptop\n\nB. A colorful picture of a dog sitting on a computer\n\nC. An image of a cat laying on top of a smartphone\n\nD. A black and white image of a cat next to a television\n\nE. A grayscale photo of a cat playing with a mouse on a table",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A black and white image of a cat next to a laptop\n\nB. A colorful parrot sitting on a tree branch\n\nC. A dog playing fetch with a frisbee in the park\n\nD. A group of people having a picnic on the beach"
+    },
+    {
+        "id": 536067,
+        "file_name": "COCO_train2014_000000536067.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000536067.jpg",
+        "reference_caption": [
+            "A cat drinking water from a wine glass ",
+            "A cat drinking water out of a wine glass.",
+            "A grey and white cat drinking from a wine glass filled with water",
+            "A cat drinking the water from a wine glass.",
+            "A cat has his face in a wine glass filled with water."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA) A cat playing with a wine glass on the table\n\nB) A cat sleeping beside a wine glass\n\nC) A cat looking at a wine glass filled with milk\n\nD) A cat drinking water from a wine glass",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog eating food from a wine glass\n\nB. A cat sipping milk from a teacup\n\nC. A cat sitting beside an empty wine glass\n\nD. A cat drinking water from a wine glass",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog eating food from a bowl.\n\nB. A bird perched on a windowsill.\n\nC. A squirrel holding an acorn in a tree.\n\nD. A cat drinking water from a wine glass."
+    },
+    {
+        "id": 418853,
+        "file_name": "COCO_train2014_000000418853.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000418853.jpg",
+        "reference_caption": [
+            "A cat peeking into a window standing next to a trash bag.",
+            "A cat looking through a curved  glass door.",
+            "Cat next to a trash bag looking through a window.",
+            "a black brown and white cat looking through a window",
+            "A cat is seen sitting next to a bag through a small window."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A cat sitting on a windowsill next to a trash can.\n\nB. A cat lying on the ground beside a pile of leaves.\n\nC. A cat looking out of a door while sitting on a doormat.\n\nD. A cat peeking into a window standing next to a trash bag.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog looking through a door sitting beside a recycling bin.\n\nB. A kitten peeping through a fence standing near a pile of leaves. \n\nC. A cat looking out of a window with a flower pot on the sill.\n\nD. A cat peeking into a window standing next to a trash bag.",
+        "multiple_choice_question_easy": "**Which of the following captions best describes the image?**\n\nA) A dog sitting on a couch beside a pile of books.\n\nB) A bird perched on a branch overlooking a garden.\n\nC) A squirrel climbing a tree in a park.\n\nD) A cat peeking into a window standing next to a trash bag."
+    },
+    {
+        "id": 159118,
+        "file_name": "COCO_train2014_000000159118.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000159118.jpg",
+        "reference_caption": [
+            "A cat that is laying on top of a suitcase.",
+            "A cat that is laying down in a suitcase.",
+            "A cat sitting in its bed on the ground.",
+            "A long haired tabby cat laying on top of a black suitcase. ",
+            "A cat sitting on a suitcase with a lethargic look."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat that is sitting beside a suitcase.\n\nB. A dog that is laying on top of a suitcase.\n\nC. A cat that is laying inside a suitcase.\n\nD. A cat that is laying on top of a suitcase.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog that is sitting inside a suitcase.\n\nB. A cat that is leaping over a suitcase.\n\nC. A suitcase with a cat standing beside it.\n\nD. A cat that is laying on top of a suitcase.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog sitting next to a suitcase.\n\nB. A cat playing with a ball of yarn.\n\nC. A suitcase full of clothes and shoes.\n\nD. A cat that is laying on top of a suitcase."
+    },
+    {
+        "id": 497616,
+        "file_name": "COCO_train2014_000000497616.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000497616.jpg",
+        "reference_caption": [
+            "A black and white photo of a cat sitting on a chair.",
+            "a black and white photo of a cat using an old photo camera ",
+            "A cat comically taking an old fashioned picture of another cat.",
+            "A cat sitting in a chair near another cat that is holding on to something with his paw",
+            "a vintage photo of a cat taking a picture of another cat"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A black and white photo of a dog sitting on a chair.\n\nB. A black and white photo of a cat lying on a couch.\n\nC. A black and white photo of a cat sitting on a windowsill.\n\nD. A black and white photo of a cat sitting on a chair.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA) A colorful photograph showing a dog lying on a couch.\n\nB) A grayscale picture of a cat standing beside a table.\n\nC) A monochrome photo of a kitten playing with a ball on the floor.\n\nD) A black and white photo of a cat sitting on a chair.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A colorful parrot perched on a windowsill.\n\nB. A group of puppies playing in a garden.\n\nC. A dog lying on a couch in the living room.\n\nD. A black and white photo of a cat sitting on a chair."
+    },
+    {
+        "id": 367515,
+        "file_name": "COCO_train2014_000000367515.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000367515.jpg",
+        "reference_caption": [
+            "cat using toilet instead of his cat box",
+            "A cat perches on and uses the toilet.  ",
+            "A cat sits on a toilet and looks like it is going to the bathroom in the toilet. ",
+            "A black cat sitting on top of a white toilet.",
+            "A cat sitting on the edge of a toilet looking under a sink."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. Cat using toilet instead of his cat box\n\nB. Cat sleeping in a cozy bed\n\nC. Cat playing with a roll of toilet paper\n\nD. Cat sitting on a windowsill watching birds",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. Cat using toilet instead of his cat box\n\nB. Dog sitting on toilet like a human\n\nC. Cat sitting in the litter box\n\nD. Cat playing with toilet paper on the floor",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. Cat using toilet instead of his cat box\n\nB. Dog playing with a ball in the garden\n\nC. Cat sleeping on a cozy blanket\n\nD. Bird perched on a tree branch"
+    },
+    {
+        "id": 433125,
+        "file_name": "COCO_train2014_000000433125.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000433125.jpg",
+        "reference_caption": [
+            "A cat is watching the animal planet channel on a television.",
+            "A gray and white cat is watching tv.",
+            "a small cat watches a cheetah run on television ",
+            "A kitten sitting in front of a television on a shelf.",
+            "A cat sits close in front of a television with a cheetah on it. "
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A dog is watching a nature documentary on TV.\n\nB. A cat is watching the animal planet channel on a television.\n\nC. A cat is sitting on a couch next to a television.\n\nD. A cat is playing with a toy in front of a screen displaying a nature show.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog is staring at the wildlife channel on the TV screen.\n\nB. A cat is watching the animal planet channel on a television.\n\nC. The cat sits quietly in front of a window looking at birds.\n\nD. A kitten is playing with a remote control in front of a computer.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A dog is sleeping on a couch with a blanket.\n\nB. A cat is watching the animal planet channel on a television.\n\nC. A bird is perched on a tree branch outside.\n\nD. A fish is swimming in an aquarium."
+    },
+    {
+        "id": 539008,
+        "file_name": "COCO_train2014_000000539008.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000539008.jpg",
+        "reference_caption": [
+            "Two cats sleeping on a messy bed in the bedroom.",
+            "Two cats lying on someone's dirty unmade bed",
+            "Sleeping person on bed with black cat at noon",
+            "two cats laying in a messy bed near a wall",
+            "There are two cats laying on the same bed together"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. Two dogs playing on a tidy bed in the living room.\n\nB. Two cats playing on a messy bed in the bedroom.\n\nC. Two cats sleeping on a neat bed in the living room.\n\nD. Two cats sleeping on a messy bed in the bedroom.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. Two dogs resting on a neat sofa in the living room.\n\nB. A single cat awake and playing on the floor.\n\nC. Three cats fighting on a clean bed in the kitchen.\n\nD. Two cats sleeping on a messy bed in the bedroom.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. Two dogs playing on a tidy bed in the living room.\n\nB. Three cats lounging on a sofa in the garden.\n\nC. A single cat perched on a windowsill in the kitchen.\n\nD. Two cats sleeping on a messy bed in the bedroom."
+    },
+    {
+        "id": 279479,
+        "file_name": "COCO_train2014_000000279479.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000279479.jpg",
+        "reference_caption": [
+            "A cat is sniffing a laptop that is open.",
+            "A large orange cat sitting next to a laptop computer.",
+            "A cat is looking at the side of a laptop computer.",
+            "A cat is sitting next to a laptop",
+            "A cat on a desk sniffing a laptop computer."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A cat is playing with a mouse next to a laptop.\n\nB. A cat is sleeping on a closed laptop.\n\nC. A cat is sitting beside a laptop that is off.\n\nD. A cat is sniffing a laptop that is open.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A dog is sitting on a closed laptop on the floor.\n\nB. A cat is sleeping next to a closed laptop.\n\nC. A laptop is sitting on a table with a mouse next to it.\n\nD. A cat is sniffing a laptop that is open.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog is playing with a tablet on the floor.\n\nB. A cat is sleeping next to a closed book.\n\nC. A cat is eating food from a bowl.\n\nD. A cat is sniffing a laptop that is open."
+    },
+    {
+        "id": 53479,
+        "file_name": "COCO_train2014_000000053479.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000053479.jpg",
+        "reference_caption": [
+            "A cat laying on top of a laptop computer.",
+            "A cat laying on a laptop keyboard sitting on a desk.",
+            "A cat laying on top of a laptop.",
+            "a cat sitting on top of someones laptop.",
+            "Cat lying on laptop set upon a workspace."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat sleeping beside a stack of books.\n\nB. A cat playing with a computer mouse.\n\nC. A cat sitting next to a keyboard.\n\nD. A cat laying on top of a laptop computer.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA) A dog sitting beside a desktop monitor.\n\nB) A cat sitting under a computer desk.\n\nC) A cat laying on top of a book stack.\n\nD) A cat laying on top of a laptop computer.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog playing with a ball in the park.\n\nB. A bird perched on a windowsill.\n\nC. A fish swimming in a tank.\n\nD. A cat laying on top of a laptop computer."
+    },
+    {
+        "id": 22451,
+        "file_name": "COCO_train2014_000000022451.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000022451.jpg",
+        "reference_caption": [
+            "A person holding a black kitten and a remote control.",
+            "A man holding a cat with his TV remote and a soda on his lap.",
+            "a can a black cat and a person in a blue shirt",
+            "A can of soda and a TV remote lying on a cat that is sitting next to a person.",
+            "A kitty with a human, channel changer and juice can."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A person holding a black kitten and a remote control.\n\nB. A person holding a black puppy and a television remote.\n\nC. A person holding a black kitten and a smartphone.\n\nD. A person holding a gray kitten and a remote control.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A person holding a black kitten and a remote control.\n\nB. A person is holding a small black dog and a TV remote.\n\nC. Someone with a black kitten and holding a phone in hand.\n\nD. A man holding a black cat and a game controller.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A person holding a black kitten and a remote control.\n\nB. A person holding a bouquet of flowers in a garden.\n\nC. A person playing with a puppy and a ball.\n\nD. A person sitting on a couch with a tablet and a cup of coffee."
+    },
+    {
+        "id": 183537,
+        "file_name": "COCO_train2014_000000183537.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000183537.jpg",
+        "reference_caption": [
+            "A kitten sitting on the keyboard of a laptop.",
+            "A cat sitting on top of a laptop computer keyboard.",
+            "A kitten sitting on a laptop computer's keyboard.",
+            "A cat that is sitting on top of a keyboard.",
+            "A kitten sits on the keyboard of a laptop computer."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A kitten sitting on the keyboard of a laptop.\n\nB. A kitten playing with a ball of yarn on the floor.\n\nC. A kitten napping in a cozy basket beside a laptop.\n\nD. A kitten perched on a chair next to a window.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A kitten sitting on the keyboard of a laptop.\n\nB. A puppy lying beside the laptop on a desk.\n\nC. A cat playing with a mouse next to a computer.\n\nD. A kitten perched atop a chair next to a table.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A kitten sitting on the keyboard of a laptop.\n\nB. A kitten playing with a ball of yarn on the floor.\n\nC. A dog resting on a couch beside a laptop.\n\nD. A kitten drinking milk from a bowl under a desk."
+    },
+    {
+        "id": 259146,
+        "file_name": "COCO_train2014_000000259146.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000259146.jpg",
+        "reference_caption": [
+            "A cat sitting on top of a ledge near a window.",
+            "a grey cat staring silted  at window",
+            "A cat is looking out the window with a chandelier in the background.",
+            "A cat is looking out of a window",
+            "A cat with a suspenseful look sitting on a window seal."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A cat sitting on top of a ledge near a window.\n\nB. A cat lying on a carpet in the living room.\n\nC. A cat resting on a windowsill with a view of the garden.\n\nD. A cat perched on a fence outside the house.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A cat sitting on top of a ledge near a window.\n\nB. A dog lying under a table in the corner of a room.\n\nC. A cat jumping off a ledge onto the floor.\n\nD. A bird perched on a branch outside the window.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A cat sitting on top of a ledge near a window.\n\nB. A dog playing with a ball in the garden.\n\nC. A bird flying over a lake at sunset.\n\nD. A group of people having a picnic in the park."
+    },
+    {
+        "id": 429460,
+        "file_name": "COCO_train2014_000000429460.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000429460.jpg",
+        "reference_caption": [
+            "A close up of a cat wearing read bunny ears.",
+            "A cat is lying on a blanket with a red knit costume piece around its head.",
+            "A gray cat is wearing a red knitted rabbit hat cozy.",
+            "A cat is wearing a small knit red hat.",
+            "A cat wearing a bunny hat is relaxing on a blanket."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A close up of a cat wearing a red hat.\n\nB. A close up of a dog wearing red bunny ears.\n\nC. A close up of a cat wearing red bunny ears.\n\nD. A close up of a cat with pink bunny ears.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA) A close up of a dog with blue bunny ears.\n\nB) A distant shot of a cat wearing a red hat.\n\nC) A close up of a cat wearing red bunny ears.\n\nD) A close up of a cat wearing a green headband.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A dog sitting on a couch with a red blanket.\n\nB. A close up of a cat wearing a tiny top hat.\n\nC. A close up of a cat wearing red bunny ears.\n\nD. A cat lounging in the sun with a pair of sunglasses."
+    },
+    {
+        "id": 304832,
+        "file_name": "COCO_train2014_000000304832.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000304832.jpg",
+        "reference_caption": [
+            "A black and white cat looking at its reflection in the mirror.",
+            "A little cat looks at its reflection in a mirror. ",
+            "A black and white cat bats at its reflection in a mirror.",
+            "A cat sitting in front of a mirror looking at its reflection.",
+            "A black and white cat sitting in front of a mirror."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A black and white cat looking at its reflection in the mirror.\n\nB. A black and white cat playing with a toy mouse on the floor.\n\nC. A black and white cat sitting on a windowsill watching birds outside.\n\nD. A black and white cat sleeping comfortably on a cozy blanket.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A black and white cat looking at its reflection in the mirror.\n\nB. A black and white dog staring at its reflection in the mirror.\n\nC. A black cat observing a painting on the wall.\n\nD. A white and gray cat looking through a window at the garden.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A black and white cat looking at its reflection in the mirror.\n\nB. A dog playing fetch in the park with its owner.\n\nC. A cat chasing a mouse in the garden.\n\nD. A group of colorful birds sitting on a tree branch."
+    },
+    {
+        "id": 78339,
+        "file_name": "COCO_train2014_000000078339.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000078339.jpg",
+        "reference_caption": [
+            "this is a cat sitting on a brown carpet",
+            "A gray tabby cat sitting on a chair.",
+            "a cat that is sitting on a big chair",
+            "A cat is laying on a wooden chair.",
+            "a striped cat sitting in a brown chair"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. This is a dog lying on a brown carpet.\n\nB. This is a cat sitting on a gray carpet.\n\nC. This is a cat sitting on a brown carpet.\n\nD. This is a cat playing with a toy on a brown carpet.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. This is a dog lying on a blue carpet.\n\nB. There is a cat standing on a brown couch.\n\nC. This is a cat sitting on a brown carpet.\n\nD. A cat is sleeping on a red rug.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. This is a dog lying on a green rug.\n\nB. This is a cat standing on a wooden floor.\n\nC. This is a cat sitting on a brown carpet.\n\nD. This is a rabbit hopping over a blue mat."
+    },
+    {
+        "id": 233379,
+        "file_name": "COCO_train2014_000000233379.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000233379.jpg",
+        "reference_caption": [
+            "A grey cat with green eyes looking straight ahead.",
+            "A black cat with green eyes looking mad.",
+            "A black cat with yellow eyes sits in a blue chair.",
+            "A black cat staring and sitting on a chair.",
+            "A grey cat with green eyes and a pensive look on its face."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A grey cat with green eyes looking straight ahead.\n\nB. A grey cat with blue eyes looking to the side.\n\nC. A brown cat with green eyes looking straight ahead.\n\nD. A grey dog with green eyes looking straight ahead.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A grey cat with green eyes looking straight ahead.\n\nB. A brown cat with blue eyes staring at the sky.\n\nC. A grey dog with green eyes sleeping on a bed.\n\nD. A grey cat with green eyes looking to the left.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A grey cat with green eyes looking straight ahead.\n\nB. A small brown dog with blue eyes sitting in the grass.\n\nC. A white rabbit with long ears hopping across the field.\n\nD. A black and white panda munching on bamboo in the forest."
+    },
+    {
+        "id": 425914,
+        "file_name": "COCO_train2014_000000425914.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000425914.jpg",
+        "reference_caption": [
+            "A couple of cats sleeping on top of a couch.",
+            "a couple of cats sit on top of a pillow ",
+            "A black and white cat curled up on a brown checked sofa.",
+            "Two cats laying together on pillows of a couch.",
+            "A cat is sleeping on a couch with pillows."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. Two dogs playing on the floor in front of a couch.\n\nB. A couple of cats sleeping on top of a couch.\n\nC. A pair of cats sitting on a windowsill.\n\nD. A single cat lounging on a bed.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA) Two dogs sleeping on a bed together.\n\nB) A couple of cats sleeping on top of a couch.\n\nC) A single cat playing with a ball on the floor.\n\nD) A pair of cats running outside in the garden.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A group of dogs playing in a park.\n\nB. A couple of cats sleeping on top of a couch.\n\nC. A single bird perched on a window sill.\n\nD. A pair of rabbits hopping through a garden."
+    },
+    {
+        "id": 510320,
+        "file_name": "COCO_train2014_000000510320.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000510320.jpg",
+        "reference_caption": [
+            "A desk topped with clutter and next to a chair.",
+            "A desk and chair in a small room.",
+            "A desk with various papers and folders on it next to a poster of a cat.",
+            "A messy office with a poster reading \"Give Up\" on a wall.",
+            "An office of someone who has plenty of desks yet still could use more. "
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A chair is pushed under a desk with a computer on top.  \nB. A desk topped with clutter and next to a chair.  \nC. A desk is organized with a lamp and a chair nearby.  \nD. A desk with books and a chair in front of it.  ",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA) A desk with a pile of papers and chair sitting on it.\n\nB) A desk topped with clutter and next to a chair.\n\nC) A table cluttered with chairs and a desk nearby.\n\nD) A chair cluttered with desks and a table beside it.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A clean and empty desk with a single lamp on it.\n\nB. A desk topped with clutter and next to a chair.\n\nC. A kitchen table set for dinner with plates and silverware.\n\nD. A bed covered with blankets and surrounded by pillows."
+    },
+    {
+        "id": 280177,
+        "file_name": "COCO_train2014_000000280177.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000280177.jpg",
+        "reference_caption": [
+            "A black cat sitting on a table next to a bowl of chicken soup.",
+            "A black cat sitting on the table with a bowl of chicken noodle soup.",
+            "A black cat sitting on a table near some soup",
+            "A black cat sitting in front of a bowl of chicken noodle soup on a table.",
+            "A cat sitting on the table with a small cup and a bowl of soup."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A black cat sitting on a table next to a bowl of chicken soup.\n\nB. A black dog lying on a couch next to a glass of lemonade.\n\nC. A black cat sleeping on the floor beside a dish of fish stew.\n\nD. A grey cat perched on a chair near a plate of pasta.\n\nE. A black cat on a windowsill looking at a bowl of fruit salad.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A black cat sitting on a table next to a bowl of chicken soup.\n\nB. A white cat lying under a table with a plate of fish.\n\nC. A black dog resting on a couch beside a cup of coffee.\n\nD. A black cat jumping over a table filled with fruit.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A black cat sitting on a table next to a bowl of chicken soup.\n\nB. A black dog lying on a couch beside a plate of spaghetti.\n\nC. A black cat perched on a windowsill overlooking a garden.\n\nD. A black cat playing with a toy near a pile of books."
+    },
+    {
+        "id": 203179,
+        "file_name": "COCO_train2014_000000203179.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000203179.jpg",
+        "reference_caption": [
+            "A person holding a white cup with a kitten inside of it.",
+            "A very small and cute kitten in a cup.",
+            "Adult holding cup with small tiger striped kitten.",
+            "A small kitten sits in a small cup.",
+            "a close up of a person holding a kitten in a cup"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A person holding a white cup with a puppy inside of it.\n\nB. A person holding a white cup with a kitten inside of it.\n\nC. A person holding a white cup with a toy inside of it.\n\nD. A person holding a white cup with a flower inside of it.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A person holding a black cup with a puppy inside of it.\n\nB. A person holding a white cup with a kitten inside of it.\n\nC. A person holding a white cup with a bird inside of it.\n\nD. A person holding a cup filled with flowers and a kitten.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A person holding a white cup filled with hot coffee.\n\nB. A person holding a white cup with a kitten inside of it.\n\nC. A person holding a white cup with a puppy inside of it.\n\nD. A person holding a white cup filled with colorful candies."
+    },
+    {
+        "id": 93257,
+        "file_name": "COCO_train2014_000000093257.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000093257.jpg",
+        "reference_caption": [
+            "Black and white cat with black nose laying on bedspread.",
+            "A black and white cat curled up on a floral quilt. ",
+            "A cat sits on the bed and looks at something.",
+            "A black and white cat is lying down while looking up.",
+            "A black and white cat sitting on a bed comforter."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA) Black and white cat with white nose laying on bedspread.\n\nB) Black and white cat with black nose laying on bedspread.\n\nC) Black and white cat with black nose laying on a couch.\n\nD) Black and white dog with black nose laying on bedspread.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. Black and white dog with spotted nose sitting on couch.\n\nB. Black and white cat with black nose laying on bedspread.\n\nC. White and black cat with white nose lying on carpet.\n\nD. Cat black and white with nose laying on blanket.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. Black and white dog with white nose laying on a couch.\n\nB. Black and white cat with black nose laying on bedspread.\n\nC. Orange tabby cat with green eyes sitting on a windowsill.\n\nD. Grey rabbit with long ears hopping across a garden."
+    },
+    {
+        "id": 578005,
+        "file_name": "COCO_train2014_000000578005.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000578005.jpg",
+        "reference_caption": [
+            "A kitchen filled with white appliances and wooden cabinets.",
+            "A cluttered kitchen with cats laying on top of the cabinets. ",
+            "Side few of someones kitchen a refrigerator with many pictures on it  ,",
+            "Two cats sitting on top of kitchen cabinets.",
+            "Two cats sit on the cabinets above a cluttered refrigerator.  "
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A kitchen featuring black appliances and metal cabinets.\n\nB. A kitchen filled with white appliances and wooden cabinets.\n\nC. A bathroom with white tiles and a glass shower.\n\nD. A living room with a large sofa and a fireplace.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A kitchen with black appliances and metal cabinets.\n\nB. A kitchen filled with white appliances and wooden cabinets.\n\nC. A bedroom decorated with wooden floors and white furniture.\n\nD. A dining room set with glass tables and colorful chairs.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A living room with a large sofa and a flat-screen TV.\n\nB. A kitchen filled with white appliances and wooden cabinets.\n\nC. A bedroom with a king-sized bed and colorful curtains.\n\nD. A bathroom with a marble sink and a glass shower."
+    },
+    {
+        "id": 171239,
+        "file_name": "COCO_train2014_000000171239.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000171239.jpg",
+        "reference_caption": [
+            "A women on a bed looking at a kitten.",
+            "Three dimensional image of woman and cat laying on a bed.",
+            "The 3D image shows a girl lying on a bed with a cat.",
+            "Computer generated artwork of a girl and cat in a bedroom",
+            "a woman laying on the bed in her underwear looking at a black and white cat"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A woman on a bed looking at a kitten.  \nB. A woman on a bed reading a book.  \nC. A woman on a bed petting a dog.  \nD. A woman sitting on a chair with a kitten.  ",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. A woman on a bed looking at a kitten.\n\nB. A woman sitting on a chair petting a puppy.\n\nC. A man lying on a couch watching a cat.\n\nD. A girl standing beside a bed playing with a kitten.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A women on a bed looking at a kitten.\n\nB. A woman reading a book on a couch.\n\nC. A man playing with a dog in the garden.\n\nD. A girl painting a picture at a table."
+    },
+    {
+        "id": 3729,
+        "file_name": "COCO_train2014_000000003729.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000003729.jpg",
+        "reference_caption": [
+            "A tail of a cat hanging on the outside of a suitcase. ",
+            "A black cat tail sticking out of a burgundy suitcase/",
+            "The tail of an animal pokes out from a suitcase.",
+            "A red piece of luggage sitting on top of a bed.",
+            "THERE IS A SUTCASE THAT IS ON THE BED "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A dog peeking out from under a pile of clothes.\n\nB. A pair of shoes sticking out of a suitcase.\n\nC. A handle of a suitcase broken and hanging down.\n\nD. A tail of a cat hanging on the outside of a suitcase.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A dog tail sticking out from a backpack.\n\nB. A cat's ear visible inside a suitcase.\n\nC. A tail of an animal lying inside a bag.\n\nD. A tail of a cat hanging on the outside of a suitcase.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A dog's paw resting on a briefcase.\n\nB. A parrot sitting on top of a backpack.\n\nC. A snake coiled around a luggage handle.\n\nD. A tail of a cat hanging on the outside of a suitcase."
+    },
+    {
+        "id": 160900,
+        "file_name": "COCO_train2014_000000160900.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000160900.jpg",
+        "reference_caption": [
+            "a black cat laying on a round rug in a bathroom",
+            "a black cat is standing on a round white rug",
+            "A cat curled up on the floor of a bathroom.",
+            "A cat is crouched on a bathroom rug looking toward a hidden litterbox.",
+            "a cat in a bathroom on the ground next to a bath tub"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A black cat sitting on a round rug in the kitchen\n\nB. A black cat laying on a round rug in a bathroom\n\nC. A black cat laying on a square rug in a bathroom\n\nD. A black dog laying on a round rug in a bathroom",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. a black cat sleeping on a square carpet in a kitchen\n\nB. a black cat laying on a round rug in a bathroom\n\nC. a dark kitten resting on a circular mat in a living room\n\nD. a black dog sitting on a round rug in a restroom",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A black dog sitting on a square mat in a kitchen.\n\nB. A black cat laying on a round rug in a bathroom.\n\nC. A white cat playing with a ball in a living room.\n\nD. A black cat perched on a windowsill in a bedroom."
+    },
+    {
+        "id": 118889,
+        "file_name": "COCO_train2014_000000118889.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000118889.jpg",
+        "reference_caption": [
+            "A cat is perched on a closed toilet.",
+            "a black gray and white cat sitting on a toilet seat",
+            "A cat sitting on top of a pile of white plates.",
+            "Grey and white cat sitting on commode in tiled bathroom area.",
+            "a cat crouches on top of a toilet. "
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. A cat is drinking water from the toilet bowl.\n\nB. A dog is sitting next to a toilet.\n\nC. A cat is playing with toilet paper.\n\nD. A cat is perched on a closed toilet.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. A dog is sitting on an open toilet.\n\nB. A cat is lying on a bathroom floor.\n\nC. A bird is perched on a toilet lid.\n\nD. A cat is perched on a closed toilet.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the image?\n\nA. A dog is sleeping in a bathtub.\n\nB. A bird is sitting on a window sill.\n\nC. A cat is playing with a ball of yarn on the floor.\n\nD. A cat is perched on a closed toilet."
+    },
+    {
+        "id": 222929,
+        "file_name": "COCO_train2014_000000222929.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000222929.jpg",
+        "reference_caption": [
+            "Cat sitting on a small police car in a residential neighborhood",
+            "Black and white cat on the hood of a police car parked on a street.",
+            "A police car sitting parked in front of two houses..",
+            "A police car is parked on the curb of a suburban neighborhood.",
+            "A street scene with a police car parked on the side of the road."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. Cat lounging on a bench in a park surrounded by trees\n\nB. Cat perched on a bicycle parked on the sidewalk\n\nC. Cat sitting on a small police car in a residential neighborhood\n\nD. Cat resting on the hood of a taxi on a busy street",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA. Dog standing on a large police truck in a commercial area\n\nB. Cat lying inside a big police van in an urban district\n\nC. Cat sitting on a small police car in a residential neighborhood\n\nD. Kitten sleeping next to a toy police car in a garden",
+        "multiple_choice_question_easy": "**Which of the following captions best describes the image?**\n\nA. Dog playing with a frisbee in a suburban park\n\nB. Cat lounging on a park bench in a busy city center\n\nC. Cat sitting on a small police car in a residential neighborhood\n\nD. Bird perched on a tree branch in a quiet garden"
+    },
+    {
+        "id": 322121,
+        "file_name": "COCO_train2014_000000322121.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000322121.jpg",
+        "reference_caption": [
+            "A hairless cat with a face inside a bowl of food.",
+            "The cat knew immediately that Sushi was at the table.",
+            "A sphinx cat sniffs a bowl on a table.",
+            "a little siamese cat looking into a bowl on the table",
+            "a cat is standing on a wood table"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the image?\n\nA. A hairless cat playing with a toy mouse on the floor.\n\nB. A furry cat sitting next to a bowl of water.\n\nC. A hairless cat with a face inside a bowl of food.\n\nD. A hairless cat sleeping on a cozy blanket.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the image?\n\nA) A fluffy cat eating from a bowl of milk.\n\nB) A dog is playing with a ball next to a bowl of food.\n\nC) A hairless cat with a face inside a bowl of food.\n\nD) A cat with long fur sleeping on a chair.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A dog playing with a toy in the backyard.\n\nB. A hairless cat sleeping on a windowsill.\n\nC. A hairless cat with a face inside a bowl of food.\n\nD. A group of kittens playing with a ball of yarn."
+    },
+    {
+        "id": 430818,
+        "file_name": "COCO_train2014_000000430818.jpg",
+        "img_url": "http://images.cocodataset.org/train2014/COCO_train2014_000000430818.jpg",
+        "reference_caption": [
+            "Evil looking cat eyes are penetrating and mesmerizing.",
+            "Cat playing with a tennis shoe near a wall. ",
+            "A cat hugging a pair of shoes on top of the floor.",
+            "there is a cat that is laying next to a shoe",
+            "A cat resting beside a hiking boot with one paw on the boot."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the image?\n\nA. The mysterious gaze of a cat with bright eyes.\n\nB. A curious cat with glowing eyes staring intensely.\n\nC. A cat with haunting eyes staring into the distance.\n\nD. Evil looking cat eyes are penetrating and mesmerizing.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the image?\n\nA. The eyes of the cat are gentle and soothing, not at all intense.\n\nB. This cat's gaze is soft and comforting, like a warm blanket.\n\nC. The feline's eyes are dull and lack any captivating quality.\n\nD. Evil looking cat eyes are penetrating and mesmerizing.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the image?\n\nA. A friendly dog wagging its tail in the park.\n\nB. Brightly colored fish swimming in a clear aquarium.\n\nC. A group of children playing happily at the beach.\n\nD. Evil looking cat eyes are penetrating and mesmerizing."
+    }
+]

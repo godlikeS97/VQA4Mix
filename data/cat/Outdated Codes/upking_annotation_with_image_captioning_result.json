@@ -1,0 +1,302 @@
+[
+    {
+        "id": 228915,
+        "file_name": "COCO_train2014_000000228915.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000228915.jpg",
+        "captions": [
+            "A lady wearing a ring and two bracelets holds a gray cat.",
+            "An uncomfortable looking cat wearing a tight white fabric collar",
+            "Someone holding a grey cat that has been shaved. ",
+            "A dark gray cat with shaved fur is held by a woman.",
+            "a cat with a collar sitting by a woman"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "**Which of the following captions best describes the painting?**\n\nA) A lady wearing a ring and two bracelets holds a gray cat.\n\nB) A man with a watch and three rings holding a small dog.\n\nC) A woman wearing a necklace and a hat holds a brown cat.\n\nD) A lady holding gray cat with no jewelry on hands.",
+        "predicted_caption": "\"A moment of affection between a human and their feline friend.\""
+    },
+    {
+        "id": 280866,
+        "file_name": "COCO_train2014_000000280866.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000280866.jpg",
+        "captions": [
+            "A person crossing their legs while a cat walks against a wall.",
+            "a person wearing red tennis shoes and a black cat",
+            "Person with red tennis shoes with feet up near black cat.",
+            "A person's feet in red shoes next to a black cat.",
+            "A black cat walking a ledge in a dark room."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A dog runs across the field while a person jumps over a fence.\n\nB) Two cats are playing in a sunny meadow with no people around.\n\nC) A person crossing their legs while a cat walks against a wall.\n\nD) A bird flies over a pond with ducks swimming nearby.",
+        "predicted_caption": "\"A cozy evening with a feline friend.\""
+    },
+    {
+        "id": 467333,
+        "file_name": "COCO_train2014_000000467333.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000467333.jpg",
+        "captions": [
+            "A fluffy cat laying on the arm of a couch.",
+            "A black and white photo of a cat with a remote control.",
+            "A cat is laying on the couch arm by a remote control.",
+            "A cat is sitting on the arm of a chair with a remote.",
+            "A cat sitting on a couch arm next to a remote control."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A tiny dog sitting on a chair in the garden.\n\nB) A fluffy cat sleeping under the table.\n\nC) A fluffy cat laying on the sofa's pillow.\n\nD) A fluffy cat laying on the arm of a couch.",
+        "predicted_caption": "\"A cozy moment captured in black and white.\""
+    },
+    {
+        "id": 476960,
+        "file_name": "COCO_train2014_000000476960.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000476960.jpg",
+        "captions": [
+            "A cat standing with a banana in its mouth.",
+            "There is a cat that is trying to eat a banana",
+            "a house cat playing with a ripe banana",
+            "A cat with a banana in its mouth.",
+            "The cat has the banana in his mouth."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A cat sitting with an apple in its paw.\n\nB) A cat stand with bananas on its head.\n\nC) A cat standing with a banana in its mouth.\n\nD) A dog standing with a banana in its mouth.",
+        "predicted_caption": "\"A curious feline explores the world of human snacks.\""
+    },
+    {
+        "id": 118960,
+        "file_name": "COCO_train2014_000000118960.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000118960.jpg",
+        "captions": [
+            "A couple of men standing next to each other near a parking lot.",
+            "Two men standing near a parked car having a conversation.",
+            "Some guys standing on a side walk by a car.",
+            "Two people standing on the sidewalk, one with a backpack that has a cat inside it.",
+            "Two men have a conversation on a sidewalk."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) Two men are sitting on a bench in a crowded park.\n\nB) A group of women walking together through a busy street.\n\nC) A single man looking at cars in a remote parking lot.\n\nD) A couple of men standing next to each other near a parking lot.",
+        "predicted_caption": "\"Friends sharing a moment on the sidewalk.\""
+    },
+    {
+        "id": 271112,
+        "file_name": "COCO_train2014_000000271112.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000271112.jpg",
+        "captions": [
+            "A multi-colored cat laying on a rug next to some bottles and a glass door.",
+            "A cat sitting on the floor looking up",
+            "The cat looks upward beside some glass bottles.",
+            "A very cute cat on a rug by some bottles.",
+            "Multi colored cat laying on the floor next to door and liquor bottles"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A brown dog sleeping on a mat near a set of books and an open window.\n\nB) A multi-colored cat laying on a rug next to some bottles and a glass door.\n\nC) A large orange cat laying beside a carpet with some plants and a wooden door.\n\nD) A group of colorful cats sitting on a blanket near some bottles and a closed window.",
+        "predicted_caption": "\"A curious feline gazes out the window, surrounded by the warmth of a cozy home.\""
+    },
+    {
+        "id": 89848,
+        "file_name": "COCO_train2014_000000089848.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000089848.jpg",
+        "captions": [
+            "A cat sitting in a sink over a cup of something.",
+            "A tortoiseshell cat stands in a stainless steel sink and drinks from a cup.",
+            "A cat looking up while sipping from a cup in a sink.",
+            "A very cute cat sitting in a sink drinking from a cup.",
+            "furry cat drinking from a paper cup inside a kitchen sink"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A dog lying on a couch near a bowl of water.\n\nB) A cat sleeping on a bed with a glass of milk.\n\nC) A cat sitting in a sink over a cup of something.\n\nD) A bird perched on a tree next to a cup of coffee.",
+        "predicted_caption": "\"A cozy cat enjoying a warm beverage.\""
+    },
+    {
+        "id": 320045,
+        "file_name": "COCO_train2014_000000320045.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000320045.jpg",
+        "captions": [
+            "A cat sits on a wooden chair with a purse.",
+            "A cat sitting on a wooden chair next to table.",
+            "A cat sitting on a chair in a restaurant",
+            "A cat sits on a cafe chair with a handbag",
+            "Grey and white cat sitting on top of a wooden chair. "
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A dog lies on a metal bench with a hat.\n\nB) A cat sat on the wooden chair with the bag was.\n\nC) A cat sits on a wooden chair with a purse.\n\nD) The cat is under a table with a handbag.",
+        "predicted_caption": "\"A curious feline observing the world from its perch.\""
+    },
+    {
+        "id": 386884,
+        "file_name": "COCO_train2014_000000386884.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000386884.jpg",
+        "captions": [
+            "A cat is hiding under a blanket and peering out.",
+            "A black cat hiding under a blue blanket.",
+            "A cat looks out from under a blue blanket.",
+            "There is a cat lying under a blanket",
+            "a cat looking out from underneath a blanket."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A cat is hiding under a blanket and peering out.\n\nB) A dog is sitting on top of a blanket looking out.\n\nC) A cat hiding beneath a table and looking up.\n\nD) Under the blanket, hiding is the cat and peering.",
+        "predicted_caption": "\"A cozy hideout for a curious feline.\""
+    },
+    {
+        "id": 41505,
+        "file_name": "COCO_train2014_000000041505.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000041505.jpg",
+        "captions": [
+            "A cat is laying on top of a laptop computer.",
+            "A cat taking a nap on a laptop.",
+            "A ginger cat resting on a PC laptop",
+            "A brown cat napping on a laptop kept on a sofa.",
+            "a cat sleeps on a laptop computer on a couch"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "**Which of the following captions best describes the painting?**\n\nA) A cat is laying on top of a laptop computer.\n\nB) A dog is sleeping beside a television.\n\nC) Cat laying on laptop while birds flying in sky.\n\nD) There is a laptop on top of cat computer.",
+        "predicted_caption": "\"A cozy afternoon nap with a laptop as a pillow.\""
+    },
+    {
+        "id": 451843,
+        "file_name": "COCO_train2014_000000451843.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000451843.jpg",
+        "captions": [
+            "A dog and a cat stand side by side",
+            "An adorable cat sitting next to an adorable dog.",
+            "A dog and cat sitting on the ground.",
+            "a cat crouches menacingly along side a disinterested small dog",
+            "Small little dog standing next to a smaller mixed colored cat."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "**Which of the following captions best describes the painting?**\n\nA) Two cats standing together in the garden.\n\nB) A dog and a bird stand side by side.\n\nC) The cat and dog are sitting by the house.\n\nD) A dog and a cat stand side by side.",
+        "predicted_caption": "\"A moment of tranquility between two feline friends.\""
+    },
+    {
+        "id": 204138,
+        "file_name": "COCO_train2014_000000204138.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000204138.jpg",
+        "captions": [
+            "Someone standing in a room with their shoes on their feet. ",
+            "A man is wearing white tennis shoes on a tile floor.",
+            "A striped cat stands at a person's feet on a tile floor.",
+            "A man standing on a tiled floor with a cat next to him",
+            "The camera person is wearing white tennis shoes out on the patio."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) Someone is sitting in a room with their hat on their head.\n\nB) A person is standing outside with no shoes on their feet.\n\nC) Someone stand in a room with their feet on the shoes.\n\nD) Someone standing in a room with their shoes on their feet.",
+        "predicted_caption": "\"A moment of tranquility shared between a human and their feline companion.\""
+    },
+    {
+        "id": 530394,
+        "file_name": "COCO_train2014_000000530394.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000530394.jpg",
+        "captions": [
+            "there is a black tuxedo cat looking in the mirror",
+            "Two cats sitting on top of a wooden floor.",
+            "A cat looking at itself in the mirror next to a tripod.",
+            "A cat and a tripod sitting in front of a mirror.",
+            "a close up of a cat in a mirror"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) There is a black tuxedo cat playing with a ball of yarn.\n\nB) There is a black tuxedo cat looking in the mirror.\n\nC) A gray tabby kitten is sleeping on a blanket.\n\nD) The tuxedo cat is jump over the fence.",
+        "predicted_caption": "\"A curious feline takes a selfie in the mirror.\""
+    },
+    {
+        "id": 390183,
+        "file_name": "COCO_train2014_000000390183.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000390183.jpg",
+        "captions": [
+            "Two cats play with each other near some computers.",
+            "Two mice, monitor screen and cat on the table",
+            "A cat playing around on a computer desk near a TV and laptop. ",
+            "A cat staring at the mouse for a computer.",
+            "A cat is climbing on a book shelf looking at things."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A single dog is lying under a desk with computers on it.\n\nB) Two cats play with each other near some computers.\n\nC) Cats two play near computers with each other.\n\nD) Two cats are fighting on top of a stack of books.",
+        "predicted_caption": "\"A cozy corner with a cat, a mouse, and a TV.\""
+    },
+    {
+        "id": 237286,
+        "file_name": "COCO_train2014_000000237286.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000237286.jpg",
+        "captions": [
+            "One cat plays with a banana while another lies down on a rug.",
+            "A cat playing with a banana toy as another cat looks on.",
+            "A pair of cats play on a rug together.",
+            "A couple of cats are playing on a rug",
+            "Two cats laying on the floor playing with toys"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A dog and a cat play with a toy on a carpet.\n\nB) Two cats are sitting on a table with a fruit.\n\nC) One cat plays with a banana while another lies down on a rug.\n\nD) A single cat is napping next to a banana on the floor.",
+        "predicted_caption": "\"A cozy scene of two feline friends sharing a playful moment on a vibrant rug.\""
+    },
+    {
+        "id": 260978,
+        "file_name": "COCO_train2014_000000260978.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000260978.jpg",
+        "captions": [
+            "A cat is rolling around on a couch",
+            "An orange cat lying on its side on a bed.",
+            "A cat laying on a couch with a sheet and a remote on it.",
+            "An orange cat on a sofa with a remote",
+            "A cat upside on the couch near a remote"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A dog is sitting quietly on a chair.\n\nB) A cat is rolling around outside on the grass.\n\nC) A cat is rolling around on a couch.\n\nD) Cat is lay on a table rolling.",
+        "predicted_caption": "\"A cozy evening with a feline friend.\""
+    },
+    {
+        "id": 142601,
+        "file_name": "COCO_train2014_000000142601.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000142601.jpg",
+        "captions": [
+            "One black cat and one orange cat sleeping on a bed near pillows.",
+            "Two cats curled up on opposite sides of a bed.",
+            "two cats one black the other a light brown sleeping on a bed",
+            "A couple of cats are laying on a large bed.",
+            "Cats sleeping on a quilted bed in a room."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) One black cat and one orange cat sleeping on a bed near pillows.\n\nB) Two black cats sleeping on the floor.\n\nC) One orange cat and one brown rabbit sleeping on a chair near books.\n\nD) A dog and a cat playing on the bed near pillows.",
+        "predicted_caption": "\"A cozy corner with two feline friends sharing a bed.\""
+    },
+    {
+        "id": 436014,
+        "file_name": "COCO_train2014_000000436014.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000436014.jpg",
+        "captions": [
+            "A man using a laptop with cats sitting next to him on the table.",
+            "Cats sit on a desk while a young man uses a laptop.",
+            "A man on a laptop while two cats sit with him.",
+            "A man uses his laptop while cats sit around his table.",
+            "A man works on a computer white cats sit on the table."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A man is watching television with dogs on the couch.\n\nB) A woman reading a book while birds fly overhead in the room.\n\nC) A man with a laptop surrounded by rabbits on the floor.\n\nD) A man using a laptop with cats sitting next to him on the table.",
+        "predicted_caption": "\"A cozy workspace with feline companions.\""
+    },
+    {
+        "id": 103447,
+        "file_name": "COCO_train2014_000000103447.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000103447.jpg",
+        "captions": [
+            "A cat standing in a open suitcase on some cloths.",
+            "A cat that is resting in a full bag of luggage.",
+            "a cat lays inside of a suitcase with clothes in it ",
+            "A cat standing in a laundry hamper looking down.",
+            "An animal sitting in a suit case filled with clothing."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A dog sitting inside a closed suitcase on top of clothes.\n\nB) A cat standing in an open suitcase on some cloths.\n\nC) A cat laying beside a suitcase full of food.\n\nD) A cat stand in a suitcase with books all over.",
+        "predicted_caption": "\"A curious feline exploring the depths of a suitcase.\""
+    },
+    {
+        "id": 372759,
+        "file_name": "COCO_train2014_000000372759.jpg",
+        "url": "http://images.cocodataset.org/train2014/COCO_train2014_000000372759.jpg",
+        "captions": [
+            "a black cat is hiding in a box with shoes",
+            "A cat and some shoes side by side.",
+            "There is a cat sitting next to a pair of boots.",
+            "A cat sits among a pile of shoes in a confined space.",
+            "A black cat peers at a bunch of black shoes."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question": "Which of the following captions best describes the painting?\n\nA) A black cat is hiding in a box with shoes.\n\nB) A brown dog is sleeping under a bed with books.\n\nC) The shoes in the box is being hidden by a dog.\n\nD) In a box a black cat hiding with some fish.",
+        "predicted_caption": "\"A curious feline explores a collection of shoes and boots.\""
+    }
+]
