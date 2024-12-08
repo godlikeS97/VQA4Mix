@@ -1,0 +1,1402 @@
+[
+    {
+        "id": 1,
+        "img_url": "/shared/data/food_data/food_images/Pork_ribs/Pork_ribs_0094.jpg",
+        "reference_caption": [
+            "On the wooden chopping board, there is a cut up grilled and cooked pork rib."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. On the wooden chopping board, there is a cut up grilled and cooked pork rib.\n\nB. On the wooden chopping board, there is a whole, uncooked pork rib.\n\nC. On the wooden chopping board, there is a cut up grilled and cooked chicken breast.\n\nD. On the wooden chopping board, there is a sliced loaf of bread.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. On the wooden chopping board, there is a cut up grilled and cooked pork rib.\n\nB. On the wooden table, there is a whole raw pork rib with sauce.\n\nC. On the wooden chopping board, a raw fish is being sliced in half.\n\nD. On the chopping board, there is a grilled chicken leg with vegetables.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. On the wooden chopping board, there is a cut up grilled and cooked pork rib.\n\nB. On the wooden chopping board, there is a whole raw fish ready to be cooked.\n\nC. On the wooden chopping board, there is a freshly baked loaf of bread.\n\nD. On the wooden chopping board, there is a colorful assortment of fresh fruits.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 2,
+        "img_url": "/shared/data/food_data/food_images/Pork_ribs/Pork_ribs_0096.jpg",
+        "reference_caption": [
+            "Many grilled pork ribs are arranged in a curiously shaped wooden cutlery."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. Many grilled pork ribs are arranged on a metal tray with serving spoons.\n\nB. Several grilled chicken wings are placed on a rectangular wooden board.\n\nC. Numerous grilled pork ribs are stacked on a ceramic plate.\n\nD. Many grilled pork ribs are arranged in a curiously shaped wooden cutlery.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. Several grilled chicken wings are placed on a strangely shaped metal dish.\n\nB. Many grilled pork chops are arranged in a uniquely shaped glass platter.\n\nC. A variety of roasted meats are laid out on an oddly shaped ceramic utensil.\n\nD. Many grilled pork ribs are arranged in a curiously shaped wooden cutlery.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A stack of pancakes with syrup is served on a round plate.\n\nB. Several wooden spoons are placed artistically on a table.\n\nC. A variety of fruits are displayed in a woven basket.\n\nD. Many grilled pork ribs are arranged in a curiously shaped wooden cutlery.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 3,
+        "img_url": "/shared/data/food_data/food_images/Pork_ribs/Pork_ribs_0091.jpg",
+        "reference_caption": [
+            "Two grilled brown-red pork ribs on an oval white dinner plate."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Two grilled brown-red pork ribs on an oval white dinner plate.\n\nB. Two grilled chicken breasts on a round white dinner plate.\n\nC. Two roasted lamb chops on a square white platter.\n\nD. Two golden-brown beef steaks on a rectangular white tray.",
+        "multiple_choice_question_medium": "\nWhich of the following captions best describes the painting?\n\nA. Two grilled brown-red pork ribs on an oval white dinner plate.\n\nB. Two roasted beef steaks on a round silver platter.\n\nC. Three grilled chicken wings on a rectangular black plate.\n\nD. A pair of cooked lamb chops on a blue ceramic dish.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Two grilled brown-red pork ribs on an oval white dinner plate.\n\nB. A single raw fish on a round blue plate.\n\nC. A stack of pancakes with syrup on a square black platter.\n\nD. A bowl of fresh green salad with cherry tomatoes and cucumbers.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 4,
+        "img_url": "/shared/data/food_data/food_images/Pork_ribs/Pork_ribs_0093.jpg",
+        "reference_caption": [
+            "Three pork ribs drizzled with a rich sauce and served on a white round dinner plate."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Three pork ribs drizzled with a rich sauce and served on a white round dinner plate.\n\nB. Three juicy steaks garnished with herbs and served on a rectangular wooden board.\n\nC. A single pork rib covered in a spicy sauce and placed on a blue square plate.\n\nD. A trio of lamb chops with a tangy glaze on a white oval serving dish.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. Three pork ribs drizzled with a rich sauce and served on a white round dinner plate.\n\nB. Two chicken wings covered in a spicy sauce and placed on a square ceramic dish.\n\nC. A single lamb chop under a thick gravy and served in a bowl.\n\nD. Three beef ribs with no sauce served on a wooden platter.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Three pork ribs drizzled with a rich sauce and served on a white round dinner plate.\n\nB. A stack of pancakes topped with fresh berries and a dollop of whipped cream on a square wooden board.\n\nC. A bowl of creamy tomato soup garnished with basil leaves and served with a slice of garlic bread.\n\nD. A large pizza topped with pepperoni and cheese, served on a rustic wooden table.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 5,
+        "img_url": "/shared/data/food_data/food_images/Pork_ribs/Pork_ribs_0084.jpg",
+        "reference_caption": [
+            "Raw, long, fresh pork ribs next to yellow, good potatoes."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Raw, long, fresh pork ribs next to yellow, good potatoes.\n\nB. Cooked pork ribs with a side of mashed potatoes.\n\nC. Fresh beef ribs beside red, ripe tomatoes.\n\nD. Sliced chicken breast with roasted yellow potatoes.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. Raw, long, fresh pork ribs next to yellow, good potatoes.\n\nB. Cooked, short beef ribs beside red, sweet tomatoes.\n\nC. Raw, fresh pork ribs with yellow, large lemons.\n\nD. Long, frozen fish fillets near green, fresh beans.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Raw, long, fresh pork ribs next to yellow, good potatoes.\n\nB. Cooked, short beef ribs with red tomatoes on the side.\n\nC. Fresh fish fillets alongside green, crisp broccoli.\n\nD. A basket of assorted fruits next to a loaf of bread.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 6,
+        "img_url": "/shared/data/food_data/food_images/Pork_ribs/Pork_ribs_0085.jpg",
+        "reference_caption": [
+            "Sliced pork ribs with red sauce and green, fresh thyme."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA) Grilled chicken wings with spicy barbecue sauce and rosemary garnish.\n\nB) Roasted lamb chops with mint jelly and a side of parsley.\n\nC) Sliced pork ribs with red sauce and green, fresh thyme.\n\nD) Baked salmon fillets with lemon dill sauce and capers.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Sliced beef ribs with brown sauce and dried rosemary.\n\nB. Chopped chicken thighs with spicy sauce and fresh basil.\n\nC. Sliced pork ribs with red sauce and green, fresh thyme.\n\nD. Grilled lamb chops with white sauce and green parsley.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. Grilled salmon with a lemon glaze and dill garnish.\n\nB. Roast chicken with a side of mashed potatoes and gravy.\n\nC. Sliced pork ribs with red sauce and green, fresh thyme.\n\nD. Beef steak topped with mushroom sauce and rosemary sprigs.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 7,
+        "img_url": "/shared/data/food_data/food_images/Pork_ribs/Pork_ribs_0082.jpg",
+        "reference_caption": [
+            "Cut, with black skin, good pork ribs are stacked together."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Cut, with black skin, good pork ribs are stacked together.\n\nB. Cut, with red skin, good pork ribs are scattered.\n\nC. Sliced, with black skin, juicy chicken wings are stacked together.\n\nD. Cut, with black skin, fresh beef ribs are arranged in a pile.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. Cut, with black skin, good pork ribs are stacked together.\n\nB. Sliced, with dark surface, fresh chicken wings are piled up.\n\nC. Chopped, with brown skin, juicy lamb chops are layered.\n\nD. Cut, with shiny skin, delicious steak pieces are arranged.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Cut, with black skin, good pork ribs are stacked together.\n\nB. A collection of shiny steel knives laid out on a wooden table.\n\nC. A stack of fresh, green vegetables arranged neatly in a basket.\n\nD. An assortment of colorful fruits displayed on a kitchen counter.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 8,
+        "img_url": "/shared/data/food_data/food_images/Pork_ribs/Pork_ribs_0092.jpg",
+        "reference_caption": [
+            "A black baking sheet holds two grilled Pork ribs and is drizzled with honey with a spoon."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A black baking sheet holds two grilled chicken thighs and a fork.\n\nB. A black baking sheet holds two grilled Pork ribs and is drizzled with honey with a spoon.\n\nC. A black baking sheet holds two grilled steaks and a bottle of olive oil.\n\nD. A black baking sheet holds two grilled fish fillets and a sprig of rosemary.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A baking tray with two grilled chicken breasts drizzled with honey and a spoon.\n\nB. A black baking sheet holds two grilled Pork ribs and is drizzled with honey with a spoon.\n\nC. A black baking sheet with two grilled steaks and a fork.\n\nD. A black pan holds two grilled ribs covered in chocolate sauce with a spoon.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA) A white ceramic plate holds a slice of apple pie topped with vanilla ice cream and a fork.\n\nB) A black baking sheet holds two grilled Pork ribs and is drizzled with honey with a spoon.\n\nC) A wooden table is set with a bouquet of flowers and a teapot next to a novel.\n\nD) A silver platter displays a collection of assorted cheeses and crackers.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 9,
+        "img_url": "/shared/data/food_data/food_images/Pork_ribs/Pork_ribs_0083.jpg",
+        "reference_caption": [
+            "Fresh, cut, yellow, good pork ribs on a piece of white oil absorbent paper."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. Fresh, cut, yellow, good chicken wings on a piece of white oil absorbent paper.\n\nB. Fresh, cut, yellow, good beef steaks on a piece of white oil absorbent paper.\n\nC. Fresh, cut, yellow, good lamb chops on a piece of white oil absorbent paper.\n\nD. Fresh, cut, yellow, good pork ribs on a piece of white oil absorbent paper.",
+        "multiple_choice_question_medium": "Question Title: Which of the following captions best describes the painting?\n\nA. Raw, sliced, red beef steaks on a sheet of brown parchment paper.\n\nB. Freshly baked, golden bread rolls on a wooden cutting board.\n\nC. Glazed, spicy chicken wings served on a metal tray.\n\nD. Fresh, cut, yellow, good pork ribs on a piece of white oil absorbent paper.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Juicy, red, ripe apples arranged on a wooden cutting board.\n\nB. A collection of vibrant, fresh vegetables on a colorful ceramic dish.\n\nC. A display of assorted cheeses and crackers on an elegant marble platter.\n\nD. Fresh, cut, yellow, good pork ribs on a piece of white oil absorbent paper.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 10,
+        "img_url": "/shared/data/food_data/food_images/Pork_ribs/Pork_ribs_0081.jpg",
+        "reference_caption": [
+            "Two pieces of burnt pork ribs with cooked soybeans and red chili sauce in a gray bowl."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question Title: Which of the following captions best describes the painting?\n\nA. Two pieces of grilled chicken with green peas and spicy tomato sauce in a white bowl.\n\nB. Two pieces of burnt pork ribs with cooked soybeans and red chili sauce in a gray bowl.\n\nC. Two pieces of roasted lamb with lentils and hot pepper sauce in a black bowl.\n\nD. Two pieces of charred beef ribs with mixed beans and mild curry sauce in a silver bowl.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. \"A single piece of grilled chicken with green peas and spicy tomato sauce in a blue bowl.\"\n\nB. \"Two pieces of burnt pork ribs with cooked soybeans and red chili sauce in a gray bowl.\"\n\nC. \"Three slices of roasted beef with mashed potatoes and green chili in a white plate.\"\n\nD. \"A couple of grilled lamb chops with corn and mild salsa in a red dish.\"",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A bowl of fresh fruit salad with bananas and strawberries topped with whipped cream.\n\nB. Two pieces of burnt pork ribs with cooked soybeans and red chili sauce in a gray bowl.\n\nC. A plate of spaghetti with meatballs and marinara sauce sprinkled with cheese.\n\nD. A basket of assorted bread rolls with butter and jam on the side.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 11,
+        "img_url": "/shared/data/food_data/food_images/Beignet/Beignet_0098.jpg",
+        "reference_caption": [
+            "A round beignet sprinkled with powdered sugar and divided in two on a black plate with lace."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the painting?**\n\nA) A round donut sprinkled with powdered sugar on a wooden board with a fork.\n\nB) A round beignet sprinkled with powdered sugar and divided in two on a black plate with lace.\n\nC) A round scone topped with whipped cream and sliced strawberries on a blue plate.\n\nD) A round cake with chocolate glaze and chopped nuts on a white ceramic dish.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA) A round donut with chocolate glaze and sprinkles on a silver tray. \n\nB) A round beignet sprinkled with powdered sugar and divided in two on a black plate with lace.\n\nC) A pair of croissants on a white ceramic plate, dusted with cinnamon sugar.\n\nD) A round pastry with icing sugar on a blue dish with embroidery.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. \"A black cat curled up on a white lace tablecloth in a sunlit room.\"\n\nB. \"A round beignet sprinkled with powdered sugar and divided in two on a black plate with lace.\"\n\nC. \"A bowl of fresh fruit sitting on a wooden table with a white cloth draped over it.\"\n\nD. \"A steaming cup of coffee next to a stack of books on a lace doily.\"",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 12,
+        "img_url": "/shared/data/food_data/food_images/Beignet/Beignet_0083.jpg",
+        "reference_caption": [
+            "freshly fried beignet twisted like darts sprinkling with sugar accompanied with a piece of lemon."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA) Crispy churros dusted with cinnamon and sugar, served with a side of chocolate sauce.\n\nB) Golden-brown doughnuts topped with powdered sugar, paired with a slice of orange.\n\nC) Freshly fried beignet twisted like darts sprinkling with sugar accompanied with a piece of lemon.\n\nD) Flaky croissants drizzled with honey and served alongside a wedge of lime.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Freshly baked pretzels shaped like spirals with salt and a slice of lime.\n\nB. Crispy churros decorated with cinnamon sugar and served with a wedge of orange.\n\nC. Freshly fried beignet twisted like darts sprinkling with sugar accompanied with a piece of lemon.\n\nD. Sweet pastries coiled like rings, dusted with powdered sugar, and garnished with a piece of grapefruit.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A stack of pancakes drizzled with syrup and topped with fresh berries beside a glass of orange juice.\n\nB. A bowl of pasta with tomato sauce, garnished with basil and served with garlic bread.\n\nC. Freshly fried beignet twisted like darts sprinkling with sugar accompanied with a piece of lemon.\n\nD. A plate of sushi rolls neatly arranged with soy sauce and wasabi on the side.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 13,
+        "img_url": "/shared/data/food_data/food_images/Beignet/Beignet_0100.jpg",
+        "reference_caption": [
+            "Four golden round beignets with a hole in the middle, sprinkled with powdered sugar, on a colorful striped handkerchief."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. Four round bagels with sesame seeds, on a colorful striped handkerchief.\n\nB. Four golden round beignets with a hole in the middle, sprinkled with powdered sugar, on a colorful striped handkerchief.\n\nC. Four golden round doughnuts with chocolate glaze, on a colorful striped handkerchief.\n\nD. Four golden round cookies with chocolate chips, on a colorful striped handkerchief.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Four circular bagels topped with sesame seeds, placed on a plain white handkerchief.\n\nB. Four golden round beignets with a hole in the middle, sprinkled with powdered sugar, on a colorful striped handkerchief.\n\nC. Three large donuts with chocolate glaze, arranged on a striped napkin.\n\nD. A group of round pastries with cream filling, dusted with sugar, on a solid-colored cloth.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Four golden square pastries with chocolate drizzle, on a plain white cloth.\n\nB. Four golden round beignets with a hole in the middle, sprinkled with powdered sugar, on a colorful striped handkerchief.\n\nC. Four golden round cookies with raisins, topped with a dusting of cinnamon, on a floral napkin.\n\nD. Four golden round bagels with sesame seeds, placed on a checkered tablecloth.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 14,
+        "img_url": "/shared/data/food_data/food_images/Beignet/Beignet_0091.jpg",
+        "reference_caption": [
+            "Several beignets sprinkled with powdered sugar and a glass of milk on a piece of paper."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Several doughnuts with chocolate glaze and a cup of coffee on a table.\n\nB. A plate of croissants with jam and butter next to a glass of orange juice.\n\nC. Several beignets sprinkled with powdered sugar and a glass of milk on a piece of paper.\n\nD. A stack of pancakes with syrup and a cup of tea on a breakfast tray.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A plate of donuts covered in chocolate glaze sits next to a cup of hot coffee on a wooden table.\n\nB. A collection of croissants dusted with cinnamon and a mug of tea placed on a napkin.\n\nC. Several beignets sprinkled with powdered sugar and a glass of milk on a piece of paper.\n\nD. A stack of pancakes with syrup and a glass of orange juice on a kitchen counter.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A basket of ripe apples and a jug of orange juice on a wooden table.\n\nB. A stack of pancakes topped with fresh blueberries and a cup of coffee on a ceramic plate.\n\nC. Several beignets sprinkled with powdered sugar and a glass of milk on a piece of paper.\n\nD. A bowl of cereal with sliced bananas and a glass of orange juice on a breakfast tray.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 15,
+        "img_url": "/shared/data/food_data/food_images/Beignet/Beignet_0094.jpg",
+        "reference_caption": [
+            "A plate of rectangular beignets sprinkled with powdered sugar, with a cup of coffee next to it."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A plate of doughnuts with chocolate glaze and sprinkles, accompanied by a glass of milk.\n\nB. A plate of rectangular beignets sprinkled with powdered sugar, with a cup of coffee next to it.\n\nC. A plate of croissants with a side of butter, served with a cup of tea.\n\nD. A plate of pancakes topped with syrup, with a glass of orange juice beside it.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A plate of square donuts with icing sugar, with a glass of tea nearby.\n\nB. A plate of rectangular beignets sprinkled with powdered sugar, with a cup of coffee next to it.\n\nC. A bowl of round pastries covered in cinnamon, with a cup of cocoa beside them.\n\nD. A dish of long churros dusted with sugar, alongside a mug of milk.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA) A bowl of round doughnuts glazed with chocolate, with a glass of milk next to it.\n\nB) A plate of rectangular beignets sprinkled with powdered sugar, with a cup of coffee next to it.\n\nC) A platter of assorted fruits with a jug of orange juice on the side.\n\nD) A stack of pancakes topped with syrup, with a side of scrambled eggs.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 16,
+        "img_url": "/shared/data/food_data/food_images/Beignet/Beignet_0081.jpg",
+        "reference_caption": [
+            "deep-fried beignet doughed into a ball glistening with oil on a plate."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA) A plate full of golden brown doughnuts covered in powdered sugar.\n\nB) A single spherical pastry topped with chocolate glaze resting on a table.\n\nC) Deep-fried beignet doughed into a ball glistening with oil on a plate.\n\nD) A round cake with a creamy center placed on a decorative dish.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A baked pastry shaped like a square with sugar sprinkled on top of a table.\n\nB. A ball of dough lightly coated with flour resting in a basket.\n\nC. Deep-fried beignet doughed into a ball glistening with oil on a plate.\n\nD. A round cake covered in chocolate placed on a glass dish.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA) A healthy salad with fresh greens and a light vinaigrette dressing on a plate.\n\nB) A bowl of fresh fruit, including apples and bananas, glistening with moisture.\n\nC) Deep-fried beignet doughed into a ball glistening with oil on a plate.\n\nD) A stack of pancakes topped with syrup and fresh berries on a breakfast table.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 17,
+        "img_url": "/shared/data/food_data/food_images/Beignet/Beignet_0082.jpg",
+        "reference_caption": [
+            "annular beignet with crispy caramel skin full of sugar powder."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. Circular donut with a golden glaze and a sprinkle of cocoa powder.\n\nB. Annular beignet with crispy caramel skin full of sugar powder.\n\nC. Ring-shaped pastry with a dusting of cinnamon and a glossy finish.\n\nD. Sweet fritter topped with powdered sugar and a hint of vanilla.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Circular doughnut with a crunchy caramel coating topped with powdered sugar.\n\nB. Annular beignet with crispy caramel skin full of sugar powder.\n\nC. Round donut with a hard caramel shell and sugary dust.\n\nD. Ringed pastry with crispy caramel outside and sprinkled with sugar.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Circular doughnut with a shiny glaze topped with rainbow sprinkles.\n\nB. Annular beignet with crispy caramel skin full of sugar powder.\n\nC. Round cookie with a chewy center and a drizzle of chocolate.\n\nD. Fluffy pancake with a layer of honey and fresh berries.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 18,
+        "img_url": "/shared/data/food_data/food_images/Beignet/Beignet_0092.jpg",
+        "reference_caption": [
+            "Many golden beignets sprinkled with white powdered sugar on a rectangular tray, with a white teacup next to it."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Several doughnuts covered in chocolate glaze on a round plate, with a glass of milk beside it.\n\nB. A collection of golden pastries topped with cinnamon on a square dish, accompanied by a silver spoon.\n\nC. Numerous cookies with sprinkles on a large platter, with a cup of coffee nearby.\n\nD. Many golden beignets sprinkled with white powdered sugar on a rectangular tray, with a white teacup next to it.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Several golden donuts covered in chocolate glaze on a round platter, with a black coffee cup beside it.\n\nB. A bunch of fried pastries dusted with cinnamon sugar on a circular dish, with a glass of milk next to it.\n\nC. Many brown cookies with melted chocolate chips on a square plate, with a silver teapot nearby.\n\nD. Many golden beignets sprinkled with white powdered sugar on a rectangular tray, with a white teacup next to it.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A collection of golden coins scattered across a wooden table, with a steaming cup of coffee nearby.\n\nB. A rectangular tray filled with assorted chocolates and a glass of milk beside it.\n\nC. Many golden apples arranged in a basket, with a white saucer and spoon next to it.\n\nD. Many golden beignets sprinkled with white powdered sugar on a rectangular tray, with a white teacup next to it.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 19,
+        "img_url": "/shared/data/food_data/food_images/Beignet/Beignet_0084.jpg",
+        "reference_caption": [
+            "white sugar powder covering the golden surface of three squares of the beignet."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A light dusting of flour sprinkled over three golden pancakes.\n\nB. White sugar powder covering the golden surface of three squares of the beignet.\n\nC. Powdered sugar scattered across a trio of golden waffles.\n\nD. Three golden pieces of toast lightly dusted with powdered sugar.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A trio of cookies with a layer of chocolate dust on top.\n\nB. White sugar powder covering the golden surface of three squares of the beignet.\n\nC. Three square pastries with a glossy icing completely covering them.\n\nD. Three golden biscuits with butter melted over their tops.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Golden squares of beignet stacked with a drizzle of honey.\n\nB. White sugar powder covering the golden surface of three squares of the beignet.\n\nC. Squares of beignet with a light dusting of cinnamon on top.\n\nD. Three golden squares with a layer of creamy icing.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 20,
+        "img_url": "/shared/data/food_data/food_images/Beignet/Beignet_0088.jpg",
+        "reference_caption": [
+            "a basket of fluffy beignet with a hole in the middle full of sugar powder on the top."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A basket of fluffy bagels with a shiny glaze on the top.\n\nB. A basket of fluffy beignet with a hole in the middle full of sugar powder on the top.\n\nC. A bowl of powdered donuts with sprinkles scattered around.\n\nD. A tray of croissants with a dusting of sugar on top.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A basket of fluffy donuts with chocolate glaze and sprinkles on top.\n\nB. A basket of fluffy beignet with a hole in the middle full of sugar powder on the top.\n\nC. A bowl of crispy beignets with a hole in the middle topped with cinnamon.\n\nD. A tray of soft beignets with jam in the middle covered in powdered sugar.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A basket of assorted fruits with a shiny glaze on top.\n\nB. A basket of fluffy beignet with a hole in the middle full of sugar powder on the top.\n\nC. A basket of colorful yarn balls arranged neatly.\n\nD. A basket of freshly baked croissants with melted cheese.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 21,
+        "img_url": "/shared/data/food_data/food_images/Hae_mee/Hae_mee_0082.jpg",
+        "reference_caption": [
+            "Shrimp hae mee prepared using deshelled shrimps and noodles cooked in soy sauce."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. Shrimp hae mee prepared using deshelled shrimps and noodles cooked in soy sauce.\n\nB. Shrimp hae mee prepared using whole shrimps and noodles cooked in a spicy broth.\n\nC. Shrimp hae mee prepared using deshelled shrimps and noodles topped with sesame seeds.\n\nD. Shrimp hae mee prepared using deshelled shrimps and noodles cooked in a creamy sauce.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Shrimp hae mee prepared using deshelled shrimps and noodles cooked in soy sauce.\n\nB. Shrimp hae mee prepared with whole prawns and noodles tossed in peanut butter.\n\nC. Shrimp hae mee made with crabmeat and rice noodles mixed in fish sauce.\n\nD. Shrimp hae mee featuring deshelled shrimps and pasta combined with olive oil.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Shrimp hae mee prepared using deshelled shrimps and noodles cooked in soy sauce.\n\nB. Grilled chicken served with roasted vegetables and mashed potatoes.\n\nC. Fresh fruit salad made with strawberries, bananas, and kiwi slices.\n\nD. A loaf of freshly baked bread accompanied by a bowl of tomato soup.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 22,
+        "img_url": "/shared/data/food_data/food_images/Hae_mee/Hae_mee_0092.jpg",
+        "reference_caption": [
+            "A green bowl holds a serving of hae mee, contains udon noodles, lean meat, shrimp, bean sprouts, egg, and water. And a small dish of red sauce next to them."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A green bowl holds a serving of hae mee, contains udon noodles, lean meat, shrimp, bean sprouts, egg, and water. And a small dish of red sauce next to them.\n\nB. A blue bowl holds a serving of ramen, contains rice noodles, chicken, crab, spinach, and tofu. A small dish of soy sauce is next to them.\n\nC. A green bowl holds a serving of pho, contains rice noodles, beef slices, shrimp, basil, and lime. A small dish of hoisin sauce is next to them.\n\nD. A green bowl holds a serving of pasta, contains spaghetti noodles, ground beef, tomato sauce, and cheese. A small dish of olive oil is next to them.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A green bowl holds a serving of hae mee, contains udon noodles, lean meat, shrimp, bean sprouts, egg, and water. And a small dish of red sauce next to them.\n\nB. A blue plate carries a helping of ramen, consisting of spaghetti, chicken, lobster, cabbage, a whole egg, and soy sauce. A large cup of green tea is nearby.\n\nC. A yellow bowl is filled with pho, featuring rice noodles, pork, crab, lettuce, tofu, and coconut milk. A saucer of white sauce sits beside it.\n\nD. A red bowl contains a mix of pasta, tofu, carrots, mushrooms, and cheese. A tiny jar of olive oil is placed next to it.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A green bowl holds a serving of hae mee, contains udon noodles, lean meat, shrimp, bean sprouts, egg, and water. And a small dish of red sauce next to them.\n\nB. A vibrant landscape with rolling hills and a clear blue sky, dotted with fluffy clouds and a distant farmhouse.\n\nC. A bustling city street scene with towering skyscrapers, busy traffic, and pedestrians crossing at a busy intersection.\n\nD. A serene beach scene with golden sand, gentle waves lapping at the shore, and a couple of seagulls flying overhead.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 23,
+        "img_url": "/shared/data/food_data/food_images/Hae_mee/Hae_mee_0095.jpg",
+        "reference_caption": [
+            "Some noodles, shrimp, egg chunk, water spinach, bean sprouts, and some red soup made into hae mee."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. Some noodles, shrimp, tofu pieces, watercress, bean sprouts, and some green soup made into Tom Yum.\n\nB. A plate of spaghetti with prawns, boiled egg, kale, mung bean sprouts, and some spicy tomato sauce.\n\nC. Stir-fried noodles with chicken, scrambled eggs, bok choy, bean sprouts, and a thick brown sauce.\n\nD. Some noodles, shrimp, egg chunk, water spinach, bean sprouts, and some red soup made into hae mee.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A bowl with udon noodles, fish pieces, tofu cubes, carrots, and a clear broth made into ramen soup.\n\nB. A dish of pasta, chicken strips, boiled egg, kale, peas, and a white sauce.\n\nC. Plate with spaghetti, grilled shrimp, scrambled egg, lettuce, and tomato soup served as a fusion dish.\n\nD. Some noodles, shrimp, egg chunk, water spinach, bean sprouts, and some red soup made into hae mee.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. \"A bowl of spaghetti with meatballs and a sprinkle of parmesan cheese.\"\n\nB. \"A serving of sushi rolls with salmon, avocado, and pickled ginger.\"\n\nC. \"A plate of tacos filled with beef, lettuce, cheese, and salsa.\"\n\nD. \"Some noodles, shrimp, egg chunk, water spinach, bean sprouts, and some red soup made into hae mee.\"",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 24,
+        "img_url": "/shared/data/food_data/food_images/Hae_mee/Hae_mee_0093.jpg",
+        "reference_caption": [
+            "A serving of hae mee, contains some noodles, shrimp, clam, Shanghai cabbage, and some soup"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A serving of hae mee, containing noodles, shrimp, tofu, carrots, and some broth.\n\nB. A serving of hae mee, with noodles, prawns, mussels, spinach, and a spicy sauce.\n\nC. A serving of hae mee, consisting of noodles, lobster, clams, bok choy, and a clear broth.\n\nD. A serving of hae mee, contains some noodles, shrimp, clam, Shanghai cabbage, and some soup.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA) A bowl of hae mee, featuring noodles, prawns, mussels, bok choy, and broth.\n\nB) A serving of hae mee with rice, chicken, celery, and gravy.\n\nC) A dish of hae mee with pasta, fish, spinach, and sauce.\n\nD) A serving of hae mee, contains some noodles, shrimp, clam, Shanghai cabbage, and some soup.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA) A serving of Caesar salad, contains lettuce, croutons, parmesan cheese, and Caesar dressing.\n\nB) A platter of sushi, featuring rice rolls, salmon, tuna, and avocado slices.\n\nC) A bowl of fruit salad, with slices of apple, banana, grape, and orange.\n\nD) A serving of hae mee, contains some noodles, shrimp, clam, Shanghai cabbage, and some soup.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 25,
+        "img_url": "/shared/data/food_data/food_images/Hae_mee/Hae_mee_0084.jpg",
+        "reference_caption": [
+            "A closeup of hae mee with thin rice noodles, shrimps with shells and leafy greens in ren-colored spicy soup."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the painting?**\n\nA. A bowl of ramen with thick wheat noodles, sliced pork, and boiled eggs in a clear broth.\n\nB. A plate of spaghetti with meatballs, tomato sauce, and a sprinkle of parmesan cheese.\n\nC. A closeup of hae mee with thin rice noodles, shrimps with shells and leafy greens in ren-colored spicy soup.\n\nD. A dish of pad thai with stir-fried rice noodles, peanuts, and lime wedges in a tangy sauce.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. A closeup of thick egg noodles with peeled shrimps and vegetables in a green-colored broth.\n\nB. A closeup of hae mee with thin rice noodles, shrimps without shells and leafy greens in a clear soup.\n\nC. A closeup of hae mee with thin rice noodles, shrimps with shells and leafy greens in ren-colored spicy soup.\n\nD. A closeup of seafood pasta with crabs and spinach in a creamy white sauce.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A closeup of a fruit salad with apples, bananas, and strawberries in a clear glass bowl.\n\nB. A closeup of a seafood platter with grilled salmon, scallops, and oysters on a bed of ice.\n\nC. A closeup of hae mee with thin rice noodles, shrimps with shells and leafy greens in ren-colored spicy soup.\n\nD. A closeup of a vegetable stir-fry with broccoli, carrots, and bell peppers in a savory soy sauce.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 26,
+        "img_url": "/shared/data/food_data/food_images/Hae_mee/Hae_mee_0085.jpg",
+        "reference_caption": [
+            "A top view of hae mee with shrimps, pork, and a hard-boiled egg, with a sprinkle of fried onions on top."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A top view of a seafood pasta dish with clams, mussels, and a poached egg, garnished with fresh parsley.\n\nB. A top view of ramen noodles with chicken, tofu, and a soft-boiled egg, drizzled with sesame oil.\n\nC. A top view of hae mee with shrimps, pork, and a hard-boiled egg, with a sprinkle of fried onions on top.\n\nD. A top view of a noodle soup with beef slices, bean sprouts, and a quail egg, topped with cilantro.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA) A bird's-eye view of a noodle dish featuring shrimp, beef, and a poached egg, garnished with fried garlic on top.\n\nB) A top view of a seafood platter with prawns, chicken, and a soft-boiled egg, sprinkled with crispy onions on top.\n\nC) A top view of hae mee with shrimps, pork, and a hard-boiled egg, with a sprinkle of fried onions on top.\n\nD) An overhead shot of ramen with clams, pork belly, and a sunny-side-up egg, topped with toasted onions.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A top view of ramen noodles with chicken slices, seaweed, and a poached egg, garnished with sesame seeds.\n\nB. A close-up of spaghetti bolognese with ground beef, tomatoes, and grated parmesan cheese on top.\n\nC. A top view of hae mee with shrimps, pork, and a hard-boiled egg, with a sprinkle of fried onions on top.\n\nD. A bird's-eye view of sushi rolls with salmon, avocado, and a drizzle of soy sauce on a wooden platter.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 27,
+        "img_url": "/shared/data/food_data/food_images/Hae_mee/Hae_mee_0098.jpg",
+        "reference_caption": [
+            "A serving of hae mee in a red bowl, contains noodles, shrimp, lean meat, and bean sprouts. By the side, there is a bowl of red sauce and a small dish of chili circle with soy sauce"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A serving of ramen in a blue bowl, contains noodles, chicken, seaweed, and corn. By the side, there is a bowl of miso soup and a small dish of pickled ginger.\n\nB. A serving of pad thai in a green bowl, contains noodles, tofu, peanuts, and lime wedges. By the side, there is a small bowl of peanut sauce and a dish of chili flakes.\n\nC. A serving of pho in a white bowl, contains noodles, beef slices, basil, and lime. By the side, there is a bowl of hoisin sauce and a small dish of sriracha.\n\nD. A serving of hae mee in a red bowl, contains noodles, shrimp, lean meat, and bean sprouts. By the side, there is a bowl of red sauce and a small dish of chili circle with soy sauce.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A bowl of ramen topped with chicken, egg, and mushrooms. On the side, there are some green vegetables and a small dish of garlic sauce.\n\nB. A serving of pasta in a green bowl, contains spaghetti, clams, bacon, and broccoli. Next to it, there is a cup of white sauce and a plate of olives with balsamic vinegar.\n\nC. A dish of sushi rolls in a blue plate, filled with tuna, avocado, and cucumber. By the side, there is a bowl of wasabi and a small dish of pickled ginger with soy sauce.\n\nD. A serving of hae mee in a red bowl, contains noodles, shrimp, lean meat, and bean sprouts. By the side, there is a bowl of red sauce and a small dish of chili circle with soy sauce.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A plate of spaghetti with meatballs, topped with parmesan cheese and served with a side of garlic bread and marinara sauce.\n\nB. A bowl of chicken pho with rice noodles, cilantro, lime wedges, and bean sprouts. Served alongside are hoisin sauce and sriracha.\n\nC. A dish of sushi rolls, including salmon, tuna, and avocado, with wasabi, pickled ginger, and soy sauce on the side.\n\nD. A serving of hae mee in a red bowl, contains noodles, shrimp, lean meat, and bean sprouts. By the side, there is a bowl of red sauce and a small dish of chili circle with soy sauce.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 28,
+        "img_url": "/shared/data/food_data/food_images/Hae_mee/Hae_mee_0094.jpg",
+        "reference_caption": [
+            "A bowl of hae mee, that is made of noodles, shrimp, water spinach, and some brown soup"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A bowl of hae mee, that is made of noodles, shrimp, water spinach, and some brown soup\n\nB. A bowl of chicken ramen with boiled eggs, seaweed, and clear broth\n\nC. A plate of spaghetti with meatballs, topped with tomato sauce and parsley\n\nD. A bowl of pho with beef slices, bean sprouts, and a light broth",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A bowl of hae mee, that is made of noodles, shrimp, water spinach, and some brown soup\n\nB. A dish of pasta with chicken, broccoli, and tomato sauce\n\nC. A bowl of rice with beef, carrots, and clear broth\n\nD. A plate of spaghetti, prawns, and white sauce with lettuce",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A bowl of hae mee, that is made of noodles, shrimp, water spinach, and some brown soup\n\nB. A plate of spaghetti topped with meatballs and a sprinkle of parmesan cheese\n\nC. A basket of assorted fruits including bananas, apples, and grapes\n\nD. A cup of hot chocolate with marshmallows and whipped cream",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 29,
+        "img_url": "/shared/data/food_data/food_images/Hae_mee/Hae_mee_0081.jpg",
+        "reference_caption": [
+            "A closeup of Hae mee made with noodles and shrimps stir-fried in a brown-colored sauce."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A closeup of a seafood salad featuring shrimp and noodles tossed with a light vinaigrette.\n\nB. A closeup of Hae mee made with noodles and chicken stir-fried in a spicy red sauce.\n\nC. A closeup of Hae mee made with noodles and shrimps stir-fried in a brown-colored sauce.\n\nD. A closeup of Hae mee soup with noodles and shrimp in a clear broth.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A closeup of Hae mee made with noodles and chicken stir-fried in a brown-colored sauce.\n\nB. A closeup of noodles and shrimps served with a red-colored spicy sauce.\n\nC. A closeup of Hae mee made with noodles and shrimps stir-fried in a brown-colored sauce.\n\nD. A closeup of Hae mee made with pasta and prawns in a creamy white sauce.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A closeup of an abstract painting featuring swirls of vibrant colors and geometric shapes.\n\nB. A detailed depiction of a landscape with rolling hills and a serene blue river under a clear sky.\n\nC. A closeup of Hae mee made with noodles and shrimps stir-fried in a brown-colored sauce.\n\nD. An intricate portrait of a historical figure dressed in regal attire, holding a scepter.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 30,
+        "img_url": "/shared/data/food_data/food_images/Hae_mee/Hae_mee_0083.jpg",
+        "reference_caption": [
+            "Spicy hae mee made with pork, shrimps, and a half of a hard-boiled egg, cooked in a spicy soup."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA) Savory tofu stew made with beef, mussels, and a soft poached egg, simmered in a rich broth.\n\nB) Flavorful tom yum soup made with chicken, squid, and a quarter of a boiled egg, served hot.\n\nC) Spicy hae mee made with pork, shrimps, and a half of a hard-boiled egg, cooked in a spicy soup.\n\nD) Zesty seafood chowder made with crab, lobster, and a sliced boiled egg, in a creamy base.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA) Hae mee with beef, chicken, and a sunny-side-up egg, cooked in a mild broth.\n\nB) Spicy noodle dish with tofu, fish, and a scrambled egg, served in a tangy sauce.\n\nC) Spicy hae mee made with pork, shrimps, and a half of a hard-boiled egg, cooked in a spicy soup.\n\nD) Hae mee with lamb, crab, and a poached egg, in a creamy coconut soup.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Sweet and sour pork stir-fry with bell peppers, onions, and pineapple chunks, served over rice.\n\nB. Creamy mushroom risotto topped with grated Parmesan cheese and fresh parsley.\n\nC. Spicy hae mee made with pork, shrimps, and a half of a hard-boiled egg, cooked in a spicy soup.\n\nD. Baked salmon with a honey glaze, accompanied by steamed broccoli and lemon slices.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 31,
+        "img_url": "/shared/data/food_data/food_images/Botifarra/Botifarra_0059.jpg",
+        "reference_caption": [
+            "Charred botifarra and white lentils with some seaweed on a white plate"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Grilled sausage and chickpeas with spinach on a white plate\n\nB. Charred botifarra and white lentils with some seaweed on a white plate\n\nC. Roasted chicken and quinoa with kale on a white plate\n\nD. Seared fish and barley with herbs on a white plate",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA) Burnt sausage and green peas with a hint of seaweed on a round platter\n\nB) Charred botifarra and white lentils with some seaweed on a white plate\n\nC) Grilled fish and brown beans with sea herbs on a square dish\n\nD) Crispy sausage and white beans with seaweed topping on a colorful bowl",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA) \"Grilled salmon over a bed of quinoa with asparagus on a blue plate\"\n\nB) \"Charred botifarra and white lentils with some seaweed on a white plate\"\n\nC) \"Spaghetti carbonara with bacon and peas on a wooden table\"\n\nD) \"Roasted chicken with mashed potatoes and green beans on a red dish\"",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 32,
+        "img_url": "/shared/data/food_data/food_images/Botifarra/Botifarra_0063.jpg",
+        "reference_caption": [
+            "a dish of baked botifarra and golden beans lie on oil"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. a plate of roasted sausages and yellow peas on a plate\n\nB. a dish of grilled chorizo and golden lentils on oil\n\nC. a serving of cooked bratwurst and yellow beans on a platter\n\nD. a dish of baked botifarra and golden beans lie on oil",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. A plate of fried botifarra and green peas sit on a platter.\n\nB. A dish of cooked sausages and yellow rice lie in sauce.\n\nC. A serving of boiled botifarra and orange lentils rest on a pan.\n\nD. A dish of baked botifarra and golden beans lie on oil.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A bowl of fresh salad with green lettuce and tomatoes.\n\nB. A plate of sushi rolls with soy sauce and wasabi.\n\nC. A serving of spaghetti topped with marinara sauce and parmesan cheese.\n\nD. A dish of baked botifarra and golden beans lie on oil.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 33,
+        "img_url": "/shared/data/food_data/food_images/Botifarra/Botifarra_0068.jpg",
+        "reference_caption": [
+            "a brown botifarra with charred skin with white beans and parsley"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A grilled sausage with roasted potatoes and thyme\n\nB. A brown botifarra with charred skin with white beans and parsley\n\nC. A smoked sausage with lentils and cilantro\n\nD. A roasted bratwurst with mashed potatoes and chives",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA) \"a grilled sausage with red pepper and potatoes\"\n\nB) \"a brown botifarra with charred skin with white beans and parsley\"\n\nC) \"a botifarra with burnt skin and black beans with basil\"\n\nD) \"a sausage with roasted skin served with green peas and thyme\"",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A basket of assorted fruits with a background of rolling hills\n\nB. A brown botifarra with charred skin with white beans and parsley\n\nC. A collection of colorful flowers in a glass vase\n\nD. A scenic beach with waves crashing on the shore",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 34,
+        "img_url": "/shared/data/food_data/food_images/Botifarra/Botifarra_0058.jpg",
+        "reference_caption": [
+            "A long fried botifarra rolled up and placed in a black pan with green leaves"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A large sausage wrapped in a tortilla and served with tomato slices\n\nB. A pan of roasted vegetables with a long bread stick on top\n\nC. A long fried botifarra rolled up and placed in a black pan with green leaves\n\nD. A rolled-up pancake with spinach and cheese served on a white plate",
+        "multiple_choice_question_medium": "**Which of the following captions best describes the painting?**\n\nA. A lengthy sausage served with a mix of fresh vegetables in a black skillet.\n\nB. A short grilled sausage covered with yellow leaves in a white pan.\n\nC. A long fried botifarra rolled up and placed in a black pan with green leaves.\n\nD. A twisted sausage wrapped in red leaves inside a silver pan.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A large fish laying on a bed of rice and vegetables in a silver bowl\n\nB. A small roasted chicken surrounded by carrots and potatoes in a white dish\n\nC. A long fried botifarra rolled up and placed in a black pan with green leaves\n\nD. A baked loaf of bread with olives and herbs on a wooden cutting board",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 35,
+        "img_url": "/shared/data/food_data/food_images/Botifarra/Botifarra_0071.jpg",
+        "reference_caption": [
+            "A plate of golden botifarra with some side dishes near"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A plate of golden sausage with mixed vegetables on the side\n\nB. A plate of golden botifarra with some side dishes near\n\nC. A platter of assorted meats and cheeses with condiments\n\nD. A serving of grilled chicken with roasted potatoes nearby",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. A bowl of silver sausage with a variety of side salads nearby.\n\nB. A plate of golden botifarra with some side dishes near.\n\nC. A dish of bronze sausages with several desserts on the side.\n\nD. A platter of golden botifarra without any dishes around.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A bowl of fresh strawberries with cream\n\nB. A plate of golden botifarra with some side dishes near\n\nC. A basket of assorted baked goods with a cup of tea\n\nD. A serving of sushi rolls with wasabi and soy sauce",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 36,
+        "img_url": "/shared/data/food_data/food_images/Botifarra/Botifarra_0067.jpg",
+        "reference_caption": [
+            "a brown botifarra with charred skin glistening with oil round white beans"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A brown botifarra with charred skin glistening with oil round white beans  \nB. A grilled sausage with crispy skin resting next to golden potatoes  \nC. A smoked sausage paired with roasted red peppers and green beans  \nD. A dark sausage served alongside saut\u00e9ed mushrooms and yellow rice  ",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. A brown botifarra with charred skin glistening with oil round white beans  \nB. A brown sausage with smooth skin glistening with water and scattered white peas  \nC. A dark botifarra with burnt skin shining with olive oil near white grains  \nD. A golden sausage with crispy skin gleaming with grease and surrounded by white lentils  ",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. a brown botifarra with charred skin glistening with oil round white beans\n\nB. a grilled sausage with a side of mashed potatoes and gravy\n\nC. a shiny silver fish with lemon slices and herbs on a bed of greens\n\nD. a stack of pancakes drizzled with syrup and a pat of butter on top",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 37,
+        "img_url": "/shared/data/food_data/food_images/Botifarra/Botifarra_0060.jpg",
+        "reference_caption": [
+            "a long pink botifarra with crispy skin decorated with tomato and green pepper"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA) A long pink botifarra with crispy skin decorated with avocado and parsley\n\nB) A long pink botifarra with smooth skin garnished with tomato and green pepper\n\nC) A long pink botifarra with crispy skin decorated with tomato and green pepper\n\nD) A long pink botifarra with crispy skin adorned with onion and red pepper",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA) A lengthy pink sausage with a smooth surface garnished with strawberries and jalape\u00f1os.\n\nB) An elongated pink bratwurst with rough texture adorned with apple slices and yellow pepper.\n\nC) A long pink botifarra with crispy skin decorated with tomato and green pepper.\n\nD) A big pink hot dog with crunchy exterior featuring cherry and red bell pepper.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA) a short yellow sausage with a soft texture and garnished with parsley and red onion\n\nB) a long green cucumber with a shiny surface accompanied by lettuce and mushroom\n\nC) a long pink botifarra with crispy skin decorated with tomato and green pepper\n\nD) a thick brown baguette with a crunchy crust served with cheese and olives",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 38,
+        "img_url": "/shared/data/food_data/food_images/Botifarra/Botifarra_0074.jpg",
+        "reference_caption": [
+            "A few pieces of botifarra on a cutting board and a knife around"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A few pieces of botifarra on a cutting board and a knife around\n\nB. Several slices of cheese and a knife on a wooden board\n\nC. A loaf of bread and a butter knife on a counter\n\nD. A cutting board with vegetables and a knife arranged neatly",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A few pieces of botifarra on a cutting board and a knife around\n\nB. Several sausages laying on a table with a sword nearby\n\nC. Some pieces of meat on a wooden platform with a fork beside\n\nD. Botifarra slices with a kitchen tool in the middle of room",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A few pieces of botifarra on a cutting board and a knife around\n\nB. A bouquet of flowers in a vase on a sunny windowsill\n\nC. A bustling city street filled with cars and pedestrians\n\nD. A serene landscape with mountains and a flowing river",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 39,
+        "img_url": "/shared/data/food_data/food_images/Botifarra/Botifarra_0055.jpg",
+        "reference_caption": [
+            "Two thick fried botifarras with some soybeans wrapped in cheese, in a brown bowl"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Two thick fried sausages with some beans wrapped in bacon, in a brown bowl\n\nB. Two grilled sausages with some peas wrapped in cheese, in a brown bowl\n\nC. Two baked botifarras with some lentils wrapped in cheese, in a brown bowl\n\nD. Two thick fried botifarras with some soybeans wrapped in cheese, in a brown bowl",
+        "multiple_choice_question_medium": "**Which of the following captions best describes the painting?**\n\nA) Two spicy sausages with peas and melted cheese on a white plate.\n\nB) Thick fried sausages with mashed potatoes and a sprinkle of soybeans.\n\nC) Two large botifarras with soy sauce and cheese on a red platter.\n\nD) Two thick fried botifarras with some soybeans wrapped in cheese, in a brown bowl.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Two grilled sausages with a side of mashed potatoes, served on a white plate.\n\nB. A ceramic bowl filled with shrimp and grits, topped with herbs.\n\nC. A platter of sushi rolls with avocado and ginger slices, presented on a wooden board.\n\nD. Two thick fried botifarras with some soybeans wrapped in cheese, in a brown bowl.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 40,
+        "img_url": "/shared/data/food_data/food_images/Botifarra/Botifarra_0073.jpg",
+        "reference_caption": [
+            "Three dark red botifarra with onion rings and mint leaves"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA) Three dark red sausages with apple slices and mint leaves\n\nB) Three dark red botifarra with onion rings and basil leaves\n\nC) Three dark red botifarra with onion rings and parsley leaves\n\nD) Three dark red botifarra with onion rings and mint leaves",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Three dark red sausages with apple slices and basil leaves\n\nB. Three dark red botifarra with chili peppers and parsley\n\nC. Three red sausages with garlic cloves and sage leaves\n\nD. Three dark red botifarra with onion rings and mint leaves",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. Three chocolate eclairs with sprinkles and strawberries\n\nB. Three dark sausages with lemon slices and basil leaves\n\nC. Three red apples with caramel drizzle and mint leaves\n\nD. Three dark red botifarra with onion rings and mint leaves",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 41,
+        "img_url": "/shared/data/food_data/food_images/Rice_cakes/Rice_cakes_0095.jpg",
+        "reference_caption": [
+            "Four rice cakes were strung by bamboo sticks to form two strings, which were placed on a white circular plate with a Yanglan flower."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. \"Two skewers of sushi rolls were placed on a circular wooden tray with a decorative flower.\"\n\nB. \"Four rice cakes were stacked on top of each other on a white plate with a cherry blossom.\"\n\nC. \"Two strings of rice balls were arranged on a square dish next to a lotus flower.\"\n\nD. \"Four rice cakes were strung by bamboo sticks to form two strings, which were placed on a white circular plate with a Yanglan flower.\"",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. \"Four rice cakes were placed randomly on a white square plate, surrounded by a Yanglan flower.\"\n\nB. \"Three rice cakes were strung together with metal sticks, and two strings were placed on a circular tray with a flower.\"\n\nC. \"Four rice cakes were arranged in a circle with bamboo leaves, forming a pattern on a rectangular plate.\"\n\nD. \"Four rice cakes were strung by bamboo sticks to form two strings, which were placed on a white circular plate with a Yanglan flower.\"",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A set of colorful marbles arranged in a circular pattern on a wooden table with a single red rose.\n\nB. Several pieces of sushi were arranged on a rectangular plate with a sprig of parsley.\n\nC. A stack of pancakes topped with syrup and berries, placed on a round blue plate.\n\nD. Four rice cakes were strung by bamboo sticks to form two strings, which were placed on a white circular plate with a Yanglan flower.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 42,
+        "img_url": "/shared/data/food_data/food_images/Rice_cakes/Rice_cakes_0094.jpg",
+        "reference_caption": [
+            "A flower shaped white plate contained three long round rice cakes, covered with yellow powder, one of which was cut in half."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A flower shaped white plate contained three long round rice cakes, covered with yellow powder, one of which was cut in half.\n\nB. A flower shaped white plate contained three long round rice cakes, covered with white powder, one of which was cut in half.\n\nC. A flower shaped white plate contained three square rice cakes, covered with yellow powder, one of which was cut in half.\n\nD. A flower shaped white plate contained three long round rice cakes, covered with yellow powder, all of which were intact.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. A flower shaped white plate contained three long round rice cakes, covered with yellow powder, one of which was cut in half.\n\nB. A square white plate held three long rice cakes, dusted with red powder, all of which were cut in half.\n\nC. A white plate with flower patterns held two long rice cakes, covered with green powder, one of which was broken.\n\nD. A flower shaped plate containing four round rice cakes, covered in yellow sauce, one of which was whole.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A flower shaped white plate contained three long round rice cakes, covered with yellow powder, one of which was cut in half.\n\nB. A square blue plate held a single large rice cake, topped with green sauce, and decorated with edible flowers.\n\nC. A small red bowl was filled with colorful candies, surrounded by a scattering of white chocolate shavings.\n\nD. A wooden board displayed four round cookies, sprinkled with sugar and nuts, with one cookie broken in pieces.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 43,
+        "img_url": "/shared/data/food_data/food_images/Rice_cakes/Rice_cakes_0091.jpg",
+        "reference_caption": [
+            "Five round rice cakes are neatly placed on a piece of red cloth, decorated with dried cranberries, avocado granules, purple black jam, cut towel gourd and other ingredients."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Five round rice cakes are neatly arranged on a piece of blue cloth, topped with dried cherries, cucumber slices, green sauce, and other ingredients.\n\nB. Five square rice cakes are placed on a piece of red cloth, garnished with dried cranberries, avocado slices, purple berry sauce, and other decorations.\n\nC. Five round rice cakes are neatly placed on a piece of red cloth, decorated with dried cranberries, avocado granules, purple black jam, cut towel gourd and other ingredients.\n\nD. Five round cookies are laid out on a red napkin, adorned with dried cranberries, avocado pieces, blackberry jam, zucchini slices, and other toppings.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Five round dessert plates are arranged on a green cloth, decorated with dried berries, avocado slices, purple sauce, and other fruits.\n\nB. A selection of five square rice cakes is placed on blue fabric, garnished with fresh cranberries, avocado pieces, dark purple syrup, zucchini slices, and additional garnishes.\n\nC. Five round rice cakes are neatly placed on a piece of red cloth, decorated with dried cranberries, avocado granules, purple black jam, cut towel gourd and other ingredients.\n\nD. Five circular rice cakes are scattered on a red mat, surrounded by dried cherries, avocado chunks, purple jelly, cut cucumber, and assorted toppings.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Five round rice cakes are floating on a blue ocean, surrounded by dolphins, palm trees, and sandy beaches. \n\nB. Five square pancakes are stacked on a wooden table, topped with syrup, butter, strawberries, and blueberries. \n\nC. Five round rice cakes are neatly placed on a piece of red cloth, decorated with dried cranberries, avocado granules, purple black jam, cut towel gourd and other ingredients.\n\nD. Five round cookies are placed on a green leaf, adorned with chocolate chips, rainbow sprinkles, and caramel drizzle.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 44,
+        "img_url": "/shared/data/food_data/food_images/Rice_cakes/Rice_cakes_0082.jpg",
+        "reference_caption": [
+            "a simple serving of white rice cake slices topped with wolfberry in a red deep dish"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA) A simple serving of white rice cake slices topped with wolfberry in a red deep dish\n\nB) A collection of colorful pastries arranged on a white plate with a sprig of mint\n\nC) A bowl of creamy mashed potatoes garnished with dill in a blue ceramic dish\n\nD) A serving of sliced apples topped with cinnamon and sugar on a green platter",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. A simple serving of white rice cake slices topped with wolfberry in a red deep dish.\n\nB. A complex arrangement of white rice with berries on a flat blue plate.\n\nC. A serving of white cake with fruit toppings in a deep blue bowl.\n\nD. A plain dish of rice topped with walnuts in an orange shallow dish.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A simple serving of white rice cake slices topped with wolfberry in a red deep dish\n\nB. A colorful assortment of fruits and vegetables arranged on a wooden platter\n\nC. A plate of assorted cheeses and meats garnished with fresh herbs\n\nD. A steaming bowl of noodle soup with various seafood and vegetables",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 45,
+        "img_url": "/shared/data/food_data/food_images/Rice_cakes/Rice_cakes_0085.jpg",
+        "reference_caption": [
+            "three round pieces of rice cakes pan-fried with peanuts on a blue-and-white saucer"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Three round pieces of rice cakes pan-fried with peanuts on a blue-and-white saucer  \nB. Three round pieces of rice cakes topped with sesame seeds on a blue-and-white saucer  \nC. Three pieces of round bread with butter on a blue-and-white saucer  \nD. Three round pieces of rice cakes pan-fried with almonds on a blue-and-white saucer  ",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. Three round pieces of rice cakes pan-fried with peanuts on a blue-and-white saucer.\n\nB. Three square slices of rice cakes cooked with almonds on a red-and-white plate.\n\nC. Two oval-shaped rice cakes topped with walnuts on a blue glass dish.\n\nD. Three pieces of rice cakes fried with cashews on a white and green bowl.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Three round pieces of rice cakes pan-fried with peanuts on a blue-and-white saucer\n\nB. Three round cookies with chocolate chips on a red-and-green plate\n\nC. Three slices of bread with butter on a wooden cutting board\n\nD. Three fried eggs with bacon on a floral-patterned dish",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 46,
+        "img_url": "/shared/data/food_data/food_images/Rice_cakes/Rice_cakes_0086.jpg",
+        "reference_caption": [
+            "three rectangular pieces of soft brown rice cakes decorated with needle leaves"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. Three rectangular pieces of soft brown rice cakes decorated with needle leaves\n\nB. Three rectangular pieces of soft brown cookies topped with shredded coconut\n\nC. Three square pieces of soft brown rice cakes decorated with flower petals\n\nD. Three triangular pieces of soft brown rice cakes covered with sesame seeds",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Three rectangular pieces of soft brown rice cakes decorated with needle leaves.\n\nB. Two circular pieces of crispy white rice cakes with sprinkles on top.\n\nC. Three square pieces of hard brown cookies decorated with pine needles.\n\nD. Three oval-shaped pieces of soft white rice cakes decorated with leaf needles.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. Three rectangular pieces of soft brown rice cakes decorated with needle leaves  \nB. Three circular pieces of chocolate cake topped with strawberries  \nC. A single loaf of bread surrounded by a variety of cheese slices  \nD. A stack of pancakes drizzled with syrup and garnished with mint leaves  ",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 47,
+        "img_url": "/shared/data/food_data/food_images/Rice_cakes/Rice_cakes_0088.jpg",
+        "reference_caption": [
+            "three long strips of white and soft rice cakes on a wooden strainer"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Three long strips of white fabric draped over a wooden chair.\n\nB. Three long strands of cotton laid out on a wooden table.\n\nC. Three long strips of white and soft rice cakes on a wooden strainer.\n\nD. Three elongated pieces of white paper on a wooden surface.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. Three short pieces of brown rice cakes on a glass plate.\n\nB. Three long strips of soft fabric on a metal strainer.\n\nC. Three long strips of white and soft rice cakes on a wooden strainer.\n\nD. Three long strips of white and soft rice cakes on a plastic tray.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. Three pieces of white chalk on a wooden desk\n\nB. Three white candles on a wooden holder\n\nC. Three long strips of white and soft rice cakes on a wooden strainer\n\nD. Three ivory tusks resting on a wooden table",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 48,
+        "img_url": "/shared/data/food_data/food_images/Rice_cakes/Rice_cakes_0098.jpg",
+        "reference_caption": [
+            "Two round rice cakes with some red apple slices were placed on a plate on a white cloth with blue stripes."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. Two round rice cakes with some green apple slices were placed on a plate on a white cloth with blue stripes.\n\nB. Two round rice cakes with some red apple slices were placed on a plate on a white cloth with blue stripes.\n\nC. Two round rice cakes with some red apple slices were placed on a plate on a white cloth with red stripes.\n\nD. Two round rice cakes with some red apple slices were placed on a plate on a table with blue cloth.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Two square rice cakes with green apple slices were placed on a plate on a white cloth with red stripes.\n\nB. Two round rice cakes with some red apple slices were placed on a plate on a white cloth with blue stripes.\n\nC. Two round rice cakes with some red apple slices were placed on a table on a white cloth with blue patterns.\n\nD. Three round rice cakes with some yellow apple slices were placed on a plate on a white cloth with blue stripes.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Two square rice cakes with some green apple slices were placed on a table with a red cloth.\n\nB. Two round rice cakes with some red apple slices were placed on a plate on a white cloth with blue stripes.\n\nC. Three round pancakes with lemon slices were arranged on a wooden board.\n\nD. Two oval rice cakes with slices of banana were set on a green napkin.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 49,
+        "img_url": "/shared/data/food_data/food_images/Rice_cakes/Rice_cakes_0090.jpg",
+        "reference_caption": [
+            "a rectangular rice cake pan-fried till charred and wrapped with nori"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A round rice cake pan-fried and topped with sesame seeds.\n\nB. A rectangular rice cake steamed and wrapped with bamboo leaves.\n\nC. A grilled rectangular tofu block served on a bed of lettuce.\n\nD. A rectangular rice cake pan-fried till charred and wrapped with nori.",
+        "multiple_choice_question_medium": "**Which of the following captions best describes the painting?**\n\nA. A square piece of bread toasted and topped with seaweed leaves\n\nB. A round rice cake steamed and covered with lettuce\n\nC. A rectangular rice cake deep-fried and wrapped with cabbage\n\nD. A rectangular rice cake pan-fried till charred and wrapped with nori",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. a circular sushi roll topped with fresh salmon and avocado\n\nB. a bowl of steaming hot ramen with slices of pork and a soft-boiled egg\n\nC. a plate of colorful fruit salad with kiwi, strawberries, and mango\n\nD. a rectangular rice cake pan-fried till charred and wrapped with nori",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 50,
+        "img_url": "/shared/data/food_data/food_images/Rice_cakes/Rice_cakes_0099.jpg",
+        "reference_caption": [
+            "The rice cakes are covered with light green seasoning sauce and sliced boiled eggs, with some mung bean sprouts on top."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. The rice cakes are topped with a dark green pesto sauce and whole boiled eggs, with a sprinkle of sesame seeds on top.\n\nB. The rice cakes are drizzled with a sweet soy sauce glaze and garnished with chopped scallions and bell peppers.\n\nC. The rice cakes are layered with a spicy red chili sauce and shredded chicken, with a handful of microgreens on top.\n\nD. The rice cakes are covered with light green seasoning sauce and sliced boiled eggs, with some mung bean sprouts on top.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. The rice cakes are topped with bright red tomato sauce and chopped almonds, with a sprinkle of sesame seeds on top.\n\nB. The rice cakes are drizzled with dark green pesto and pieces of grilled chicken, with a handful of peanuts on top.\n\nC. The rice cakes are glazed with a thick brown gravy and garnished with shredded carrots, with some edamame beans on top.\n\nD. The rice cakes are covered with light green seasoning sauce and sliced boiled eggs, with some mung bean sprouts on top.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. The rice cakes are topped with a rich red tomato sauce and grated cheese, with a sprinkle of parsley on top.\n\nB. The rice cakes are served with a sweet chocolate drizzle and a side of strawberries, with a dusting of powdered sugar.\n\nC. The rice cakes are garnished with a spicy orange curry sauce and chopped peanuts, with a few slices of lime on top.\n\nD. The rice cakes are covered with light green seasoning sauce and sliced boiled eggs, with some mung bean sprouts on top.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 51,
+        "img_url": "/shared/data/food_data/food_images/Onigiri/Onigiri_0092.jpg",
+        "reference_caption": [
+            "Onigiri wrapped in ham and seaweed in the middle with omelets inside."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the painting?**\n\nA) Sushi rolls with salmon and avocado slices on top.\n\nB) Rice balls covered in breadcrumbs and cheese, served with a side of vegetables.\n\nC) Ham-wrapped sushi with cucumber and carrot sticks inside.\n\nD) Onigiri wrapped in ham and seaweed in the middle with omelets inside.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Rice balls wrapped in bacon and kale, served with scrambled eggs.\n\nB. Omelets stuffed with sushi and ham, paired with seaweed wraps.\n\nC. Sushi rolls with ham and cheese, accompanied by egg slices.\n\nD. Onigiri wrapped in ham and seaweed in the middle with omelets inside.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. Onigiri with a spicy tuna filling, topped with avocado slices.\n\nB. Sushi rolls with salmon and cream cheese, served on a wooden platter.\n\nC. Hand-rolled sushi with cucumber and crab sticks wrapped in rice paper.\n\nD. Onigiri wrapped in ham and seaweed in the middle with omelets inside.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 52,
+        "img_url": "/shared/data/food_data/food_images/Onigiri/Onigiri_0082.jpg",
+        "reference_caption": [
+            "Two pieces of triangular onigiri on a rectangle-shaped black plate with a pair of chopsticks alongside"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Two pieces of sushi rolls on a square white plate with a fork beside them.\n\nB. Two triangular slices of cake on a round black plate with a spoon next to them.\n\nC. Two rectangular pieces of toast on a black tray with a butter knife alongside.\n\nD. Two pieces of triangular onigiri on a rectangle-shaped black plate with a pair of chopsticks alongside.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Two triangular pieces of onigiri with seaweed wraps on a round white plate with a set of forks beside\n\nB. Three pieces of onigiri shaped like squares on a black rectangle plate with a spoon nearby\n\nC. A pair of triangular sushi rolls on a dark oval platter with two forks alongside\n\nD. Two pieces of triangular onigiri on a rectangle-shaped black plate with a pair of chopsticks alongside",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Two round sushi rolls on a square white plate with a fork and knife nearby\n\nB. Two slices of pizza on a circular wooden board with a glass of wine next to it\n\nC. Two rectangular sandwiches on a silver tray with a spoon beside them\n\nD. Two pieces of triangular onigiri on a rectangle-shaped black plate with a pair of chopsticks alongside",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 53,
+        "img_url": "/shared/data/food_data/food_images/Onigiri/Onigiri_0097.jpg",
+        "reference_caption": [
+            "Onigiris are available in five flavors and put in a metal lunch box."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Onigiris are stacked neatly on a wooden platter and served with soy sauce.\n\nB. Onigiris are available in three flavors and presented on a ceramic dish.\n\nC. Onigiris are available in five flavors and put in a metal lunch box.\n\nD. Onigiris are arranged alongside sushi rolls in a bamboo basket.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA) Onigiris are served in colorful bowls, each with a different topping.\n\nB) Onigiris come in three distinct flavors and are served on a wooden tray.\n\nC) Onigiris are available in five flavors and put in a metal lunch box.\n\nD) Onigiris are wrapped in seaweed and placed in a plastic container.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Onigiris are served on a wooden platter alongside sushi rolls.\n\nB. Onigiris are wrapped in seaweed and placed in a bamboo basket.\n\nC. Onigiris are available in five flavors and put in a metal lunch box.\n\nD. Onigiris are stacked in a pyramid shape on a ceramic dish.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 54,
+        "img_url": "/shared/data/food_data/food_images/Onigiri/Onigiri_0086.jpg",
+        "reference_caption": [
+            "On the black plate, there are three pieces of Onigiri with a golden crispy crust on the perilla leaves alongside a pair of chopsticks on the table"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA) On the black plate, there are three pieces of sushi with a golden crispy crust on the perilla leaves alongside a pair of chopsticks on the table.\n\nB) On the black plate, there are three pieces of Onigiri with a golden crispy crust, but no leaves or chopsticks are visible.\n\nC) On the black plate, there are three pieces of Onigiri with a golden crispy crust on the lettuce leaves alongside a pair of chopsticks on the table.\n\nD) On the black plate, there are three pieces of Onigiri with a golden crispy crust on the perilla leaves alongside a pair of chopsticks on the table.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. On the white plate, there are four pieces of sushi with a dark, soft texture on lettuce leaves with a spoon on the table.\n\nB. On the black plate, there are two pieces of Onigiri with a soft crust on the basil leaves alongside a spoon on the table.\n\nC. On the red plate, there are three pieces of Onigiri with a crispy crust on the cabbage leaves with a fork next to them.\n\nD. On the black plate, there are three pieces of Onigiri with a golden crispy crust on the perilla leaves alongside a pair of chopsticks on the table.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. On the black plate, there are three slices of pizza with melted cheese alongside a glass of wine on the table.\n\nB. On the black plate, there are three golden-brown cookies with chocolate chips next to a steaming cup of coffee.\n\nC. On the black plate, there are three pieces of sushi with wasabi and ginger on the side of a bamboo mat.\n\nD. On the black plate, there are three pieces of Onigiri with a golden crispy crust on the perilla leaves alongside a pair of chopsticks on the table.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 55,
+        "img_url": "/shared/data/food_data/food_images/Onigiri/Onigiri_0091.jpg",
+        "reference_caption": [
+            "Onigiri wrapped in seaweed some sesame seeds in the middle."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Rice balls topped with avocado and drizzled with soy sauce.\n\nB. Sushi rolls with tuna and cucumber, garnished with ginger.\n\nC. A plate of sashimi served with wasabi and pickled radish.\n\nD. Onigiri wrapped in seaweed some sesame seeds in the middle.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A sushi roll with avocado and crab in the center, topped with ginger slices.\n\nB. Rice balls covered in seaweed with a filling of tuna and mayonnaise.\n\nC. Onigiri with a side of miso soup and sprinkled with chives.\n\nD. Onigiri wrapped in seaweed some sesame seeds in the middle.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A sushi roll garnished with soy sauce and chopsticks on the side.\n\nB. A bowl of ramen topped with green onions and boiled eggs.\n\nC. A plate of sashimi featuring fresh tuna and salmon slices.\n\nD. Onigiri wrapped in seaweed some sesame seeds in the middle.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 56,
+        "img_url": "/shared/data/food_data/food_images/Onigiri/Onigiri_0094.jpg",
+        "reference_caption": [
+            "Onigiri with fish meat sandwiched in the middle sprinkled sesame seeds on it."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Onigiri with tofu filling and a sprinkle of seaweed on top.\n\nB. Onigiri with fish meat sandwiched in the middle sprinkled sesame seeds on it.\n\nC. Onigiri with vegetables and a drizzle of soy sauce.\n\nD. Onigiri with pickled plums and a dusting of chili flakes.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. Onigiri filled with chicken and topped with soy sauce.\n\nB. Onigiri with fish meat sandwiched in the middle sprinkled sesame seeds on it.\n\nC. Sushi rolls with tuna and avocado served with sesame seeds.\n\nD. Rice balls stuffed with beef and covered in sesame sauce.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. Onigiri with tofu and seaweed topping, garnished with sesame seeds.\n\nB. Onigiri with fish meat sandwiched in the middle sprinkled sesame seeds on it.\n\nC. Rice balls filled with chicken curry, decorated with poppy seeds.\n\nD. Sushi rolls with avocado and crab, drizzled with soy sauce.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 57,
+        "img_url": "/shared/data/food_data/food_images/Onigiri/Onigiri_0081.jpg",
+        "reference_caption": [
+            "A piece of Onigiri filled with salmon and garnished with black sesame seeds cut into halves on a round plate along with another rectangular plate of some whole Onigiri and a dish of sauce on the table"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA) \"A piece of Onigiri filled with tuna and garnished with white sesame seeds, cut into halves on a round plate next to a bowl of miso soup.\"\n\nB) \"A piece of sushi topped with salmon and avocado, placed on a wooden board, with a side of pickled ginger and wasabi.\"\n\nC) \"A serving of sashimi with slices of salmon and tuna, elegantly arranged on a rectangular plate, accompanied by soy sauce and chopsticks.\"\n\nD) \"A piece of Onigiri filled with salmon and garnished with black sesame seeds cut into halves on a round plate along with another rectangular plate of some whole Onigiri and a dish of sauce on the table.\"",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A piece of Onigiri with tuna and topped with white sesame seeds, sliced into quarters on a square plate alongside a cup of tea on the table.\n\nB. A dish of sushi rolls filled with avocado and cucumber, served with soy sauce and wasabi on a rectangular plate next to some sashimi.\n\nC. An Onigiri with chicken and sprinkled with poppy seeds, placed whole on a round plate with chopsticks and a bowl of miso soup nearby.\n\nD. A piece of Onigiri filled with salmon and garnished with black sesame seeds cut into halves on a round plate along with another rectangular plate of some whole Onigiri and a dish of sauce on the table.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A bowl of ramen with boiled eggs and scallions served with a side of gyoza on a wooden table.\n\nB. A sushi platter featuring various types of nigiri and sashimi, accompanied by wasabi and pickled ginger.\n\nC. A large pizza topped with pepperoni, mushrooms, and olives, served with a side of garlic bread.\n\nD. A piece of Onigiri filled with salmon and garnished with black sesame seeds cut into halves on a round plate along with another rectangular plate of some whole Onigiri and a dish of sauce on the table.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 58,
+        "img_url": "/shared/data/food_data/food_images/Onigiri/Onigiri_0084.jpg",
+        "reference_caption": [
+            "Four pieces of onigiri covered with nori and garnished with crab roe with a pair of chopsticks on a rectangle-shaped black plate"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Four sushi rolls placed on a black plate with a side of ginger and wasabi, with chopsticks resting nearby.\n\nB. Four pieces of onigiri covered with nori and garnished with crab roe with a pair of chopsticks on a rectangle-shaped black plate.\n\nC. A selection of nigiri sushi topped with various types of fish on a circular white plate with chopsticks.\n\nD. Four rice balls decorated with seaweed and sesame seeds, served on a wooden platter with chopsticks.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Four pieces of sushi covered with seaweed and topped with avocado slices with a pair of chopsticks on a round white plate.\n\nB. Four pieces of onigiri covered with nori and garnished with crab roe with a pair of chopsticks on a rectangle-shaped black plate.\n\nC. Five slices of onigiri wrapped in seaweed and served with soy sauce on a square black dish.\n\nD. Four pieces of nigiri with salmon and a fork on a rectangular black tray.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Four sushi rolls topped with salmon and served with wasabi on a circular white plate.\n\nB. Four pieces of onigiri covered with nori and garnished with crab roe with a pair of chopsticks on a rectangle-shaped black plate.\n\nC. A platter of assorted sashimi including tuna and octopus, served with a side of soy sauce.\n\nD. A bowl of ramen with slices of pork and a boiled egg, accompanied by a pair of chopsticks.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 59,
+        "img_url": "/shared/data/food_data/food_images/Onigiri/Onigiri_0095.jpg",
+        "reference_caption": [
+            "Six onigiri coated with sauce on the surface sprinkled with sesame seeds."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. Six onigiri sprinkled with seaweed flakes and a hint of wasabi.\n\nB. Six onigiri arranged in a circle with a side of pickled ginger.\n\nC. Six onigiri topped with soy sauce and garnished with green onions.\n\nD. Six onigiri coated with sauce on the surface sprinkled with sesame seeds.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA) Six onigiri with no sauce, just plain rice balls on a plate.\n\nB) Six sushi rolls with seaweed and fish on the surface.\n\nC) Six onigiri coated with soy sauce without any sesame seeds.\n\nD) Six onigiri coated with sauce on the surface sprinkled with sesame seeds.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. Six pieces of sushi topped with avocado slices and soy sauce.\n\nB. Six donuts drizzled with chocolate syrup and colorful sprinkles.\n\nC. Six rice balls wrapped in seaweed with wasabi on the side.\n\nD. Six onigiri coated with sauce on the surface sprinkled with sesame seeds.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 60,
+        "img_url": "/shared/data/food_data/food_images/Onigiri/Onigiri_0087.jpg",
+        "reference_caption": [
+            "Two pieces of onigiri with one garnished with white sesame seeds and another sprinkled with chili powder on the nori alongside some wakame"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Two pieces of onigiri with one topped with black sesame seeds and another covered in soy sauce next to a slice of ginger.\n\nB. Two pieces of onigiri with one garnished with white sesame seeds and another sprinkled with chili powder on the nori alongside some wakame.\n\nC. Two pieces of onigiri, both topped with furikake, placed next to a serving of pickled radish.\n\nD. Two pieces of onigiri, one with an umeboshi center and the other wrapped in seaweed, accompanied by a side of edamame.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Two onigiri wrapped in nori, one topped with black sesame seeds and the other with wasabi, with some edamame on the side.\n\nB. Two pieces of onigiri with one garnished with white sesame seeds and another sprinkled with chili powder on the nori alongside some wakame.\n\nC. A plate of sushi rolls with soy sauce and ginger, accompanied by a salad of seaweed.\n\nD. Two rice balls covered in seaweed, one with soy sauce and the other with sesame oil, next to pickled ginger.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. Two slices of cake with one topped with white frosting and another sprinkled with cinnamon alongside some strawberries.\n\nB. Two pieces of onigiri with one garnished with white sesame seeds and another sprinkled with chili powder on the nori alongside some wakame.\n\nC. Two pieces of sushi with one covered in avocado and another with a slice of lemon, served with pickled ginger.\n\nD. Two rice bowls with one filled with white rice and another with brown rice, garnished with seaweed and tofu.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 61,
+        "img_url": "/shared/data/food_data/food_images/Lemon_meringue_pie/Lemon_meringue_pie_0106.jpg",
+        "reference_caption": [
+            "lots of fresh fruits such as blueberries, strawberries, and kiwis are placed on the top of a small lemon meringue pie"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. Lots of fresh fruits such as blueberries, strawberries, and kiwis are placed on the top of a small lemon meringue pie.\n\nB. A variety of fresh fruits including raspberries, cherries, and grapes are scattered around a chocolate cake.\n\nC. Freshly picked apples, bananas, and oranges are arranged on the top of a large fruit tart.\n\nD. Assorted berries like blackberries, cranberries, and raspberries are placed beside a cheesecake.",
+        "multiple_choice_question_medium": "Question Title: Which of the following captions best describes the painting?\n\nA. Lots of fresh fruits such as blueberries, strawberries, and kiwis are placed on the top of a small lemon meringue pie.\n\nB. A large lemon tart is topped with fresh vegetables like tomatoes and cucumbers.\n\nC. Various fruits including oranges and bananas cover a large chocolate cake.\n\nD. A selection of mixed berries and apples sits on top of a cheesecake.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Lots of fresh fruits such as blueberries, strawberries, and kiwis are placed on the top of a small lemon meringue pie.\n\nB. A variety of fresh vegetables like carrots, lettuce, and tomatoes are arranged in a basket.\n\nC. A selection of exotic spices including saffron, cumin, and turmeric is displayed on a wooden table.\n\nD. An assortment of fresh herbs such as basil, mint, and dill is growing in small pots on a windowsill.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 62,
+        "img_url": "/shared/data/food_data/food_images/Lemon_meringue_pie/Lemon_meringue_pie_0092.jpg",
+        "reference_caption": [
+            "thick and white cream on top of a lemon meringue pie wedge"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA) A slice of cheesecake with a berry topping\n\nB) Thick and white cream on top of a lemon meringue pie wedge\n\nC) A wedge of key lime pie with a dollop of whipped cream\n\nD) A piece of apple pie with a scoop of vanilla ice cream",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA) fluffy and yellow cream on top of a lime cheesecake slice\n\nB) thick and white cream on top of a lemon meringue pie wedge\n\nC) dense and creamy frosting on a strawberry shortcake piece\n\nD) soft and white topping on a blueberry tart slice",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A slice of chocolate cake with a cherry on top\n\nB. Thick and white cream on top of a lemon meringue pie wedge\n\nC. A wedge of cheese with white mold on the surface\n\nD. A scoop of vanilla ice cream with caramel drizzle",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 63,
+        "img_url": "/shared/data/food_data/food_images/Lemon_meringue_pie/Lemon_meringue_pie_0095.jpg",
+        "reference_caption": [
+            "a high plate holding a full lemon meringue pie with a crunchy crust and thick cream"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A high plate holding a full lemon meringue pie with a crunchy crust and thick cream\n\nB. A high plate holding a freshly baked apple pie with a soft crust and thin glaze\n\nC. A high plate supporting a chocolate cake topped with whipped cream and cherries\n\nD. A high plate displaying a cheesecake with a graham cracker crust and fruit toppings",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. A high plate holding a full lemon meringue pie with a crunchy crust and thick cream.\n\nB. A low dish with a sliced lime pie with a soft crust and thin cream.\n\nC. A tall stand with a full apple tart with a flaky crust and no cream.\n\nD. A high plate presenting a half lemon tart with a chewy base and light topping.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A high plate holding a full lemon meringue pie with a crunchy crust and thick cream\n\nB. A vibrant bowl filled with fresh oranges and bananas on a kitchen counter\n\nC. A tall glass vase displaying a bouquet of colorful flowers in a living room\n\nD. A wooden cutting board with various types of cheese and crackers on a picnic table",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 64,
+        "img_url": "/shared/data/food_data/food_images/Lemon_meringue_pie/Lemon_meringue_pie_0091.jpg",
+        "reference_caption": [
+            "a wedge of a lemon meringue pie with cream, lemon slices and crushed biscuit on top"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the painting?**\n\nA) A slice of key lime pie with whipped cream and a sprinkle of nuts on top.\n\nB) A piece of cheesecake with fresh berries and a graham cracker crust.\n\nC) A chocolate tart with a dollop of cream and caramel drizzle.\n\nD) A wedge of a lemon meringue pie with cream, lemon slices and crushed biscuit on top.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A slice of lemon meringue pie topped with strawberries and whipped cream.\n\nB. A wedge of lemon pie with chocolate chips and vanilla ice cream on top.\n\nC. A piece of cheesecake with lemon glaze and cookie crumbs.\n\nD. A wedge of a lemon meringue pie with cream, lemon slices and crushed biscuit on top.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A slice of chocolate cake with strawberries and whipped cream on top.\n\nB. A piece of apple pie with cinnamon and sugar sprinkled over it.\n\nC. A wedge of cheesecake topped with blueberries and a drizzle of caramel.\n\nD. A wedge of a lemon meringue pie with cream, lemon slices and crushed biscuit on top.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 65,
+        "img_url": "/shared/data/food_data/food_images/Lemon_meringue_pie/Lemon_meringue_pie_0101.jpg",
+        "reference_caption": [
+            "a lemon meringue pie that has many layers with stuffed cream and cheese is placed on a kitchen paper"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A lemon meringue pie topped with fresh fruit and powdered sugar sits on a wooden table.\n\nB. A layered cheesecake with a chocolate drizzle is displayed on a decorative plate.\n\nC. A creamy lemon tart with a golden crust is served on a white ceramic dish.\n\nD. A lemon meringue pie that has many layers with stuffed cream and cheese is placed on a kitchen paper.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A lemon pie with meringue on top and filled with jelly and whipped topping is on a dining table.\n\nB. A lemon cake with multiple cheese layers and topped with icing, sitting on a kitchen cloth.\n\nC. A meringue dessert with layers of fruit and chocolate, placed on a paper napkin.\n\nD. A lemon meringue pie that has many layers with stuffed cream and cheese is placed on a kitchen paper.",
+        "multiple_choice_question_easy": "Question Title: Which of the following captions best describes the painting?\n\nA. A chocolate cake topped with strawberries and whipped cream is displayed on a dining table.\n\nB. A stack of pancakes drizzled with syrup and butter sits on a wooden cutting board.\n\nC. A pizza with various toppings including pepperoni and mushrooms is served on a ceramic plate.\n\nD. A lemon meringue pie that has many layers with stuffed cream and cheese is placed on a kitchen paper.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 66,
+        "img_url": "/shared/data/food_data/food_images/Lemon_meringue_pie/Lemon_meringue_pie_0094.jpg",
+        "reference_caption": [
+            "a piece of a juicy baked lemon meringue pie with lemon sauce as filling and a golden surface"
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question title: Which of the following captions best describes the painting?\n\nA. A slice of apple pie with a flaky crust and a hint of cinnamon.\n\nB. A piece of cheesecake topped with fresh strawberries and a drizzle of chocolate.\n\nC. A slice of key lime pie with a creamy filling and a graham cracker crust.\n\nD. A piece of a juicy baked lemon meringue pie with lemon sauce as filling and a golden surface.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. A slice of cheesecake with strawberry topping and a crumbly crust.\n\nB. A piece of spicy ginger pie with a caramel filling and a crunchy surface.\n\nC. A serving of apple pie with cinnamon sauce and a flaky golden top.\n\nD. A piece of a juicy baked lemon meringue pie with lemon sauce as filling and a golden surface.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A slice of rich chocolate cake with dark icing and a cherry on top.\n\nB. A warm apple pie with a lattice crust and cinnamon sprinkled over it.\n\nC. A savory quiche filled with spinach and topped with cheese.\n\nD. A piece of a juicy baked lemon meringue pie with lemon sauce as filling and a golden surface.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 67,
+        "img_url": "/shared/data/food_data/food_images/Lemon_meringue_pie/Lemon_meringue_pie_0093.jpg",
+        "reference_caption": [
+            "cream on top of a lemon meringue pie with one wedge cut and put on a green plate"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. \"Vanilla frosting on a chocolate cake with one slice missing and placed on a red plate.\"\n\nB. \"Whipped cream on top of a key lime pie with a whole lime next to it on a blue plate.\"\n\nC. \"Cream on top of a lemon meringue pie with one wedge cut and put on a green plate.\"\n\nD. \"Icing on a blueberry tart with a single berry removed and set on a yellow plate.\"",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Lemon meringue pie topped with cream, with a slice missing and placed on a red plate.\n\nB. A lemon meringue pie with chocolate drizzle on top, and a slice served on a green plate.\n\nC. Cream on top of a lemon meringue pie with one wedge cut and put on a green plate.\n\nD. A lemon meringue pie with whipped topping, with a wedge cut and placed on a blue dish.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA) A chocolate cake with strawberries on top, placed on a blue plate.\n\nB) A bowl of vanilla ice cream with a spoon sticking out.\n\nC) Cream on top of a lemon meringue pie with one wedge cut and put on a green plate.\n\nD) A cherry pie with lattice crust, served with a scoop of ice cream.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 68,
+        "img_url": "/shared/data/food_data/food_images/Lemon_meringue_pie/Lemon_meringue_pie_0105.jpg",
+        "reference_caption": [
+            "a lemon meringue pie that is made of a thin yellow base and lots of cream on the top"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A lemon meringue pie with a thick chocolate crust and a cherry on top.\n\nB. A lemon meringue pie that is made of a thin yellow base and lots of cream on the top.\n\nC. A key lime pie with a thick graham cracker crust and whipped cream.\n\nD. A lemon tart with a shortbread crust and a sprinkle of powdered sugar.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA) \"a lemon meringue pie that is made of a thick crust and topped with cherries\"\n\nB) \"a lemon meringue pie that is made of a thin yellow base and lots of cream on the top\"\n\nC) \"a lemon tart with chocolate drizzle and a creamy center\"\n\nD) \"a pie with a crunchy green base and a fluffy topping\"",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA) A bowl of lemons sitting on a wooden table with a single slice of pie on the side.\n\nB) A lemon meringue pie that is made of a thin yellow base and lots of cream on the top.\n\nC) A fruit salad featuring oranges, apples, and bananas, topped with a dollop of cream.\n\nD) A cheesecake with a thick graham cracker crust and a layer of fresh strawberries on top.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 69,
+        "img_url": "/shared/data/food_data/food_images/Lemon_meringue_pie/Lemon_meringue_pie_0103.jpg",
+        "reference_caption": [
+            "a piece of lemon meringue pie is cut in a triangle shape. It has a yellow base and a white creamy top"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A piece of lemon meringue pie is cut in a triangle shape. It has a yellow base and a white creamy top.\n\nB. A slice of cheesecake with a smooth white top and a golden crust is presented on a plate.\n\nC. A piece of key lime pie with a light green filling and a fluffy white topping sits on a table.\n\nD. A wedge of apple pie with a lattice crust and a warm, cinnamon-scented filling is served with a scoop of vanilla ice cream.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. A piece of lemon meringue pie is cut in a triangle shape. It has a yellow base and a white creamy top.  \nB. A slice of cheesecake is cut in a circular shape. It has a white base and a yellow fruity topping.  \nC. A piece of lemon tart is cut in a rectangular shape. It is topped with whipped cream and has a brown crust.  \nD. A lemon cake is sliced in a square shape. It has a white base with lemon slices on top.  ",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A piece of lemon meringue pie is cut in a triangle shape. It has a yellow base and a white creamy top.\n\nB. A slice of chocolate cake with a dark brown base and a rich frosting on top.\n\nC. A painting of a bowl of fresh strawberries with a dollop of cream.\n\nD. A colorful salad with a variety of vegetables and a drizzle of dressing.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 70,
+        "img_url": "/shared/data/food_data/food_images/Lemon_meringue_pie/Lemon_meringue_pie_0108.jpg",
+        "reference_caption": [
+            "a lemon meringue pie is placed on a plate. Its creamy top is too thick that the base could hardly support it"
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Question title: Which of the following captions best describes the painting?\n\nA) A creamy dessert sits in a bowl, topped with chocolate shavings and a cherry.\n\nB) A lemon meringue pie is placed on a plate. Its creamy top is too thick that the base could hardly support it.\n\nC) A fruit tart with a thin crust is garnished with assorted berries and a mint leaf.\n\nD) A cheesecake with a rich strawberry glaze rests on a decorative serving dish.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A lemon tart with a thin layer of frosting is on a bowl. Its crust is burnt beyond recognition.\n\nB. A lemon meringue pie is placed on a plate. Its creamy top is too thick that the base could hardly support it.\n\nC. A lime meringue pie sits on a tray. Its filling is so runny that it spills over the sides.\n\nD. A lemon cake with a fluffy topping is on a platter. The base is so sturdy it barely bends.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A stack of pancakes is topped with syrup and butter, placed on a plate.\n\nB. A lemon meringue pie is placed on a plate. Its creamy top is too thick that the base could hardly support it.\n\nC. A bowl of fresh fruit salad is served with a side of whipped cream.\n\nD. A chocolate cake is covered in a thick layer of icing with strawberries on top.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 71,
+        "img_url": "/shared/data/food_data/food_images/White_cut_chicken/White_cut_chicken_0093.jpg",
+        "reference_caption": [
+            "Some thick and golden slices of White Cut chicken in two rows on a white plate served with a saucer of spicy sauce with chopped garlic and green onions."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A plate of roasted chicken with a crispy skin served alongside a small bowl of sweet and sour sauce with diced peppers and cilantro.\n\nB. A white plate featuring grilled chicken strips accompanied by a tangy barbecue sauce garnished with parsley and lemon slices.\n\nC. Some thick and golden slices of White Cut chicken in two rows on a white plate served with a saucer of spicy sauce with chopped garlic and green onions.\n\nD. A serving of fried chicken wings on a white platter with a side of creamy dipping sauce topped with paprika and chives.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Large chunks of grilled chicken with crispy skin on a dark plate served alongside a bowl of sweet and sour sauce with ginger and red peppers.\n\nB. Thin slices of roasted duck arranged in a circle on a silver platter, accompanied by a dish of mild sauce with crushed peanuts and chives.\n\nC. Some thick and golden slices of White Cut chicken in two rows on a white plate served with a saucer of spicy sauce with chopped garlic and green onions.\n\nD. Delicate strips of smoked salmon laid out in a spiral pattern on a green dish, with a side of tangy sauce with diced tomatoes and parsley.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A group of ducks swimming on a pond surrounded by tall reeds, with the sun setting in the background.\n\nB. A bowl of fresh fruit, including apples and bananas, placed on a rustic wooden table with a vase of flowers nearby.\n\nC. Some thick and golden slices of White Cut chicken in two rows on a white plate served with a saucer of spicy sauce with chopped garlic and green onions.\n\nD. A bustling cityscape with skyscrapers and busy streets, viewed from a high vantage point during the day.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 72,
+        "img_url": "/shared/data/food_data/food_images/White_cut_chicken/White_cut_chicken_0091.jpg",
+        "reference_caption": [
+            "A dish of White Cut chicken consists of some succulent chunks of boiled chicken with golden skin."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A dish of roasted chicken with crispy brown skin and herbs.\n\nB. A plate of grilled chicken breast with a side of vegetables.\n\nC. A dish of White Cut chicken consists of some succulent chunks of boiled chicken with golden skin.\n\nD. A serving of fried chicken wings with a spicy dipping sauce.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A plate of fried chicken with crispy skin and a side of fries.\n\nB. A dish of White Cut chicken includes juicy pieces of grilled chicken with a spicy sauce.\n\nC. A dish of White Cut chicken consists of some succulent chunks of boiled chicken with golden skin.\n\nD. A bowl of chicken soup with vegetables and herbs floating on top.",
+        "multiple_choice_question_easy": "**Which of the following captions best describes the painting?**\n\nA) A dish of fried fish with crispy golden batter served alongside fresh lemon wedges.\n\nB) A plate of grilled steak topped with a rich mushroom sauce and served with mashed potatoes.\n\nC) A dish of White Cut chicken consists of some succulent chunks of boiled chicken with golden skin.\n\nD) A bowl of spicy ramen noodles topped with sliced pork, green onions, and a soft-boiled egg.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 73,
+        "img_url": "/shared/data/food_data/food_images/White_cut_chicken/White_cut_chicken_0096.jpg",
+        "reference_caption": [
+            "Topped with finely chopped green onions and garlic on the surface, a plate of White Cut chicken consists of some thick pieces of boiled chicken with golden skin with a succulent texture."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A plate of White Cut chicken is garnished with lemon slices and served with a spicy dipping sauce.\n\nB. Topped with finely chopped green onions and garlic on the surface, a plate of White Cut chicken consists of some thick pieces of boiled chicken with golden skin with a succulent texture.\n\nC. The dish features sliced chicken breast with a crispy batter, paired with a side of steamed broccoli.\n\nD. A platter of roasted chicken wings served with a tangy barbecue glaze and sprinkled with sesame seeds.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Topped with thickly sliced onions and ginger, a plate of roasted chicken consists of thin pieces of fried chicken with crispy skin and a crunchy texture.\n\nB. Topped with finely chopped green onions and garlic on the surface, a plate of White Cut chicken consists of some thick pieces of boiled chicken with golden skin with a succulent texture.\n\nC. Covered with chopped parsley and tomatoes, a dish of White Cut chicken is made up of small grilled chicken pieces with a chewy skin and spicy flavor.\n\nD. Garnished with diced carrots and peppers, a platter of White Cut chicken features slices of steamed chicken with pale skin and a dry, bland taste.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A vibrant bouquet of red and yellow tulips in a glass vase, casting colorful reflections on the table below.\n\nB. Topped with finely chopped green onions and garlic on the surface, a plate of White Cut chicken consists of some thick pieces of boiled chicken with golden skin with a succulent texture.\n\nC. A serene landscape depicting rolling hills and a calm lake under a clear blue sky, with a small cottage in the distance.\n\nD. A bustling city street at night, with neon lights illuminating the storefronts and people hurrying along the sidewalks.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 74,
+        "img_url": "/shared/data/food_data/food_images/White_cut_chicken/White_cut_chicken_0087.jpg",
+        "reference_caption": [
+            "A White Cut chicken dish made of some chunks of boiled chicken with golden skin soaked in a soy sauce soup served with some chopped green onions, parsley and a purple flower."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A grilled chicken dish with a crispy brown skin served with sliced lemons and rosemary sprigs.\n\nB. A roasted chicken platter garnished with cherry tomatoes, basil leaves, and a drizzle of balsamic glaze.\n\nC. A White Cut chicken dish made of some chunks of boiled chicken with golden skin soaked in a soy sauce soup served with some chopped green onions, parsley and a purple flower.\n\nD. A poached chicken breast served on a bed of mashed potatoes with a garnish of dill and a slice of lime.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A dish of grilled chicken pieces with crispy brown skin, served in a spicy curry sauce with diced red onions and cilantro.\n\nB. A plate of fried chicken wings with a sweet and sour glaze, garnished with sesame seeds and a sprig of mint.\n\nC. A White Cut chicken dish made of some chunks of boiled chicken with golden skin soaked in a soy sauce soup served with some chopped green onions, parsley and a purple flower.\n\nD. A bowl of roasted chicken with a creamy herb dressing, topped with shredded carrots and a decorative yellow flower.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A vibrant garden scene with colorful flowers, green shrubs, and a clear blue sky above.\n\nB. A bustling cityscape with tall skyscrapers, busy streets, and people walking on sidewalks.\n\nC. A White Cut chicken dish made of some chunks of boiled chicken with golden skin soaked in a soy sauce soup served with some chopped green onions, parsley and a purple flower.\n\nD. A serene landscape with a calm river flowing through a forest, surrounded by mountains.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 75,
+        "img_url": "/shared/data/food_data/food_images/White_cut_chicken/White_cut_chicken_0082.jpg",
+        "reference_caption": [
+            "Served with some parsley and a purple flower, some chunks of White Cut chicken with light-golden skin are placed on a white plate."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the painting?**\n\nA) Served with some parsley and a purple flower, some chunks of White Cut chicken with dark-brown skin are placed on a white plate.\n\nB) Served with some basil and a purple flower, some chunks of White Cut chicken with light-golden skin are placed on a white plate.\n\nC) Served with some parsley and a red flower, some chunks of White Cut chicken with light-golden skin are placed on a white plate.\n\nD) Served with some parsley and a purple flower, some chunks of White Cut chicken with light-golden skin are placed on a white plate.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA) Garnished with rosemary and a blue flower, several slices of roasted chicken with crispy brown skin are arranged on a dark platter.\n\nB) With some dill and a pink blossom, pieces of grilled chicken with charred skin are displayed on a silver dish.\n\nC) Adorned with basil and a yellow flower, cubes of fried chicken with crunchy skin are presented on a blue plate.\n\nD) Served with some parsley and a purple flower, some chunks of White Cut chicken with light-golden skin are placed on a white plate.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA) A painting of a vibrant garden with various colorful flowers and lush green foliage, featuring a prominent purple flower in the center.\n\nB) An elegant still life featuring a white vase with a bouquet of purple and white flowers, set against a dark background.\n\nC) A serene landscape showing a sunset over a golden field, with a single purple tree standing out against the horizon.\n\nD) Served with some parsley and a purple flower, some chunks of White Cut chicken with light-golden skin are placed on a white plate.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 76,
+        "img_url": "/shared/data/food_data/food_images/White_cut_chicken/White_cut_chicken_0084.jpg",
+        "reference_caption": [
+            "On a long and square plate, some White Cut chicken slices are served with some mint leaves, some slices of radish and a cut cherry tomato."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. On a round plate, grilled chicken pieces are served with basil leaves, cucumber slices, and a whole cherry tomato.\n\nB. On a rectangular platter, roasted chicken is accompanied by parsley sprigs, sliced carrots, and a whole cherry tomato.\n\nC. On a square plate, seared chicken strips are garnished with cilantro leaves, thin onion slices, and a halved cherry tomato.\n\nD. On a long and square plate, some White Cut chicken slices are served with some mint leaves, some slices of radish and a cut cherry tomato.",
+        "multiple_choice_question_medium": "Question Title: Which of the following captions best describes the painting?\n\nA) On a round plate, several pieces of grilled chicken are presented alongside basil leaves, chopped carrots, and a whole cherry tomato.\n\nB) On a small and circular dish, some roasted chicken thighs are accompanied by parsley, cucumber slices, and a sliced lemon.\n\nC) On a rectangular platter, some fried chicken wings are garnished with cilantro, diced onions, and a whole cherry tomato.\n\nD) On a long and square plate, some White Cut chicken slices are served with some mint leaves, some slices of radish and a cut cherry tomato.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. On a round and blue plate, there are some grilled chicken wings served with some basil leaves, some cucumber slices, and a whole cherry tomato.\n\nB. On a wooden cutting board, a roasted turkey is garnished with parsley, slices of lemon, and whole cherry tomatoes.\n\nC. On a rectangular platter, a fried chicken drumstick is accompanied by potato wedges, rosemary, and a side of ketchup.\n\nD. On a long and square plate, some White Cut chicken slices are served with some mint leaves, some slices of radish and a cut cherry tomato.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 77,
+        "img_url": "/shared/data/food_data/food_images/White_cut_chicken/White_cut_chicken_0094.jpg",
+        "reference_caption": [
+            "A plate of White Cut chicken made of some pieces of boiled chicken with golden and springy skin decorated with parsley and a redbud."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A plate of White Cut chicken made of some pieces of boiled chicken with golden and springy skin decorated with parsley and a redbud.\n\nB. A plate of roasted chicken with crispy skin served alongside mashed potatoes and steamed broccoli.\n\nC. A selection of sushi rolls with fresh salmon, avocado, and cucumber, garnished with pickled ginger and wasabi.\n\nD. A bowl of noodle soup with sliced pork, scallions, and a soft-boiled egg floating in a rich broth.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. A plate of White Cut chicken made of some pieces of boiled chicken with golden and springy skin decorated with parsley and a redbud.\n\nB. A bowl of fried chicken with crispy skin, garnished with rosemary and cherry tomatoes.\n\nC. A serving of roast duck with thick, brown skin, accompanied by cilantro and a lemon wedge.\n\nD. A dish of grilled fish with flaky texture, topped with mint leaves and a lavender sprig.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A plate of White Cut chicken made of some pieces of boiled chicken with golden and springy skin decorated with parsley and a redbud.  \nB. A vibrant painting of a garden with blooming redbud trees and lush greenery.  \nC. A sculpture of a majestic bird with golden feathers perched on a wooden stand.  \nD. A bowl of mixed fruit salad with slices of mango, strawberries, and a sprinkle of nuts.  ",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 78,
+        "img_url": "/shared/data/food_data/food_images/White_cut_chicken/White_cut_chicken_0100.jpg",
+        "reference_caption": [
+            "With some green onion rings on the surface, some White Cut chicken chunks with golden skill and mildly bloody meat on a small plate."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA) Some grilled chicken with a side of roasted vegetables and a sprinkle of herbs on a large platter.\n\nB) A dish of stir-fried chicken pieces with a vibrant red sauce, garnished with coriander leaves.\n\nC) Fried chicken wings with a crispy coating, served with a tangy dipping sauce and lemon wedges.\n\nD) With some green onion rings on the surface, some White Cut chicken chunks with golden skin and mildly bloody meat on a small plate.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. \"The dish includes slices of raw fish with green onions and some soy sauce on a large platter.\"\n\nB. \"With some red onion rings on the top, pieces of grilled chicken with crispy skin on a big plate.\"\n\nC. \"White Cut chicken chunks with a lot of sauce and brown, crispy skin, accompanied by lemon slices.\"\n\nD. \"With some green onion rings on the surface, some White Cut chicken chunks with golden skin and mildly bloody meat on a small plate.\"",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A bowl of mixed vegetables with bright red tomatoes and leafy greens, placed on a wooden table.\n\nB. A colorful abstract painting with swirling patterns in shades of blue and green.\n\nC. A landscape with rolling hills and a serene lake under a clear blue sky.\n\nD. With some green onion rings on the surface, some White Cut chicken chunks with golden skin and mildly bloody meat on a small plate.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 79,
+        "img_url": "/shared/data/food_data/food_images/White_cut_chicken/White_cut_chicken_0081.jpg",
+        "reference_caption": [
+            "A White Cut chicken dish consists of some light-golden chunks of boiled chicken and served with some cilantro, parsley and lemon leaves and a rose flower."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A White Cut chicken dish consists of some light-golden chunks of boiled chicken and served with some cilantro, parsley and lemon leaves and a rose flower.\n\nB. A White Cut chicken dish features golden-brown fried chicken pieces garnished with basil, mint leaves, and a daisy flower.\n\nC. A White Cut chicken dish includes roasted chicken with a side of rosemary, thyme, and a sunflower.\n\nD. A White Cut chicken dish contains grilled chicken with oregano, sage leaves, and a lotus flower.",
+        "multiple_choice_question_medium": "**Which of the following captions best describes the painting?**\n\nA) A White Cut chicken dish consists of some light-golden chunks of boiled chicken and served with some cilantro, parsley and lemon leaves and a rose flower.\n\nB) A White Cut chicken plate has dark-brown fried chicken pieces with basil, mint, and a sunflower.\n\nC) A White Cut chicken dish includes grilled chicken slices with mint leaves, dill, and an orange flower.\n\nD) A White Cut chicken meal features roasted chicken with rosemary, thyme, and a tulip blossom.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A White Cut chicken dish consists of some light-golden chunks of boiled chicken and served with some cilantro, parsley and lemon leaves and a rose flower.\n\nB. A steamy bowl of ramen topped with boiled eggs, sliced pork, and a sprinkle of sesame seeds, garnished with a plumeria flower.\n\nC. A vibrant fruit platter featuring slices of watermelon, pineapple, and kiwi, arranged beautifully with mint leaves and a sunflower.\n\nD. A serving of fish and chips, with crispy battered fish and golden fries, accompanied by a side of tartar sauce and a daffodil.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 80,
+        "img_url": "/shared/data/food_data/food_images/White_cut_chicken/White_cut_chicken_0090.jpg",
+        "reference_caption": [
+            "Served with parsley and some slices of carrots, a plate of White Cut chicken consists of a boiled light-golden skin chicken chopped into thick slices."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. Served with dill and some slices of radishes, a plate of White Cut chicken consists of a roasted light-golden skin chicken chopped into thin slices.\n\nB. Served with cilantro and some slices of cucumbers, a plate of White Cut chicken consists of a grilled light-golden skin chicken chopped into small cubes.\n\nC. Served with basil and some slices of zucchini, a plate of White Cut chicken consists of a fried light-golden skin chicken chopped into strips.\n\nD. Served with parsley and some slices of carrots, a plate of White Cut chicken consists of a boiled light-golden skin chicken chopped into thick slices.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. A dish with herbs and some slices of carrots, featuring a roasted golden-brown chicken chopped into thin slices.\n\nB. Served with coriander and diced carrots, a plate of White Cut chicken consists of a fried chicken with crispy skin.\n\nC. Decorated with basil and grated carrots, a plate of White Cut chicken includes a grilled chicken with a shiny dark-brown skin, cut into small pieces.\n\nD. Served with parsley and some slices of carrots, a plate of White Cut chicken consists of a boiled light-golden skin chicken chopped into thick slices.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A plate of roasted duck glazed with honey and garnished with orange slices sits on the table.\n\nB. A bowl of creamy tomato soup with basil leaves and croutons is served alongside a grilled cheese sandwich.\n\nC. A platter of sushi rolls with avocado, cucumber, and tuna, artfully arranged with wasabi and pickled ginger.\n\nD. Served with parsley and some slices of carrots, a plate of White Cut chicken consists of a boiled light-golden skin chicken chopped into thick slices.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 81,
+        "img_url": "/shared/data/food_data/food_images/Greek_salad/Greek_salad_0085.jpg",
+        "reference_caption": [
+            "Fresh Greek salad made with quartered tomatoes, sliced red onions, cheese cubes, and black olives, garnished with chopped basil leaves on top."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the painting?**\n\nA. A vibrant garden scene depicting a variety of colorful flowers, lush green grass, and a small pond with koi fish.\n\nB. A still life painting featuring a bowl of assorted fruits, including apples, bananas, and grapes, arranged on a wooden table.\n\nC. A picnic scene with a red checkered blanket spread on the grass, topped with sandwiches, fruit smoothies, and a basket of freshly baked bread.\n\nD. Fresh Greek salad made with quartered tomatoes, sliced red onions, cheese cubes, and black olives, garnished with chopped basil leaves on top.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A vibrant Greek salad featuring diced cucumbers, shredded carrots, cheese slices, and green olives, topped with parsley sprigs.\n\nB. A fresh Mediterranean dish with whole tomatoes, chopped yellow onions, cheese blocks, and green olives, decorated with cilantro leaves.\n\nC. A colorful array of vegetables with halved tomatoes, minced white onions, cheese strips, and red olives, sprinkled with oregano.\n\nD. Fresh Greek salad made with quartered tomatoes, sliced red onions, cheese cubes, and black olives, garnished with chopped basil leaves on top.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A bowl of fruit featuring sliced mango, whole strawberries, and kiwi slices, topped with a sprinkle of chia seeds.\n\nB. A vibrant flower garden with blooming roses, tulips, and daffodils, surrounded by lush greenery.\n\nC. A seafood dish with grilled shrimp, lemon wedges, and a side of tartar sauce, served on a bed of lettuce.\n\nD. Fresh Greek salad made with quartered tomatoes, sliced red onions, cheese cubes, and black olives, garnished with chopped basil leaves on top.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 82,
+        "img_url": "/shared/data/food_data/food_images/Greek_salad/Greek_salad_0081.jpg",
+        "reference_caption": [
+            "Mixed-colored Greek salad made with quartered tomatoes, green pepper slices, olives, and red onion slices, topped with feta cheese, flavored with oregano and olive oil."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A vibrant Italian salad featuring quartered tomatoes, cucumber slices, olives, and red onion slices, topped with mozzarella cheese, seasoned with basil and balsamic vinegar.\n\nB. A colorful Greek salad composed of diced tomatoes, yellow pepper slices, olives, and red onion slices, topped with goat cheese, seasoned with thyme and lemon juice.\n\nC. A fresh Mediterranean salad made with halved cherry tomatoes, green pepper strips, olives, and red onion slices, topped with ricotta cheese, dressed with garlic and lemon zest.\n\nD. Mixed-colored Greek salad made with quartered tomatoes, green pepper slices, olives, and red onion slices, topped with feta cheese, flavored with oregano and olive oil.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA) A colorful Greek salad with halved cucumbers, yellow pepper rings, grapes, and sliced carrots, topped with mozzarella cheese, flavored with basil and balsamic vinegar.\n\nB) A mixed fruit salad featuring diced apples, bell pepper strips, raspberries, and onion rings, finished with goat cheese, seasoned with thyme and sunflower oil.\n\nC) A vibrant vegetable platter with chopped tomatoes, red pepper strips, cherries, and onion chunks, sprinkled with cheddar cheese, and seasoned with rosemary and sesame oil.\n\nD) Mixed-colored Greek salad made with quartered tomatoes, green pepper slices, olives, and red onion slices, topped with feta cheese, flavored with oregano and olive oil.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA) A vibrant display of assorted fruits including apples, oranges, bananas, and grapes, arranged in a wicker basket.\n\nB) A colorful bowl of pasta salad containing rotini noodles, cherry tomatoes, cucumbers, and shredded parmesan cheese, drizzled with balsamic vinaigrette.\n\nC) A rustic still life featuring a variety of meats and cheeses on a wooden board, accompanied by a selection of crackers and a small jar of honey.\n\nD) Mixed-colored Greek salad made with quartered tomatoes, green pepper slices, olives, and red onion slices, topped with feta cheese, flavored with oregano and olive oil.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 83,
+        "img_url": "/shared/data/food_data/food_images/Greek_salad/Greek_salad_0091.jpg",
+        "reference_caption": [
+            "A plate of greek salad, that is made of some peeled cucumber cubes, some cherry tomatoes cut in half, some shredded onion and pimiento, black olives, and some feta cheese. and some chicken fillet, griddle cake, and a bowl of yogurt next to them."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the painting?**\n\nA. A plate of Caesar salad, consisting of romaine lettuce, croutons, and parmesan cheese, with a bowl of creamy dressing on the side.\n\nB. A dish of caprese salad, featuring fresh mozzarella slices, tomatoes, and basil leaves, drizzled with balsamic glaze, and a side of breadsticks.\n\nC. A plate of Greek salad, that is made of some peeled cucumber cubes, some cherry tomatoes cut in half, some shredded onion and pimiento, black olives, and some feta cheese, and some chicken fillet, griddle cake, and a bowl of yogurt next to them.\n\nD. A serving of Mediterranean pasta salad with fusilli pasta, sun-dried tomatoes, artichokes, kalamata olives, and a sprinkle of feta cheese, accompanied by a glass of iced tea.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A bowl of Greek salad with diced zucchini, halved grape tomatoes, sliced onions, green peppers, green olives, and cheddar cheese, accompanied by a grilled fish, pancakes, and a cup of sour cream.\n\nB. A dish of Greek salad consisting of chopped lettuce, quartered tomatoes, diced onions, jalapeno peppers, green olives, and goat cheese, alongside a pork chop, tortillas, and a glass of milk.\n\nC. A plate of Greek salad, that is made of some peeled cucumber cubes, some cherry tomatoes cut in half, some shredded onion and pimiento, black olives, and some feta cheese. and some chicken fillet, griddle cake, and a bowl of yogurt next to them.\n\nD. A serving of Greek salad featuring cucumber slices, whole cherry tomatoes, chopped onions, bell peppers, black olives, and mozzarella cheese, with a side of beef steak, cornbread, and a bowl of ice",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A basket of fresh fruits including apples, bananas, and grapes, accompanied by a glass of orange juice and a slice of toast.\n\nB. A cozy breakfast scene featuring pancakes topped with syrup, a side of bacon, and a steaming cup of coffee.\n\nC. A plate of greek salad, that is made of some peeled cucumber cubes, some cherry tomatoes cut in half, some shredded onion and pimiento, black olives, and some feta cheese. and some chicken fillet, griddle cake, and a bowl of yogurt next to them.\n\nD. A picnic setup with a blanket spread out on the grass, a variety of sandwiches, a bottle of wine, and a bunch of flowers.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 84,
+        "img_url": "/shared/data/food_data/food_images/Greek_salad/Greek_salad_0097.jpg",
+        "reference_caption": [
+            "A serving of greek salad on a white plate, contains some cut lettuce, cucumber cubes, black olives, onions, cherry tomatoes, feta cheese, and some black pepper powder"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA) A serving of greek salad on a white plate, contains some cut spinach, zucchini slices, green olives, red onions, cherry tomatoes, cheddar cheese, and some paprika powder.\n\nB) A serving of greek salad on a white plate, contains some cut kale, cucumber slices, green peppers, onions, cherry tomatoes, goat cheese, and some oregano.\n\nC) A serving of greek salad on a white plate, contains some cut lettuce, cucumber cubes, black olives, onions, cherry tomatoes, feta cheese, and some black pepper powder.\n\nD) A serving of greek salad on a white plate, contains some cut romaine, cucumber rounds, black grapes, red onions, cherry tomatoes, mozzarella cheese, and some chili flakes.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A serving of greek salad on a white plate, contains some cut spinach, sliced carrots, white beans, onions, cherry tomatoes, tofu cubes, and some paprika powder.\n\nB. A serving of greek salad on a black plate, contains broccoli florets, cucumber slices, green olives, onions, cherry tomatoes, mozzarella cheese, and some chili flakes.\n\nC. A serving of greek salad on a white plate, contains some cut lettuce, cucumber cubes, black olives, onions, cherry tomatoes, feta cheese, and some black pepper powder.\n\nD. A serving of greek salad on a white dish, contains chopped kale, cucumber sticks, stuffed olives, onions, grape tomatoes, cheddar cheese, and some salt crystals.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A plate of spaghetti with meatballs, topped with marinara sauce, Parmesan cheese, and fresh basil leaves.\n\nB. A bowl of fruit salad featuring watermelon cubes, pineapple chunks, blueberries, and a sprig of mint.\n\nC. A serving of Greek salad on a white plate, contains some cut lettuce, cucumber cubes, black olives, onions, cherry tomatoes, feta cheese, and some black pepper powder.\n\nD. A platter of assorted cheeses and cold cuts, accompanied by crackers and a selection of nuts.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 85,
+        "img_url": "/shared/data/food_data/food_images/Greek_salad/Greek_salad_0093.jpg",
+        "reference_caption": [
+            "Some feta cheese with some black olives cubes, onion cubes, sweet pepper cubes, and some finely sliced lettuce made into a greek salad. And a plate of dried fruit fillet next to them."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. Some feta cheese with some black olives cubes, onion cubes, sweet pepper cubes, and some finely sliced lettuce made into a greek salad. And a plate of dried fruit fillet next to them.\n\nB. A bowl of sliced tomatoes, cucumbers, and lettuce with a sprinkle of parmesan cheese, accompanied by a side of hummus.\n\nC. A platter of assorted cheeses including cheddar and brie with grapes and sliced apples, and a side of crackers.\n\nD. A serving of pasta salad with cherry tomatoes, basil, and mozzarella balls, along with a side of garlic bread.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. Some feta cheese with some black olives cubes, onion cubes, sweet pepper cubes, and some finely sliced lettuce made into a Greek salad. And a plate of dried fruit fillet next to them.\n\nB. A bowl containing feta cheese, black olives, chopped onions, diced sweet peppers, and shredded lettuce forming a Mediterranean dish. A side of fresh fruit slices complements the meal.\n\nC. A salad made with mozzarella cheese, green olives, carrot cubes, and shredded cabbage. A platter of dried meat sits beside it.\n\nD. Several large chunks of feta cheese, whole olives, whole onions, and full peppers are placed over a bed of lettuce. A separate dish features fresh fruit mix.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Some feta cheese with some black olives cubes, onion cubes, sweet pepper cubes, and some finely sliced lettuce made into a Greek salad. And a plate of dried fruit fillet next to them.\n\nB. A bowl of ice cream topped with chocolate syrup and sprinkles, with a side of fresh strawberries.\n\nC. A steaming bowl of chicken noodle soup with carrots and celery, served with a slice of buttered bread.\n\nD. A stack of pancakes drizzled with maple syrup and a side of crispy bacon on a breakfast table.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 86,
+        "img_url": "/shared/data/food_data/food_images/Greek_salad/Greek_salad_0082.jpg",
+        "reference_caption": [
+            "A top view of Greek salad with fresh lettuce, chunky slices of tomato and cheese cubes."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA) A top view of fruit salad with fresh lettuce, chunky slices of apple and orange segments.\n\nB) A top view of Caesar salad with crispy croutons, shredded chicken and cheese shavings.\n\nC) A top view of Caprese salad with fresh basil, sliced tomatoes and mozzarella balls.\n\nD) A top view of Greek salad with fresh lettuce, chunky slices of tomato and cheese cubes.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A side view of Italian pasta with fresh spinach, thin slices of cucumber and cheese shreds.\n\nB. A top view of fruit salad with fresh apples, chunky slices of mango and cream cubes.\n\nC. A top view of Caesar salad with fresh kale, chunky pieces of chicken and crouton cubes.\n\nD. A top view of Greek salad with fresh lettuce, chunky slices of tomato and cheese cubes.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A top view of a fruit salad with fresh berries, sliced bananas, and chopped nuts.\n\nB. A top view of an Italian pasta dish with spaghetti, marinara sauce, and meatballs.\n\nC. A top view of a sushi platter with fresh fish, rice, and seaweed rolls.\n\nD. A top view of Greek salad with fresh lettuce, chunky slices of tomato and cheese cubes.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 87,
+        "img_url": "/shared/data/food_data/food_images/Greek_salad/Greek_salad_0094.jpg",
+        "reference_caption": [
+            "A serve of greek salad containing some cucumber cubes, pimiento cubes, black olives, onions, cherry tomatoes, feta cheese, and some chopped parsley"
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A serve of Greek salad containing some cucumber cubes, pimiento cubes, black olives, onions, cherry tomatoes, feta cheese, and some chopped parsley.\n\nB. A bowl of Caesar salad with romaine lettuce, croutons, parmesan cheese, and a creamy dressing.\n\nC. A fresh fruit platter featuring slices of watermelon, pineapple, grapes, and strawberries.\n\nD. A pasta salad with fusilli, cherry tomatoes, bell peppers, olives, and a sprinkle of parmesan cheese.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A serve of greek salad containing some cucumber cubes, pimiento cubes, black olives, onions, cherry tomatoes, feta cheese, and some chopped parsley.\n\nB. A dish of Italian salad with zucchini slices, red bell peppers, green olives, garlic, grape tomatoes, goat cheese, and fresh basil.\n\nC. A plate of Mediterranean salad with apple cubes, jalape\u00f1o slices, purple olives, red onions, cherry tomatoes, cheddar cheese, and cilantro sprigs.\n\nD. A bowl of mixed salad featuring carrot chunks, roasted peppers, green olives, leeks, cherry tomatoes, mozzarella cheese, and dill garnish.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A serve of greek salad containing some cucumber cubes, pimiento cubes, black olives, onions, cherry tomatoes, feta cheese, and some chopped parsley\n\nB. A bowl of mixed fruit with apples, bananas, oranges, and grapes, topped with a dollop of whipped cream\n\nC. A plate of pasta with a rich tomato sauce, sprinkled with parmesan cheese and garnished with basil leaves\n\nD. A serving of vegetable soup with carrots, potatoes, celery, and peas, accompanied by a slice of crusty bread",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 88,
+        "img_url": "/shared/data/food_data/food_images/Greek_salad/Greek_salad_0084.jpg",
+        "reference_caption": [
+            "Freshly-made Greek salad with cherry tomato halves, chunky cucumber slices, cheese cubes, and cooked quinoa."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA) Freshly-made Greek salad with cherry tomato halves, chunky cucumber slices, cheese cubes, and cooked quinoa.\n\nB) Freshly-made Greek salad with cherry tomato halves, sliced olives, crumbled feta cheese, and cooked quinoa.\n\nC) Freshly-made Greek salad with cherry tomato quarters, diced cucumbers, cheese cubes, and cooked barley.\n\nD) Freshly-made Greek salad with cherry tomato halves, chunky cucumber slices, cheese cubes, and grilled chicken.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. Freshly-made Greek salad with cherry tomato halves, chunky cucumber slices, cheese cubes, and cooked quinoa.\n\nB. Freshly-baked Greek salad with cherry tomato halves, sliced cucumbers, cheese chunks, and raw quinoa.\n\nC. Freshly-made Greek salad with tomatoes chopped, cucumbers diced, cheese shredded, and cooked couscous.\n\nD. Freshly-prepared Greek salad with whole cherry tomatoes, thin cucumber slices, feta chunks, and roasted quinoa.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. Freshly-made Greek salad with cherry tomato halves, chunky cucumber slices, cheese cubes, and cooked quinoa.\n\nB. A basket of freshly baked bread with butter and jam spread on a wooden table.\n\nC. A bowl of spicy chili with ground beef, kidney beans, and a sprinkle of cheddar cheese.\n\nD. A plate of sushi rolls with slices of fresh salmon, avocado, and a drizzle of soy sauce.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 89,
+        "img_url": "/shared/data/food_data/food_images/Greek_salad/Greek_salad_0087.jpg",
+        "reference_caption": [
+            "A large bowl of Greek salad with quartered tomatoes, chunky sliced cucumber, black olive halves, red onion slices, and feta cheese."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the painting?**\n\nA. A large bowl of Greek salad with quartered tomatoes, chunky sliced cucumber, black olive halves, red onion slices, and feta cheese.\n\nB. A large bowl of fruit salad with sliced apples, orange segments, grapes, and strawberries.\n\nC. A large plate of pasta with cherry tomatoes, basil leaves, sliced mushrooms, and parmesan cheese.\n\nD. A large bowl of Caesar salad with croutons, romaine lettuce, grilled chicken, and creamy dressing.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A large bowl of Greek salad with quartered tomatoes, chunky sliced cucumber, black olive halves, red onion slices, and feta cheese.\n\nB. A small plate of Greek salad with diced tomatoes, thinly sliced cucumber, green olives, white onion rings, and cheddar cheese.\n\nC. A large dish of Caesar salad featuring cherry tomatoes, sliced zucchini, whole black olives, chopped red onions, and parmesan cheese.\n\nD. A bowl of fruit salad containing quartered apples, sliced cucumber, olive quarters, red pepper rings, and goat cheese.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA) A large bowl of Greek salad with quartered tomatoes, chunky sliced cucumber, black olive halves, red onion slices, and feta cheese.\n\nB) A small plate of fruit with apple slices, grapes, and orange segments arranged in a circular pattern.\n\nC) A steaming bowl of chicken soup with noodles, carrots, and celery floating in the broth.\n\nD) A platter of assorted cheeses and crackers with a side of sliced apples and grapes.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 90,
+        "img_url": "/shared/data/food_data/food_images/Greek_salad/Greek_salad_0095.jpg",
+        "reference_caption": [
+            "A bowl of greek salad, that is made of some tomato cubes, pimiento cubes, black olives, grapes, onions, feta cheese, parsley, and some lettuce"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA) A bowl of greek salad, that is made of some apple slices, red peppers, green olives, grapes, onions, mozzarella cheese, basil, and some spinach\n\nB) A bowl of greek salad, that is made of some cucumber slices, bell pepper strips, black olives, grapes, onions, cheddar cheese, cilantro, and some cabbage\n\nC) A bowl of greek salad, that is made of some tomato cubes, pimiento cubes, black olives, grapes, onions, feta cheese, parsley, and some lettuce\n\nD) A bowl of greek salad, that is made of some zucchini cubes, jalapeno cubes, black olives, grapes, onions, goat cheese, dill, and some kale",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A bowl of fruit salad with apples, oranges, bananas, and strawberries, topped with whipped cream.\n\nB. A dish of Greek salad with potato cubes, bell pepper slices, green olives, raisins, onions, cheddar cheese, cilantro, and spinach leaves.\n\nC. A bowl of greek salad, that is made of some tomato cubes, pimiento cubes, black olives, grapes, onions, feta cheese, parsley, and some lettuce.\n\nD. A bowl of vegetable stew with carrots, peas, corn, mushrooms, chicken pieces, and spinach.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A bowl of fruit salad with apples, strawberries, bananas, and a splash of lemon juice.\n\nB. A bowl of pasta salad with penne, broccoli, sun-dried tomatoes, and a creamy dressing.\n\nC. A bowl of greek salad, that is made of some tomato cubes, pimiento cubes, black olives, grapes, onions, feta cheese, parsley, and some lettuce.\n\nD. A bowl of mixed nuts and dried fruits, including almonds, walnuts, raisins, and apricots.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 91,
+        "img_url": "/shared/data/food_data/food_images/Bean_pie/Bean_pie_0086.jpg",
+        "reference_caption": [
+            "one fraction of bean pie with a light brown coat made of mashed beans scooped out with a spoon."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A slice of apple pie with a golden crust, topped with a scoop of vanilla ice cream.\n\nB. One fraction of bean pie with a light brown coat made of mashed beans scooped out with a spoon.\n\nC. A piece of chocolate cake with a rich, dark frosting and a cherry on top.\n\nD. A portion of pumpkin pie with a flaky crust and a dollop of whipped cream.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA) A whole bean pie with a dark brown crust, served with a fork on a plate.\n\nB) One fraction of bean pie with a light brown coat made of mashed beans scooped out with a spoon.\n\nC) A slice of apple pie with a golden brown top and a scoop of vanilla ice cream on the side.\n\nD) A portion of bean pie with a crispy shell, cut with a knife and served on a white dish.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A slice of chocolate cake with a rich, dark brown layer is being served on a plate.\n\nB. One fraction of bean pie with a light brown coat made of mashed beans scooped out with a spoon.\n\nC. A wedge of apple pie topped with a scoop of vanilla ice cream is shown on a dessert plate.\n\nD. A portion of pumpkin pie with a flaky crust is displayed next to a dollop of whipped cream.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 92,
+        "img_url": "/shared/data/food_data/food_images/Bean_pie/Bean_pie_0093.jpg",
+        "reference_caption": [
+            "A baked golden bean pie in a stainless steel tray, and two plates with baked bean pie next to it."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A stainless steel tray with a golden apple pie, and two plates with slices of apple pie next to it.\n\nB. A stainless steel tray with a baked pasta dish, and two bowls of pasta on the side.\n\nC. A baked golden bean pie in a stainless steel tray, and two plates with baked bean pie next to it.\n\nD. A stainless steel tray with a roasted vegetable medley, and two plates with salad on the side.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A golden pie with beans is sitting on a table, surrounded by cups and saucers.\n\nB. A silver platter with a golden cake and two slices of bread on separate plates.\n\nC. A baked golden bean pie in a stainless steel tray, and two plates with baked bean pie next to it.\n\nD. A tray with a golden pie and some fruits, with two empty plates beside it.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A freshly baked loaf of bread on a wooden cutting board, surrounded by ripe tomatoes and basil leaves.\n\nB. A golden apple pie cooling on a windowsill, with a scenic view of a garden outside.\n\nC. A baked golden bean pie in a stainless steel tray, and two plates with baked bean pie next to it.\n\nD. A collection of assorted cheeses and crackers arranged on a marble countertop, with a glass of red wine nearby.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 93,
+        "img_url": "/shared/data/food_data/food_images/Bean_pie/Bean_pie_0083.jpg",
+        "reference_caption": [
+            "a piece of bean pie put on a carving plate cut out of a whole box of pie made of beans."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the painting?**\n\nA. A slice of pumpkin pie served on a decorative wooden platter, taken from a full pie.\n\nB. A piece of apple tart set on a ceramic dish, with the rest of the tart visible in the background.\n\nC. A portion of chocolate cake placed on a silver tray, with the remainder of the cake nearby.\n\nD. A piece of bean pie put on a carving plate cut out of a whole box of pie made of beans.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. a slice of apple pie placed on a wooden board cut from a large box of apple pie.\n\nB. a portion of bean pie served on a cutting board carved from an entire box of pies made with peas.\n\nC. a chunk of bean cake placed on a chopping plate sliced out of a full box of cake made from beans.\n\nD. a piece of bean pie put on a carving plate cut out of a whole box of pie made of beans.",
+        "multiple_choice_question_easy": "**Which of the following captions best describes the painting?**\n\nA. A slice of apple pie served on a decorative dish from a fruit-themed dessert.\n\nB. A piece of chocolate cake placed on a wooden tray, surrounded by rich cocoa.\n\nC. A wedge of cheese resting on a marble platter, accompanied by a selection of crackers.\n\nD. A piece of bean pie put on a carving plate cut out of a whole box of pie made of beans.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 94,
+        "img_url": "/shared/data/food_data/food_images/Bean_pie/Bean_pie_0096.jpg",
+        "reference_caption": [
+            "A golden bean pie with a yellow edge embedded with many plump dark brown walnuts."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA) A golden bean pie with a yellow edge embedded with many plump dark brown walnuts.\n\nB) A golden bean pie with a caramelized crust and a sprinkle of almonds.\n\nC) A yellow sponge cake topped with chocolate chips and sliced almonds.\n\nD) A walnut loaf with a golden brown crust and a hint of cinnamon flavor.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A golden bean pie with a yellow edge embedded with many plump dark brown walnuts.\n\nB. A golden pie with green edges filled with small pale almonds.\n\nC. A pie with a silver crust and sprinkled with tiny red berries.\n\nD. A golden pie with a yellow edge covered in large chocolate chips.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A golden bean pie with a yellow edge embedded with many plump dark brown walnuts.\n\nB. A silver teapot surrounded by a field of colorful flowers.\n\nC. A bright blue vase filled with red roses on a wooden table.\n\nD. A tall glass of orange juice beside a stack of pancakes with syrup.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "A",
+        "multiple_choice_prediction_Phi_hard": "A"
+    },
+    {
+        "id": 95,
+        "img_url": "/shared/data/food_data/food_images/Bean_pie/Bean_pie_0084.jpg",
+        "reference_caption": [
+            "a selection of bean pie with dense fillings wrapped with a crispy crust."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A selection of bean pie with dense fillings wrapped with a crispy crust.\n\nB. A display of fruit tarts with a flaky buttery crust.\n\nC. An assortment of pastries with light cream fillings and powdered sugar.\n\nD. A collection of savory pies with meat and vegetable fillings.",
+        "multiple_choice_question_medium": "**Which of the following captions best describes the painting?**\n\nA) A selection of bean pie with dense fillings wrapped with a crispy crust.\n\nB) A variety of fruit tarts with light and fluffy fillings encased in a soft shell.\n\nC) An assortment of meat pastries with spicy fillings surrounded by a thick dough.\n\nD) A collection of vegetable pies with watery fillings and a chewy crust.",
+        "multiple_choice_question_easy": "Question: Which of the following captions best describes the painting?\n\nA. A selection of bean pie with dense fillings wrapped with a crispy crust.\n\nB. A collection of fruit tarts with a light and fluffy filling in a soft pastry.\n\nC. An assortment of sushi rolls with fresh fish and a layer of seaweed.\n\nD. A display of colorful macarons with creamy centers and delicate shells.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 96,
+        "img_url": "/shared/data/food_data/food_images/Bean_pie/Bean_pie_0095.jpg",
+        "reference_caption": [
+            "A golden bean pie and some pork fried soybeans on a white round plate"
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A golden tofu pie and some roasted chickpeas on a white square plate\n\nB. A golden apple tart and some candied walnuts on a white round plate\n\nC. A golden bean pie and some pork fried soybeans on a white round plate\n\nD. A golden potato pie and some fried almonds on a white round platter",
+        "multiple_choice_question_medium": "### Which of the following captions best describes the painting?\n\nA) A golden bean pie and some fried pork on a square blue plate\n\nB) A silver bean pie with roasted pork beans on a circular dish\n\nC) A golden bean pie and some pork fried soybeans on a white round plate\n\nD) A golden pie made of beans with pork soybeans on a rectangular white plate",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A stack of pancakes with syrup and butter on a blue square plate\n\nB. A bowl of fruit salad featuring apples and oranges\n\nC. A golden bean pie and some pork fried soybeans on a white round plate\n\nD. A grilled cheese sandwich with tomato soup on a wooden tray",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "C"
+    },
+    {
+        "id": 97,
+        "img_url": "/shared/data/food_data/food_images/Bean_pie/Bean_pie_0092.jpg",
+        "reference_caption": [
+            "A plate of bean pie with a yellow edge and orange skin, and a napkin, a fork, and a knife next to it."
+        ],
+        "multiple_choice_solution": "D",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A plate of apple pie with a golden crust and a spoon beside it.\n\nB. A plate of pumpkin pie with a brown rim and a glass of milk next to it.\n\nC. A plate of cherry tart with a red border and a pair of chopsticks beside it.\n\nD. A plate of bean pie with a yellow edge and orange skin, and a napkin, a fork, and a knife next to it.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A plate filled with a green pie and a red edge, with a spoon, two forks, and a napkin beside it.\n\nB. A bowl of bean pudding with a silver lining and blue accents, and a cup, a spoon, and a napkin nearby.\n\nC. A dish of chocolate cake with a white border and purple topping, accompanied by a knife, a fork, and a napkin.\n\nD. A plate of bean pie with a yellow edge and orange skin, and a napkin, a fork, and a knife next to it.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A vibrant collection of tropical fruits including bananas, pineapples, and mangos on a wooden table.\n\nB. A breakfast scene with a cup of coffee, a croissant, and a newspaper on a kitchen counter.\n\nC. A colorful salad with mixed greens, cherry tomatoes, and sliced cucumbers on a yellow plate.\n\nD. A plate of bean pie with a yellow edge and orange skin, and a napkin, a fork, and a knife next to it.",
+        "multiple_choice_prediction_Phi_easy": "D",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 98,
+        "img_url": "/shared/data/food_data/food_images/Bean_pie/Bean_pie_0091.jpg",
+        "reference_caption": [
+            "A dark brown bean pie with a golden edge on a tray placed on a stainless steel net."
+        ],
+        "multiple_choice_solution": "C",
+        "multiple_choice_question_hard": "**Which of the following captions best describes the painting?**\n\nA. A golden brown apple pie with a thin crust on a wooden board placed on a wire rack.\n\nB. A dark chocolate tart with a flaky edge on a ceramic plate placed on a glass table.\n\nC. A dark brown bean pie with a golden edge on a tray placed on a stainless steel net.\n\nD. A caramel-colored cake with a crispy edge on a baking sheet placed on a metal grid.",
+        "multiple_choice_question_medium": "Which of the following captions best describes the painting?\n\nA. A chocolate cake with caramel edges on a plate sitting on a wooden table.\n\nB. A dark brown pie with silver crust resting on a grill rack.\n\nC. A dark brown bean pie with a golden edge on a tray placed on a stainless steel net.\n\nD. A coffee pastry with a bronze border on a ceramic dish over a wire mesh.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA) A chocolate cake with white frosting sitting on a wooden table next to a glass of milk.\n\nB) A golden-brown waffle topped with syrup and fresh strawberries on a white plate.\n\nC) A dark brown bean pie with a golden edge on a tray placed on a stainless steel net.\n\nD) A loaf of bread with a crispy crust on a cutting board surrounded by a few slices of cheese.",
+        "multiple_choice_prediction_Phi_easy": "C",
+        "multiple_choice_prediction_Phi_medium": "C",
+        "multiple_choice_prediction_Phi_hard": "D"
+    },
+    {
+        "id": 99,
+        "img_url": "/shared/data/food_data/food_images/Bean_pie/Bean_pie_0082.jpg",
+        "reference_caption": [
+            "a bean pie with scratches on the crispy surface which is caramel color fading from the edge to the center."
+        ],
+        "multiple_choice_solution": "B",
+        "multiple_choice_question_hard": "Which of the following captions best describes the painting?\n\nA. A bean pie with a smooth, glossy surface and a uniform golden color.\n\nB. A bean pie with scratches on the crispy surface which is caramel color fading from the edge to the center.\n\nC. A bean pie with a flaky crust and a dark chocolate color throughout.\n\nD. A bean pie with a shiny glaze and a light yellow hue from the center to the edge.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA) A pie that is burnt on the edges with a smooth, shiny surface all over.\n\nB) A bean pie with scratches on the crispy surface which is caramel color fading from the edge to the center.\n\nC) A bean pie with a completely smooth and glossy finish without any color gradient.\n\nD) A pie that is covered in chocolate with no visible surface details.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A chocolate cake with a shiny glaze and sprinkles on top.\n\nB. A bean pie with scratches on the crispy surface which is caramel color fading from the edge to the center.\n\nC. A loaf of bread with seeds on the crust and a golden brown hue throughout.\n\nD. A pizza with pepperoni slices and a cheese-stuffed crust.",
+        "multiple_choice_prediction_Phi_easy": "B",
+        "multiple_choice_prediction_Phi_medium": "B",
+        "multiple_choice_prediction_Phi_hard": "B"
+    },
+    {
+        "id": 100,
+        "img_url": "/shared/data/food_data/food_images/Bean_pie/Bean_pie_0081.jpg",
+        "reference_caption": [
+            "a baked pie made of beans covered with coriander put on a green plate with a floral border."
+        ],
+        "multiple_choice_solution": "A",
+        "multiple_choice_question_hard": "Question: Which of the following captions best describes the painting?\n\nA. A baked pie made of beans covered with coriander put on a green plate with a floral border.\n\nB. A baked pie made of peas covered with parsley put on a green plate with a floral border.\n\nC. A baked pie made of beans covered with basil placed on a green plate with a floral design.\n\nD. A baked pie made of beans garnished with cilantro served on a green plate with a decorative edge.",
+        "multiple_choice_question_medium": "Question: Which of the following captions best describes the painting?\n\nA. A baked pie made of beans covered with coriander put on a green plate with a floral border.\n\nB. A grilled pie with beans and mint leaves on a yellow dish with a floral pattern.\n\nC. A pie of beans mixed with parsley served on a blue plate with a geometric border.\n\nD. A baked bean pie topped with coriander on a green dish with no decoration.",
+        "multiple_choice_question_easy": "Which of the following captions best describes the painting?\n\nA. A baked pie made of beans covered with coriander put on a green plate with a floral border.\n\nB. A stack of pancakes drizzled with syrup and topped with fresh strawberries on a white plate.\n\nC. A bowl of steaming hot soup filled with noodles and vegetables served in a red and gold bowl.\n\nD. A platter of assorted cheeses and grapes arranged on a wooden cutting board.",
+        "multiple_choice_prediction_Phi_easy": "A",
+        "multiple_choice_prediction_Phi_medium": "D",
+        "multiple_choice_prediction_Phi_hard": "D"
+    }
+]
