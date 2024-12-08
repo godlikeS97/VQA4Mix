@@ -52,8 +52,8 @@ This repository contains the implementation and experiments for **VQA4Mix**, foc
 ---
 
 ## Example Results
+![Evaluation Result](eval_result.png "Evaluation Result")
 
-xxxxxxxx
 ---
 
 
