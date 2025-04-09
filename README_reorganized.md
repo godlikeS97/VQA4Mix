@@ -2,6 +2,8 @@
 
 VQA4Mix is a research project focused on evaluating the limitations of generative models in image captioning through Visual Question Answering (VQA) with multiple-choice questions across different image categories (food, painting, people, and cat).
 
+[📄 Read the full research paper](https://drive.google.com/file/d/1-dq6NsvnmOAdPGqJjVRqigCA1hV_Ekh3/view)
+
 ## Research Focus
 
 This project investigates the limitations of generative AI models in image captioning by:
@@ -133,6 +135,20 @@ Preliminary results indicate:
 - Models struggle more with certain visual domains (e.g., paintings) compared to others
 - Image augmentations can significantly impact model performance
 - The difficulty level of questions strongly correlates with model accuracy
+
+## Citation
+
+If you use this code or our findings in your research, please cite our paper:
+
+```bibtex
+@article{vqa4mix2023,
+  title={Evaluating the Limitations of Generative Models in Image Captioning},
+  author={Sun, Yan and [Other Authors]},
+  journal={},
+  year={2023},
+  url={https://drive.google.com/file/d/1-dq6NsvnmOAdPGqJjVRqigCA1hV_Ekh3/view}
+}
+```
 
 ## License
 
