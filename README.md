@@ -56,8 +56,9 @@ This repository contains the implementation and experiments for **VQA4Mix**, foc
 
 ---
 
-## Report Paper:
-Evaluating the Limitations of Generative Models in Image Captioning[https://drive.google.com/file/d/1-dq6NsvnmOAdPGqJjVRqigCA1hV_Ekh3/view]
+## Report Paper
+[Evaluating the Limitations of Generative Models in Image Captioning](https://drive.google.com/file/d/1-dq6NsvnmOAdPGqJjVRqigCA1hV_Ekh3/view)
+
 
 ## Contact
 
